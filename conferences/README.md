@@ -4,7 +4,7 @@ Domaines : sécurité matérielle, architecture, cybersécurité, cryptographie 
 
 > **Attention :** dates provenant de calendriers communautaires. Vérifier impérativement les échéances sur le site officiel avant toute soumission. Les rangs CORE affichés sont **indicatifs** et ne constituent pas une vérification du classement ICORE 2026.
 
-**Actualisé le :** 29/10/2026 · **Fuseau horaire des échéances :** Europe/Paris (conversion lorsque le flux fournit un fuseau).
+**Actualisé le :** 30/10/2026 · **Fuseau horaire des échéances :** Europe/Paris (conversion lorsque le flux fournit un fuseau).
 
 [Consulter le classement officiel ICORE](https://portal.core.edu.au/conf-ranks/?by=all) · [Research Conference Deadlines](https://conference-deadlines.github.io/) · [Security Deadlines](https://sec-deadlines.github.io/)
 
