@@ -11,7 +11,8 @@
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
-- [2026-02 — 5 publication(s)](historical/2026/02.md)
+- [2026-03 — 7 publication(s)](historical/2026/03.md)
+- [2026-02 — 6 publication(s)](historical/2026/02.md)
 - [2026-01 — 11 publication(s)](historical/2026/01.md)
 - [2025-12 — 5 publication(s)](historical/2025/12.md)
 - [2025-11 — 10 publication(s)](historical/2025/11.md)
