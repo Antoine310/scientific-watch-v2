@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [SCHERI: Provably Secure Speculation Under the Constant-Time Policy for CHERI (Extended Version)](historical/2026/09.md) | Bibliographie historique |
+| 2026-11-02 | [Efficient Linkage-Based Compartmentalization on CHERI](historical/2026/09.md) | Bibliographie historique |
+| 2026-11-02 | [From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges](historical/2026/09.md) | Bibliographie historique |
 | 2026-11-02 | [Root-Cause Analysis of ISA-Level Power Side-Channel Leaks in RISC-V Cryptographic Implementations](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Counterfactual Exploit Validation on CHERI-enabled RISC-V Using Virtual Prototypes *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [NACRE: Rethinking Confidential Containers through Native Architectural Support](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [Chypothermia: Clock Freezing for Static Side-channel Attacks](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [Exploiting Software-level Abstractions To Support Practical Hardware Trojan Attacks](historical/2026/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
