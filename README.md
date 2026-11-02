@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-02 | [Extending Layered Attestation into ARM Application Run-Times](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Foundations of Hardware-Software Leakage Contracts](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Protecting CPU AI On Edge TEEs: WebAssembly's Promise and Practical Challenges](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [RISCGuard: RISC-V Static Analysis Framework for Detecting Microarchitectural Vulnerabilities](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [FreeSBee: A Constant-Time Compilation Pipeline](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [RV2GC: Reconstructing the Garbling Boundary in a RISC-V Garbled Processor](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production?](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
