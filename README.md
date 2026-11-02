@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [RAVEN: A Virtual Platform for RISC-V Microarchitectural Security](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [Making Hardware Features Bespoke: Operating System Support for Bes-Mode Processes](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [RealmEye: Virtual Machine Introspection for Arm CCA Realm VMs](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-02 | [AMD SEV-SNP: A Confidential Computing Primer](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-02 | [Characterizing the Variance Envelope: A Multi-Dimensional Analysis of Spectre Telemetry Across Architectures and Workloads](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [ROLoad-PMP: Securing Sensitive Operations for Kernels and Bare-Metal Firmware](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [MATEE: Efficiently Bridging the Semantic Gap in TrustZone via Arm Pointer Authentication](historical/2026/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
