@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-02 | [BHARAT-TPM: Micro-Architecture Design of AXI Enabled HMAC SHA-3 Hardware Accelerator for a RISC-V Trusted Platform Module *(date indicative)*](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [BHARAT-TPM: Micro-Architecture Design of AXI Enabled SM3 Hardware Accelerator for a RISC-V Trusted Platform Module *(date indicative)*](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [RISC-Based Secure Architecture for Data-Flow Integrity in Modern Embedded and Edge Systems](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [RAVEN: A Virtual Platform for RISC-V Microarchitectural Security](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [Making Hardware Features Bespoke: Operating System Support for Bes-Mode Processes](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts](historical/2026/07.md) | Bibliographie historique |
+| 2026-11-02 | [Automated Template-free Synthesis of Instruction-Centric Leakage Contracts for Black-Box CPUs](historical/2026/07.md) | Bibliographie historique |
+| 2026-11-02 | [Preserving Runtime Control-Flow Integrity Transparently Through Hardware-Based Stack Confidentiality and Integrity on RISC-V IoT Devices](historical/2026/07.md) | Bibliographie historique |
+| 2026-11-02 | [SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](historical/2026/07.md) | Bibliographie historique |
+| 2026-11-02 | [SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow](historical/2026/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
