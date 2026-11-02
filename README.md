@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [RISCGuard: RISC-V Static Analysis Framework for Detecting Microarchitectural Vulnerabilities](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Resource-constrained Remote Attestation of Smart Meters Using Merkle Trees in a Trusted Execution Environment](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Technological Sovereignty and Hardware Security for Mission-Critical Applications: An Audit-Verified Open RISC-V SoC Architecture on FPGA with In-Memory Accelerators and Monetization Framework](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [WasmStone: Enabling Transparent Execution of Standalone WebAssembly Applications in Keystone](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Novel Microarchitectural Side-Channel Attacks on Open-Source RISC-V Cores](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [Secure RISC-V architectures for brain-inspired computing](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [RISC-V hardware attack detection using on-chip hardware performance counters](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [CacheGhost: A fileless cache timing attack model using adaptive eviction patterns for browser activity fingerprinting](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [VSpector: Specification-Driven Bug Detection for RISC-V CPUs](historical/2026/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
