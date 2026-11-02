@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [Déjà Vu: Prevailing security vulnerabilities in TZ-assisted TEE systems *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [GC-Assisted Runtime Integrity Verification for Heap-Resident Bytecode in an FPGA-Based Virtual Machine](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Hardware Lazy PAT: Making Memory Encryption with Integrity Verification Unobtrusive](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [ChipGuard-AI: A Hardware-Assisted Unified Framework for Adversarial and Side-Channel Resilience in Consumer Electronics](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [FreeSBee: A Constant-Time Compilation Pipeline](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
