@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [Extending Layered Attestation into ARM Application Run-Times](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Foundations of Hardware-Software Leakage Contracts](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Protecting CPU AI On Edge TEEs: WebAssembly's Promise and Practical Challenges](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [RISCGuard: RISC-V Static Analysis Framework for Detecting Microarchitectural Vulnerabilities](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Resource-constrained Remote Attestation of Smart Meters Using Merkle Trees in a Trusted Execution Environment](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Technological Sovereignty and Hardware Security for Mission-Critical Applications: An Audit-Verified Open RISC-V SoC Architecture on FPGA with In-Memory Accelerators and Monetization Framework](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [WasmStone: Enabling Transparent Execution of Standalone WebAssembly Applications in Keystone](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Novel Microarchitectural Side-Channel Attacks on Open-Source RISC-V Cores](historical/2026/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -41,7 +41,7 @@
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
-- [2026-10 — 4 publication(s)](historical/2026/10.md)
+- [2026-10 — 1 publication(s)](historical/2026/10.md)
 - [2026-09 — 6 publication(s)](historical/2026/09.md)
 - [2026-08 — 9 publication(s)](historical/2026/08.md)
 - [2026-07 — 6 publication(s)](historical/2026/07.md)
