@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [Hardware Lazy PAT: Making Memory Encryption with Integrity Verification Unobtrusive](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [ChipGuard-AI: A Hardware-Assisted Unified Framework for Adversarial and Side-Channel Resilience in Consumer Electronics](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [FreeSBee: A Constant-Time Compilation Pipeline](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [RV2GC: Reconstructing the Garbling Boundary in a RISC-V Garbled Processor](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
