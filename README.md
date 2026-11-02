@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [FreeSBee: A Constant-Time Compilation Pipeline](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [RV2GC: Reconstructing the Garbling Boundary in a RISC-V Garbled Processor](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production?](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
