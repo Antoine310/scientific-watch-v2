@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [TEEMATE: Fast and Efficient Confidential Container using Shared Enclave](historical/2024/11.md) | Bibliographie historique |
+| 2026-11-02 | [DeTRAP: RISC-V Return Address Protection With Debug Triggers](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-02 | [Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-02 | [Verifiable and Confidential DNN Inference on Low-End Edge Devices](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-02 | [From RISC to Risk: Exception Handling as a Gateway to Exploitation](historical/2026/07.md) | Bibliographie historique |
-| 2026-11-02 | [Microarchitectural Analysis of Speculative Execution Patterns in RISC-V using Machine Learning and ISA-Level Masking Wrappers](historical/2026/07.md) | Bibliographie historique |
-| 2026-11-02 | [Compositional Design Principles for Hardware-Backed Platform Security](historical/2026/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
