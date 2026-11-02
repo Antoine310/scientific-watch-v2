@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-02 | [Déjà Vu: Prevailing security vulnerabilities in TZ-assisted TEE systems *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [GC-Assisted Runtime Integrity Verification for Heap-Resident Bytecode in an FPGA-Based Virtual Machine](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Hardware Lazy PAT: Making Memory Encryption with Integrity Verification Unobtrusive](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [ChipGuard-AI: A Hardware-Assisted Unified Framework for Adversarial and Side-Channel Resilience in Consumer Electronics](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Root-Cause Analysis of ISA-Level Power Side-Channel Leaks in RISC-V Cryptographic Implementations](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [Counterfactual Exploit Validation on CHERI-enabled RISC-V Using Virtual Prototypes *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-02 | [NACRE: Rethinking Confidential Containers through Native Architectural Support](historical/2026/09.md) | Bibliographie historique |
+| 2026-11-02 | [Chypothermia: Clock Freezing for Static Side-channel Attacks](historical/2026/09.md) | Bibliographie historique |
+| 2026-11-02 | [Exploiting Software-level Abstractions To Support Practical Hardware Trojan Attacks](historical/2026/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
