@@ -11,20 +11,17 @@
 
 ### Google Scholar et veille scientifique
 
-| Ajout | Publication | Source |
-| --- | --- | --- |
-| 2026-11-02 | [GhostAccess: Attacking the GPU on the Multi-tenant Cloud via CPU LLC under Unified Memory](scholar/README.md) | Google Scholar |
-| 2026-11-02 | [Reverse Engineering and Systematic Evaluation of Prefetcher-Based Security Vulnerabilities in Commercial RISC-V Processors](scholar/README.md) | Google Scholar |
+Aucune nouvelle publication identifiable cette semaine.
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-02 | [ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [KORD: Breaking the Key-Generation Bottleneck in Dealerless FSS via Protocol--Hardware Co-Design](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [SILK: Closing the Time-of-Check-to-Time-of-Use Gap in RoT-Protected AI Systems](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [Implementing a Secure Boot System on a 32-Bit RISC-V CPU on FPGA](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-02 | [Partitionnement dynamique à grain fin contre des attaques par canaux auxiliaires en cache](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-02 | [AMD SEV-SNP: A Confidential Computing Primer](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [Characterizing the Variance Envelope: A Multi-Dimensional Analysis of Spectre Telemetry Across Architectures and Workloads](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [ROLoad-PMP: Securing Sensitive Operations for Kernels and Bare-Metal Firmware](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [MATEE: Efficiently Bridging the Semantic Gap in TrustZone via Arm Pointer Authentication](historical/2026/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
