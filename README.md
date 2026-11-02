@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [TagGuard: Peripheral-to-Pipeline Hardware DIFT for Bare-Metal RISC-V *(date indicative)*](historical/2026/09.md) | Bibliographie historique |
 | 2026-11-02 | [Turtle Walk: Stopping Timing Attack on NoC](historical/2026/09.md) | Bibliographie historique |
 | 2026-11-02 | [Breaking the Area Limit of Composable Gadgets](historical/2026/09.md) | Bibliographie historique |
 | 2026-11-02 | [SCHERI: Provably Secure Speculation Under the Constant-Time Policy for CHERI (Extended Version)](historical/2026/09.md) | Bibliographie historique |
 | 2026-11-02 | [Efficient Linkage-Based Compartmentalization on CHERI](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges](historical/2026/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
