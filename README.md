@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [SPLASH: SPeculative Leakage-Adaptive Secure Hardware](historical/2026/07.md) | Bibliographie historique |
+| 2026-11-02 | [Hardware-Based Confidential Computing: Security Objectives and Mechanisms](historical/2026/07.md) | Bibliographie historique |
+| 2026-11-02 | [Leakback CRC: Optical Plaintext Recovery of Encrypted Bitstreams on AMD 7-Series FPGAs](historical/2026/07.md) | Bibliographie historique |
 | 2026-11-02 | [Pontis: A decentralized framework for unifying remote attestation and enabling interoperability between heterogeneous TEEs *(date indicative)*](historical/2026/07.md) | Bibliographie historique |
 | 2026-11-02 | [Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts](historical/2026/07.md) | Bibliographie historique |
-| 2026-11-02 | [Automated Template-free Synthesis of Instruction-Centric Leakage Contracts for Black-Box CPUs](historical/2026/07.md) | Bibliographie historique |
-| 2026-11-02 | [Preserving Runtime Control-Flow Integrity Transparently Through Hardware-Based Stack Confidentiality and Integrity on RISC-V IoT Devices](historical/2026/07.md) | Bibliographie historique |
-| 2026-11-02 | [SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](historical/2026/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
