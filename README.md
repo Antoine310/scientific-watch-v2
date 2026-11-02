@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-02 | [TagGuard: Peripheral-to-Pipeline Hardware DIFT for Bare-Metal RISC-V *(date indicative)*](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [Turtle Walk: Stopping Timing Attack on NoC](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [Breaking the Area Limit of Composable Gadgets](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [SCHERI: Provably Secure Speculation Under the Constant-Time Policy for CHERI (Extended Version)](historical/2026/09.md) | Bibliographie historique |
-| 2026-11-02 | [Efficient Linkage-Based Compartmentalization on CHERI](historical/2026/09.md) | Bibliographie historique |
+| 2026-11-02 | [Implementing a Secure Boot System on a 32-Bit RISC-V CPU on FPGA](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-02 | [Partitionnement dynamique à grain fin contre des attaques par canaux auxiliaires en cache](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-02 | [SpecCFA: Enhancing Control Flow Attestation/Auditing via Application-Aware Sub-Path Speculation](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-02 | [Specification and Verification of Strong Timing Isolation of Hardware Enclaves](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-02 | [Security Properties for Open-Source Hardware Designs](historical/2024/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
