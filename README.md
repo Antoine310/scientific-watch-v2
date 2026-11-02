@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [BHARAT-TPM: Micro-Architecture Design of AXI Enabled HMAC SHA-3 Hardware Accelerator for a RISC-V Trusted Platform Module *(date indicative)*](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [BHARAT-TPM: Micro-Architecture Design of AXI Enabled SM3 Hardware Accelerator for a RISC-V Trusted Platform Module *(date indicative)*](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-02 | [RISC-Based Secure Architecture for Data-Flow Integrity in Modern Embedded and Edge Systems](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-02 | [RAVEN: A Virtual Platform for RISC-V Microarchitectural Security](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-02 | [Making Hardware Features Bespoke: Operating System Support for Bes-Mode Processes](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [RealmEye: Virtual Machine Introspection for Arm CCA Realm VMs](historical/2026/08.md) | Bibliographie historique |
-| 2026-11-02 | [AMD SEV-SNP: A Confidential Computing Primer](historical/2026/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
