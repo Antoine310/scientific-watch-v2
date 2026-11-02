@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [KORD: Breaking the Key-Generation Bottleneck in Dealerless FSS via Protocol--Hardware Co-Design](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-02 | [SILK: Closing the Time-of-Check-to-Time-of-Use Gap in RoT-Protected AI Systems](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-02 | [Implementing a Secure Boot System on a 32-Bit RISC-V CPU on FPGA](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-02 | [Partitionnement dynamique à grain fin contre des attaques par canaux auxiliaires en cache](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-02 | [SpecCFA: Enhancing Control Flow Attestation/Auditing via Application-Aware Sub-Path Speculation](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-02 | [Specification and Verification of Strong Timing Isolation of Hardware Enclaves](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-02 | [Security Properties for Open-Source Hardware Designs](historical/2024/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
