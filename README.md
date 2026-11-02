@@ -15,19 +15,16 @@
 | --- | --- | --- |
 | 2026-11-02 | [GhostAccess: Attacking the GPU on the Multi-tenant Cloud via CPU LLC under Unified Memory](scholar/README.md) | Google Scholar |
 | 2026-11-02 | [Reverse Engineering and Systematic Evaluation of Prefetcher-Based Security Vulnerabilities in Commercial RISC-V Processors](scholar/README.md) | Google Scholar |
-| 2026-11-01 | [Implicit end-point attestation for trusted channel establishment in the keystone TEE](reports/2026/week-44.md) | Rapport hebdomadaire |
-| 2026-11-01 | [RingTrace: Model-Free Spatio-Temporal Detection and Core Attribution for Cache Side-Channels](reports/2026/week-44.md) | Rapport hebdomadaire |
-| 2026-11-01 | [Toward Trustworthy Simulation-Based Security Evaluation: A TPM-PUF Root of Trust for RISC-V in gem5](reports/2026/week-44.md) | Rapport hebdomadaire |
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-02 | [GC-Assisted Runtime Integrity Verification for Heap-Resident Bytecode in an FPGA-Based Virtual Machine](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Hardware Lazy PAT: Making Memory Encryption with Integrity Verification Unobtrusive](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [ChipGuard-AI: A Hardware-Assisted Unified Framework for Adversarial and Side-Channel Resilience in Consumer Electronics](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
 | 2026-11-02 | [FreeSBee: A Constant-Time Compilation Pipeline](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-02 | [PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
