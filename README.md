@@ -34,7 +34,7 @@
 <!-- SCIENTIFIC-WATCH-REPORTS:END -->
 
 <!-- SCIENTIFIC-WATCH-HISTORY:START -->
-## Bibliographie historique (depuis janvier 2025)
+## Bibliographie historique (depuis janvier 2024)
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
@@ -60,4 +60,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2025-03 — 0 publication(s)](historical/2025/03.md)
 - [2025-02 — 2 publication(s)](historical/2025/02.md)
 - [2025-01 — 14 publication(s)](historical/2025/01.md)
+- [2024-12 — 5 publication(s)](historical/2024/12.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
