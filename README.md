@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Secure Implementation of RISC-V’s Scalar Cryptography Extension Set](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [$$\\texttt {ARCHER}$$: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [AttestaChain: A Chiplet-aware attestation system based on Blockchain and Zero-Trust Architecture](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [It’s TEEtime: Secure Interrupt Isolation for Normal-world Enclaves on Arm](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [AI-Enhanced Trust Graph Analytics over Distributed Ledgers for Verifiable Hardware and Software Provenance in US National Security Networks](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [PDRIMA: A Policy-Driven Runtime Integrity Measurement and Attestation Approach for ARM TrustZone-based TEE](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-03 | [Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-03 | [GoldenFuzz: Generative Golden Reference Hardware Fuzzing](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-03 | [Lost in the Pages: WebAssembly Code Recovery through SEV-SNP's Exposed Address Space](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-03 | [PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference](historical/2025/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -45,7 +45,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2026-03 — 13 publication(s)](historical/2026/03.md)
 - [2026-02 — 19 publication(s)](historical/2026/02.md)
 - [2026-01 — 19 publication(s)](historical/2026/01.md)
-- [2025-12 — 8 publication(s)](historical/2025/12.md)
+- [2025-12 — 5 publication(s)](historical/2025/12.md)
 - [2025-11 — 10 publication(s)](historical/2025/11.md)
 - [2025-10 — 4 publication(s)](historical/2025/10.md)
 - [2025-09 — 2 publication(s)](historical/2025/09.md)
