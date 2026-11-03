@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Spectre Attacks Detection in RISC-V Processors Using Hardware-Level Machine Learning Models](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [Modular Architecture for Interoperable and Continuous Remote Attestation](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [Lightweight Hardware Security Framework for IoT-Based Photovoltaic Monitoring Systems Using OTP and SRAM-PUF](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-03 | [Cerisier: A Program Logic for Attestation in a Capability Machine](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-03 | [Architecture Design and Implementation of a Custom Protocol-Based JTAG Debugging Protection System for Enhanced Hardware Security](historical/2026/06.md) | Bibliographie historique |
-| 2026-11-03 | [An Open Hardware ML-KEM Polynomial Ring Accelerator on Chipyard RISC-V SoC: System-Level Integration and Evaluation](historical/2026/06.md) | Bibliographie historique |
-| 2026-11-03 | [TzPy: Python Runtime for Edge Code Deployment on TrustZone](historical/2026/06.md) | Bibliographie historique |
-| 2026-11-03 | [FUZZItizer: Hardware Sanitizer-Assisted Fuzzing for Automated SoC Vulnerability Detection](historical/2026/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
