@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [POSTER: Security and Cost Trade-offs of Side-Channel Countermeasures for AES Software on RISC-V SoCs](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [RISC-V Microarchitectural Threat Classification: A CVA6 Case Study](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [End-to-end Integration of OpenTitan Security Features in a Pure RISC-V SoC](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-03 | [Towards Protecting On-Device Machine Learning with RISC-V based Multi-Enclave TEE](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-03 | [SNPGuard: Remote Attestation of SEV-SNP VMs Using Open Source Tools](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-03 | [TrEEStealer: Stealing Decision Trees via Enclave Side Channels](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Partial Number Theoretic Transform Masking in Post-Quantum Cryptography (PQC) Hardware: A Security Margin Analysis](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Tessera: Secure, Near-Line-Rate Weight Streaming for UMA Edge Accelerators](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Resolving Conflicts Between RTOS Timekeeping and Uninterruptable Trusted Computing](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Physically Unclonable Functions for Secure IoT Authentication and Hardware-Anchored AI Model Integrity](historical/2026/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
