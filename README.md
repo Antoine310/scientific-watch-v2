@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Hardware-Enabled Root of Trust for Enhanced Security in Embedded Systems](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [An Architectural Approach for the Secure Integration of Hardware Accelerators into a Trustworthy MPSoC Platform](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [Decentralized Remote Attestation Based on Authoritative Blockchain](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [Lock+Umonitor+Umwait: Exposing the Security Risk of Lock Instruction in Achieving the Transient Execution Attack without Timer](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [Benchmarking SLH-DSA: A Comparative Hardware Analysis Against Classical Digital Signatures for Post-Quantum Security](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [MACHINE LEARNING-DRIVEN DERIVATION OF ABSTRACT BEHAVIOURAL PATTERNS FROM RUNTIME ACTIVITY LOGS IN SYSTEM-ON-CHIP SYSTEMS](historical/2025/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
