@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [MORPHEUS-X ARCHITECTURE: MULTI-LEVEL HARDWARE-SOFTWARE PROTECTION AGAINST ROP AND JOP ATTACKS BASED ON DYNAMIC STATE RECONFIGURATION](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [QUASAR: Achieving Quantum Readiness for Post-Quantum Cryptography on RISC-V at Minimum Hardware Cost](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [SeCA: Software Behavior-Enforced Collective Attestation for Highly Dynamic Device Networks](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [TIRA: Task-Based Intermittent Remote Attestation](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [Hardware Security Using Emerging Nonvolatile Memories](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time](historical/2026/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
