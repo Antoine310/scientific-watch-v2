@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Secure Implementation of RISC-V’s Scalar Cryptography Extension Set](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [$$\\texttt {ARCHER}$$: Architecture-Level Simulator for Side-Channel Analysis in RISC-V Processors](historical/2026/01.md) | Bibliographie historique |
 | 2026-11-03 | [AttestaChain: A Chiplet-aware attestation system based on Blockchain and Zero-Trust Architecture](historical/2026/01.md) | Bibliographie historique |
 | 2026-11-03 | [It’s TEEtime: Secure Interrupt Isolation for Normal-world Enclaves on Arm](historical/2026/01.md) | Bibliographie historique |
 | 2026-11-03 | [AI-Enhanced Trust Graph Analytics over Distributed Ledgers for Verifiable Hardware and Software Provenance in US National Security Networks](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [PA-Boot: A Formally Verified Authentication Protocol for Multiprocessor Secure Boot Under Hardware Supply-Chain Attacks *(date indicative)*](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [Fish and Chips: On the Root Causes of Co-Located Website-Fingerprinting Attacks](historical/2026/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
