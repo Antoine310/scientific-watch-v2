@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [USING HARDWARE ISOLATION MECHANISMS AS A PLATFORM FOR ADAPTIVE SECURITY](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [General Store: Speculative Address Translation in x86 Processors](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [WeMu: Effective and Scalable Emulation of Microarchitectural Weird Machines](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [Zero-Store Elimination and its Implications on the SIKE Cryptosystem](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [DyFORA: Dynamic Firmware Obfuscation and Remote Attestation using Hardware Signatures](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [SoK: Understanding Design Choices and Pitfalls of Trusted Execution Environments](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [CaSA: End-to-End Quantitative Security Analysis of Randomly Mapped Caches](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [On The Effect of Replacement Policies on The Security of Randomized Cache Architectures](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [EnTurbo: Accelerate Confidential Serverless Computing via Parallelizing Enclave Startup Procedure](historical/2024/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
