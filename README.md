@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Racing against the clock: side-channel leakage from crossing asynchronous clock domains](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [aLEAKator: HDL Mixed-Domain Simulation for Masked Hardware & Software Formal Verification](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [A Framework for designing High-Order Side-Channel Protected Hardware Implementations of ML-KEM](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [A Machine-Learning Guided Tuning Approach for Trusted Application in Mobile Edge Computing *(date indicative)*](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [ESP32-Based Hardware Key for Software Application Protection](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Hardware-Assisted Security Enhancements for an FPGA-ARM Embedded Vision System in IoT Applications](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [On the Security of Lightweight Homomorphic Obfuscation for Protecting Against Hardware Trojans](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [AIPS: AI-Based Power Simulation for Pre-Silicon Side-Channel Security Evaluation](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Strengthening Key Management Systems with Dedicated Hardware Security Modules (HSMs)](historical/2026/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
