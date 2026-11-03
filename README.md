@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [CVA6S+: MÁS MADERA PARA EL HARDWARE OPEN-SOURCE](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [A Deductive System for Contract Satisfaction Proofs](historical/2026/04.md) | Bibliographie historique |
 | 2026-11-03 | [TrEEStealer: Stealing Decision Trees via Enclave Side Channels](historical/2026/04.md) | Bibliographie historique |
 | 2026-11-03 | [Partial Number Theoretic Transform Masking in Post-Quantum Cryptography (PQC) Hardware: A Security Margin Analysis](historical/2026/04.md) | Bibliographie historique |
 | 2026-11-03 | [Tessera: Secure, Near-Line-Rate Weight Streaming for UMA Edge Accelerators](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Resolving Conflicts Between RTOS Timekeeping and Uninterruptable Trusted Computing](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Physically Unclonable Functions for Secure IoT Authentication and Hardware-Anchored AI Model Integrity](historical/2026/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
