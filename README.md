@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Benchmarking SLH-DSA: A Comparative Hardware Analysis Against Classical Digital Signatures for Post-Quantum Security](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-03 | [MACHINE LEARNING-DRIVEN DERIVATION OF ABSTRACT BEHAVIOURAL PATTERNS FROM RUNTIME ACTIVITY LOGS IN SYSTEM-ON-CHIP SYSTEMS](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-03 | [Design and Comparison of Hardware Architectures for FIPS 140-Certified Cryptographic Applications](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [EnTurbo: Accelerate Confidential Serverless Computing via Parallelizing Enclave Startup Procedure](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-03 | [PDRIMA: A Policy-Driven Runtime Integrity Measurement and Attestation Approach for ARM TrustZone-based TEE](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [GoldenFuzz: Generative Golden Reference Hardware Fuzzing](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [Lost in the Pages: WebAssembly Code Recovery through SEV-SNP's Exposed Address Space](historical/2025/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
