@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Fish and Chips: On the Root Causes of Co-Located Website-Fingerprinting Attacks](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [Securing Outsourced Computing With Trusted Execution Environments: A Case Study on China Secure Virtualization *(date indicative)*](historical/2026/01.md) | Bibliographie historique |
 | 2026-11-03 | [Using Hardware- Enabled Security to Ensure 5G System Platform Integrity Applying 5G Cybersecurity and Privacy Capabilities *(date indicative)*](historical/2026/01.md) | Bibliographie historique |
 | 2026-11-03 | [Firmware Secure Updates Meet Formal Verification](historical/2026/01.md) | Bibliographie historique |
 | 2026-11-03 | [SPOILER-GUARD: Gating Latency Effects of Memory Accesses through Randomized Dependency Prediction](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [Supporting Secured Integration of Microarchitectural Defenses](historical/2026/01.md) | Bibliographie historique |
-| 2026-11-03 | [On Abnormal Execution Timing of Conditional Jump Instructions](historical/2026/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
