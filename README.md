@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [QUASAR: Achieving Quantum Readiness for Post-Quantum Cryptography on RISC-V at Minimum Hardware Cost](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [SeCA: Software Behavior-Enforced Collective Attestation for Highly Dynamic Device Networks](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [TIRA: Task-Based Intermittent Remote Attestation](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [Hardware Security Using Emerging Nonvolatile Memories](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [RISC-V Microarchitecture Information Leakage Attack via Transient Execution](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [Enabling Confidential VMs Across Diverse ARM Platforms by Retrofitting TrustZone *(date indicative)*](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [Towards Secure BPF Kernel Extension With Hardware-Enhanced Memory Isolation *(date indicative)*](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity](historical/2026/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -40,7 +40,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2026-08 — 23 publication(s)](historical/2026/08.md)
 - [2026-07 — 19 publication(s)](historical/2026/07.md)
 - [2026-06 — 9 publication(s)](historical/2026/06.md)
-- [2026-05 — 16 publication(s)](historical/2026/05.md)
+- [2026-05 — 13 publication(s)](historical/2026/05.md)
 - [2026-04 — 8 publication(s)](historical/2026/04.md)
 - [2026-03 — 9 publication(s)](historical/2026/03.md)
 - [2026-02 — 6 publication(s)](historical/2026/02.md)
