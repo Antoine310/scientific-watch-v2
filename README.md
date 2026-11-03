@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [MORPHEUS-X ARCHITECTURE: MULTI-LEVEL HARDWARE-SOFTWARE PROTECTION AGAINST ROP AND JOP ATTACKS BASED ON DYNAMIC STATE RECONFIGURATION](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [QUASAR: Achieving Quantum Readiness for Post-Quantum Cryptography on RISC-V at Minimum Hardware Cost](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [SeCA: Software Behavior-Enforced Collective Attestation for Highly Dynamic Device Networks](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [TIRA: Task-Based Intermittent Remote Attestation](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [Hardware Security Using Emerging Nonvolatile Memories](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [End-to-end Integration of OpenTitan Security Features in a Pure RISC-V SoC](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-03 | [Towards Protecting On-Device Machine Learning with RISC-V based Multi-Enclave TEE](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-03 | [SNPGuard: Remote Attestation of SEV-SNP VMs Using Open Source Tools](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-03 | [On the Design and Security of Collective Remote Attestation Protocols](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-03 | [SRAS: Self-governed Remote Attestation Scheme for Multi-party Collaboration](historical/2024/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
