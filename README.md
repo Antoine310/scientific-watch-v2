@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [ChipGuard-AI: A Hardware-Assisted Unified Framework for Adversarial and Side-Channel Resilience in Consumer Electronics](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [GC-Assisted Runtime Integrity Verification for Heap-Resident Bytecode in an FPGA-Based Virtual Machine](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [Protecting CPU AI On Edge TEEs: WebAssembly's Promise and Practical Challenges](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [Resource-constrained Remote Attestation of Smart Meters Using Merkle Trees in a Trusted Execution Environment](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Counterfactual Exploit Validation on CHERI-enabled RISC-V Using Virtual Prototypes *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Déjà Vu: Prevailing security vulnerabilities in TZ-assisted TEE systems *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production?](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [WasmStone: Enabling Transparent Execution of Standalone WebAssembly Applications in Keystone](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
