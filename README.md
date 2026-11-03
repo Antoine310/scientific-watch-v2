@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Security-Quality Scorecard: A Comprehensive Framework for Quantitative Evaluation of Hardware-Enforced Boot Chain Security](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Reliable Hardware Trojan Detection for RISC-V Processors using Formal Verification and Automation](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Evolving Landscape of Attacks on AI Hardware and Robust Defenses](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [ESP32-Based Hardware Key for Software Application Protection](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Hardware-Assisted Security Enhancements for an FPGA-ARM Embedded Vision System in IoT Applications](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [A Fine-Grained Dynamic Partitioning Against Cache-Based Timing Attacks via Cache Locking](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-03 | [A keystone extension to defend against cache timing attacks](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [A Hardware Implementation of DICE on a RISC-V Processor](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [A Trusted Execution Environment RISC-V System-on-Chip Compatible with Transport Layer Security 1.3](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [Securing 5G: Trusted Execution Environments for Centrally Controlled IPsec Integrity](historical/2024/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
