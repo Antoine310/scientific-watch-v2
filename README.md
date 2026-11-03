@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Place Protections at the Right Place: Targeted Hardening for Cryptographic Code against Spectre v1](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-03 | [Extended version—to be, or not to be stateful: post-quantum secure boot using hash-based signatures](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-03 | [Elevating Security in Migration: An Enhanced Trusted Execution Environment-Based Generic Virtual Remote Attestation Scheme](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-03 | [RollingCache: Using Runtime Behavior to Defend Against Cache Side Channel Attacks](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-03 | [Counterfactual Exploit Validation on CHERI-enabled RISC-V Using Virtual Prototypes *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Cerisier: A Program Logic for Attestation in a Capability Machine](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [Architecture Design and Implementation of a Custom Protocol-Based JTAG Debugging Protection System for Enhanced Hardware Security](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [An Open Hardware ML-KEM Polynomial Ring Accelerator on Chipyard RISC-V SoC: System-Level Integration and Evaluation](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [TzPy: Python Runtime for Edge Code Deployment on TrustZone](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [FUZZItizer: Hardware Sanitizer-Assisted Fuzzing for Automated SoC Vulnerability Detection](historical/2026/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
