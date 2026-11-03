@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Place Protections at the Right Place: Targeted Hardening for Cryptographic Code against Spectre v1](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-03 | [Extended version—to be, or not to be stateful: post-quantum secure boot using hash-based signatures](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-03 | [Elevating Security in Migration: An Enhanced Trusted Execution Environment-Based Generic Virtual Remote Attestation Scheme](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-03 | [RollingCache: Using Runtime Behavior to Defend Against Cache Side Channel Attacks](historical/2024/08.md) | Bibliographie historique |
 | 2026-11-03 | [Counterfactual Exploit Validation on CHERI-enabled RISC-V Using Virtual Prototypes *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [Déjà Vu: Prevailing security vulnerabilities in TZ-assisted TEE systems *(date indicative)*](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [Extended User Interrupts (xUI): Fast and Flexible User-Space Notification for x86 and RISC-V](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production?](historical/2026/10.md) | Bibliographie historique |
-| 2026-11-03 | [WasmStone: Enabling Transparent Execution of Standalone WebAssembly Applications in Keystone](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
