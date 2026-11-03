@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [CryptRISC: A Secure RISC-V Processor for High-Performance Cryptography with Power Side-Channel Protection](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [A TEE-Based Architecture for Confidential and Dependable Process Attestation in Authorship Verification](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [Sleep Reveals the Nonce: Breaking ECDSA using Sleep-Based Power Side-Channel Vulnerability](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [Architecting Trust: A Framework for Secure IoT Systems Through Trusted Execution and Semantic Middleware](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Talk: Automated Synthesis of Instruction-Centric Leakage Contracts](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [WiP: DROW: Training-Free Load Speculative Execution Attacks on Apple Silicon](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [WiP: Flush-based Cache Attacks on Modern / Multi-Socket x86 systems](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [WiP: μ-ops, I Did it Again: A Second Look at Port Assignment on Intel CPUs](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Poster: Entropy-Coupled CLFLUSH for Secure Cache Flushing Against Timing-Based Attacks](historical/2026/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
