@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Talk: Automated Synthesis of Instruction-Centric Leakage Contracts](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [WiP: DROW: Training-Free Load Speculative Execution Attacks on Apple Silicon](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [WiP: Flush-based Cache Attacks on Modern / Multi-Socket x86 systems](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [WiP: μ-ops, I Did it Again: A Second Look at Port Assignment on Intel CPUs](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [Poster: Entropy-Coupled CLFLUSH for Secure Cache Flushing Against Timing-Based Attacks](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [General Store: Speculative Address Translation in x86 Processors](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [WeMu: Effective and Scalable Emulation of Microarchitectural Weird Machines](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Zero-Store Elimination and its Implications on the SIKE Cryptosystem](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [BROL: Cache-Only Execution for Software Protection](historical/2026/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
