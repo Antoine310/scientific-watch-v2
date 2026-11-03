@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [CVA6S+: MÁS MADERA PARA EL HARDWARE OPEN-SOURCE](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [A Deductive System for Contract Satisfaction Proofs](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [TrEEStealer: Stealing Decision Trees via Enclave Side Channels](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Partial Number Theoretic Transform Masking in Post-Quantum Cryptography (PQC) Hardware: A Security Margin Analysis](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Tessera: Secure, Near-Line-Rate Weight Streaming for UMA Edge Accelerators](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Racing against the clock: side-channel leakage from crossing asynchronous clock domains](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [aLEAKator: HDL Mixed-Domain Simulation for Masked Hardware & Software Formal Verification](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [A Framework for designing High-Order Side-Channel Protected Hardware Implementations of ML-KEM](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [A Machine-Learning Guided Tuning Approach for Trusted Application in Mobile Edge Computing *(date indicative)*](historical/2026/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
