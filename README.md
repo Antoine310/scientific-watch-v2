@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [USING HARDWARE ISOLATION MECHANISMS AS A PLATFORM FOR ADAPTIVE SECURITY](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [Fine-Grained Kernel Memory Isolation Using Hardware Protection Keys and Capability Mapping](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [Implementation and evaluation of the Forro stream cipher in Tofino programmable hardware for remote attestation in datacenters](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [V-PUF: An Ephemeral-Key Decentralized Architecture for Verifiable Hardware Authentication](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-03 | [DyFORA: Dynamic Firmware Obfuscation and Remote Attestation using Hardware Signatures](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [SPOILER-GUARD: Gating Latency Effects of Memory Accesses through Randomized Dependency Prediction](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [Supporting Secured Integration of Microarchitectural Defenses](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [On Abnormal Execution Timing of Conditional Jump Instructions](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [The Real Menace of Cloning Attacks on SGX Applications](historical/2026/01.md) | Bibliographie historique |
+| 2026-11-03 | [Ringmaster: How to juggle high-throughput host OS system calls from TrustZone TEEs](historical/2026/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
