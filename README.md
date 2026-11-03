@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [USING HARDWARE ISOLATION MECHANISMS AS A PLATFORM FOR ADAPTIVE SECURITY](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Fine-Grained Kernel Memory Isolation Using Hardware Protection Keys and Capability Mapping](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Implementation and evaluation of the Forro stream cipher in Tofino programmable hardware for remote attestation in datacenters](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [V-PUF: An Ephemeral-Key Decentralized Architecture for Verifiable Hardware Authentication](historical/2026/02.md) | Bibliographie historique |
 | 2026-11-03 | [DyFORA: Dynamic Firmware Obfuscation and Remote Attestation using Hardware Signatures](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-03 | [SoK: Understanding Design Choices and Pitfalls of Trusted Execution Environments](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-03 | [CaSA: End-to-End Quantitative Security Analysis of Randomly Mapped Caches](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-03 | [On The Effect of Replacement Policies on The Security of Randomized Cache Architectures](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-03 | [EnTurbo: Accelerate Confidential Serverless Computing via Parallelizing Enclave Startup Procedure](historical/2024/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
