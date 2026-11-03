@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Analyzing Cache Timing-based Side Channel Vulnerability through Cache Line Composition](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-03 | [An Experimental Comparison of RISC-V Processors: Performance, Power, Area and Security - Special Session Paper-](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-03 | [RISC-V Triplet: Tapeouts for Security Applications](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-03 | [RISC-V Needs Secure 'Wheels': the MCU Initiator-Side Perspective](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-03 | [Unleashing OpenTitan’s Potential: a Silicon-Ready Embedded Secure Element for Root of Trust and Cryptographic Offloading](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-03 | [ChipGuard-AI: A Hardware-Assisted Unified Framework for Adversarial and Side-Channel Resilience in Consumer Electronics](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [GC-Assisted Runtime Integrity Verification for Heap-Resident Bytecode in an FPGA-Based Virtual Machine](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Protecting CPU AI On Edge TEEs: WebAssembly's Promise and Practical Challenges](historical/2026/10.md) | Bibliographie historique |
+| 2026-11-03 | [Resource-constrained Remote Attestation of Smart Meters Using Merkle Trees in a Trusted Execution Environment](historical/2026/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
