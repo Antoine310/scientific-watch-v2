@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Exorcist: Enabling Atomic-Level Runtime Detection of Spectre Attacks using Precise Event Based Sampling](historical/2026/06.md) | Bibliographie historique |
+| 2026-11-03 | [Reducing the TCB of SGX-Oriented LibOSes at Runtime](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-03 | [Spectre Attacks Detection in RISC-V Processors Using Hardware-Level Machine Learning Models](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-03 | [Modular Architecture for Interoperable and Continuous Remote Attestation](historical/2026/06.md) | Bibliographie historique |
 | 2026-11-03 | [Lightweight Hardware Security Framework for IoT-Based Photovoltaic Monitoring Systems Using OTP and SRAM-PUF](historical/2026/06.md) | Bibliographie historique |
-| 2026-11-03 | [Cerisier: A Program Logic for Attestation in a Capability Machine](historical/2026/06.md) | Bibliographie historique |
-| 2026-11-03 | [Architecture Design and Implementation of a Custom Protocol-Based JTAG Debugging Protection System for Enhanced Hardware Security](historical/2026/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
