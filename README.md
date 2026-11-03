@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [RAEnc: A Stall-Less Metadata Compression Framework for Return Address Integrity on High-Performance Embedded Processors](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [A Fine-Grained Dynamic Partitioning Against Cache-Based Timing Attacks via Cache Locking](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-03 | [A keystone extension to defend against cache timing attacks](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-03 | [A Hardware Implementation of DICE on a RISC-V Processor](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-03 | [A Trusted Execution Environment RISC-V System-on-Chip Compatible with Transport Layer Security 1.3](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-03 | [Boosting Device Utilization in Control Flow Auditing](historical/2026/03.md) | Bibliographie historique |
+| 2026-11-03 | [Tock: From Research to Securing 10 Million Computers](historical/2026/03.md) | Bibliographie historique |
+| 2026-11-03 | [Implementing and Optimizing an Open-Source SD-card Host Controller for RISC-V SoCs](historical/2026/03.md) | Bibliographie historique |
+| 2026-11-03 | [LiteAtt: A Peer-to-Peer Self-Attestation Framework and Handshake Protocol for Connected IoT Devices](historical/2026/03.md) | Bibliographie historique |
+| 2026-11-03 | [Multi-target Coverage-based Greybox Fuzzing](historical/2026/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
