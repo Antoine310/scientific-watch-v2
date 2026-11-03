@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [EnTurbo: Accelerate Confidential Serverless Computing via Parallelizing Enclave Startup Procedure](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-03 | [PDRIMA: A Policy-Driven Runtime Integrity Measurement and Attestation Approach for ARM TrustZone-based TEE](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [GoldenFuzz: Generative Golden Reference Hardware Fuzzing](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-03 | [Lost in the Pages: WebAssembly Code Recovery through SEV-SNP's Exposed Address Space](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference](historical/2025/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
