@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [POSTER: Security and Cost Trade-offs of Side-Channel Countermeasures for AES Software on RISC-V SoCs](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [RISC-V Microarchitectural Threat Classification: A CVA6 Case Study](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [End-to-end Integration of OpenTitan Security Features in a Pure RISC-V SoC](historical/2024/07.md) | Bibliographie historique |
 | 2026-11-03 | [Towards Protecting On-Device Machine Learning with RISC-V based Multi-Enclave TEE](historical/2024/07.md) | Bibliographie historique |
 | 2026-11-03 | [SNPGuard: Remote Attestation of SEV-SNP VMs Using Open Source Tools](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-03 | [On the Design and Security of Collective Remote Attestation Protocols](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-03 | [SRAS: Self-governed Remote Attestation Scheme for Multi-party Collaboration](historical/2024/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
