@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Security-Quality Scorecard: A Comprehensive Framework for Quantitative Evaluation of Hardware-Enforced Boot Chain Security](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Reliable Hardware Trojan Detection for RISC-V Processors using Formal Verification and Automation](historical/2026/04.md) | Bibliographie historique |
+| 2026-11-03 | [Evolving Landscape of Attacks on AI Hardware and Robust Defenses](historical/2026/04.md) | Bibliographie historique |
 | 2026-11-03 | [ESP32-Based Hardware Key for Software Application Protection](historical/2026/04.md) | Bibliographie historique |
 | 2026-11-03 | [Hardware-Assisted Security Enhancements for an FPGA-ARM Embedded Vision System in IoT Applications](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [On the Security of Lightweight Homomorphic Obfuscation for Protecting Against Hardware Trojans](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [AIPS: AI-Based Power Simulation for Pre-Silicon Side-Channel Security Evaluation](historical/2026/04.md) | Bibliographie historique |
-| 2026-11-03 | [Strengthening Key Management Systems with Dedicated Hardware Security Modules (HSMs)](historical/2026/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
