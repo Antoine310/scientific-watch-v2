@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Chiplet-Based Hardware Security and IC Traceability: A Review of PUFs, Die Identifiers, and Secure Packaging Techniques](historical/2026/03.md) | Bibliographie historique |
 | 2026-11-03 | [Advanced Hardware Security on Embedded Processors: A 2026 Systematic Review](historical/2026/03.md) | Bibliographie historique |
 | 2026-11-03 | [Clarifying CPU Vendor’s Responsibilities for Remote Attestation with Intel SGX](historical/2026/03.md) | Bibliographie historique |
 | 2026-11-03 | [On-Chip Intelligence for Real-Time Threat Monitoring](historical/2026/03.md) | Bibliographie historique |
 | 2026-11-03 | [Detecting speculative leaks with compositional semantics](historical/2026/03.md) | Bibliographie historique |
-| 2026-11-03 | [Boosting Device Utilization in Control Flow Auditing](historical/2026/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
