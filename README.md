@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Chiplet-Based Hardware Security and IC Traceability: A Review of PUFs, Die Identifiers, and Secure Packaging Techniques](historical/2026/03.md) | Bibliographie historique |
-| 2026-11-03 | [Advanced Hardware Security on Embedded Processors: A 2026 Systematic Review](historical/2026/03.md) | Bibliographie historique |
-| 2026-11-03 | [Clarifying CPU Vendor’s Responsibilities for Remote Attestation with Intel SGX](historical/2026/03.md) | Bibliographie historique |
-| 2026-11-03 | [On-Chip Intelligence for Real-Time Threat Monitoring](historical/2026/03.md) | Bibliographie historique |
-| 2026-11-03 | [Detecting speculative leaks with compositional semantics](historical/2026/03.md) | Bibliographie historique |
+| 2026-11-03 | [CryptRISC: A Secure RISC-V Processor for High-Performance Cryptography with Power Side-Channel Protection](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [A TEE-Based Architecture for Confidential and Dependable Process Attestation in Authorship Verification](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Sleep Reveals the Nonce: Breaking ECDSA using Sleep-Based Power Side-Channel Vulnerability](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-03 | [Architecting Trust: A Framework for Secure IoT Systems Through Trusted Execution and Semantic Middleware](historical/2026/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
