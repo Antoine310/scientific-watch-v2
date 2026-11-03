@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-03 | [Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [RISC-V Microarchitecture Information Leakage Attack via Transient Execution](historical/2026/05.md) | Bibliographie historique |
+| 2026-11-03 | [Enabling Confidential VMs Across Diverse ARM Platforms by Retrofitting TrustZone *(date indicative)*](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [Towards Secure BPF Kernel Extension With Hardware-Enhanced Memory Isolation *(date indicative)*](historical/2026/05.md) | Bibliographie historique |
 | 2026-11-03 | [LIPPEN: A Lightweight In-Place Pointer Encryption Architecture for Pointer Integrity](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [Formal Verification of Secure Encrypted Virtualization](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [Enforcing Attestable Workflows across Untrusted Networks](historical/2026/05.md) | Bibliographie historique |
-| 2026-11-03 | [CCX: Enabling Unmodified Intel SGX Applications on Arm CCA](historical/2026/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
