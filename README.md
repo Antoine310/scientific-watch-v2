@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-04 | [DASICS: Efficient In-Process Protection with Hardware-Assisted Dynamic Compartmentalization](historical/2025/11.md) | Bibliographie historique |
-| 2026-11-04 | [MileSan: Detecting Exploitable Microarchitectural Leakage via Differential Hardware-Software Taint Tracking](historical/2025/11.md) | Bibliographie historique |
-| 2026-11-04 | [RunSiP: Property-Based Runtime Security Monitoring in Heterogeneous System-in-Package](historical/2025/11.md) | Bibliographie historique |
-| 2026-11-04 | [REMAP: A Fine-Grained Runtime Memory Protection System for RTOS](historical/2025/11.md) | Bibliographie historique |
-| 2026-11-04 | [Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification *(date indicative)*](historical/2025/11.md) | Bibliographie historique |
+| 2026-11-04 | [Last-Level Cache Side-Channel Attacks Are Feasible in the Modern Public Cloud](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-04 | [R5Detect: Detecting Control-Flow Attacks from Standard RISC-V Enclaves](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-04 | [Salus: A Practical Trusted Execution Environment for CPU-FPGA Heterogeneous Cloud Platforms](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-04 | [Fortress: Securing IoT Peripherals with Trusted Execution Environments](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-04 | [QTFlow: Quantitative Timing-Sensitive Information Flow for Security-Aware Hardware Design on RTL](historical/2024/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
