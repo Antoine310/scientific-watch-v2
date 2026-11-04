@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Single engine architecture for hardware root of trust](historical/2025/09.md) | Bibliographie historique |
+| 2026-11-04 | [Proteção em hardware com Security Protocol and Data Model](historical/2025/09.md) | Bibliographie historique |
+| 2026-11-04 | [Special Issue on Open Hardware for Embedded System Security and Cryptography](historical/2025/09.md) | Bibliographie historique |
+| 2026-11-04 | [Systematic Security Evaluation of Comprehensive Hardware-Accelerated Key Management Framework for Cellular IoT](historical/2025/09.md) | Bibliographie historique |
 | 2026-11-04 | [DynHaMo: Dynamic Hardware-Based Monitoring Dedicated to Attacks Detection](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [TESLA: Trusted Execution Support for Legacy Embedded Applications](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Multi Hardware-Attack Dataset and ML-based Detection Using Processor Stress Patterns on x86](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [BASTION: A Framework for Secure Third-Party IP Integration in NoC-based SoC Platforms](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Adaptive and Efficient Dynamic Memory Management for Hardware Enclaves](historical/2025/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
