@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Yet Another Mirage of Breaking MIRAGE: Debunking Occupancy-based Side-Channel Attacks on Fully Associative Randomized Caches](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-04 | [Beyond the Bermuda Triangle of Contention: IOMMU Interference in Mixed Criticality Systems](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-04 | [Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-04 | [Security Implications of the Morello Platform: An Empirical Threat Model-Based Analysis](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Open-Source Timing-Monitor Co-Processor in RISC-V Safety Infrastructure](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [A Scalable Formal Verification Methodology for Data-Oblivious Hardware](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-04 | [A Heterogeneous RISC-V Based SoC for Secure Nano-UAV Navigation](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-04 | [Profiling with trust: system monitoring from trusted execution environments](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-04 | [You Shall Not Stall: Achieving RISC-V On-Demand Runtime-Reconfiguration using SCAIE-V](historical/2025/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
