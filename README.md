@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-03 | [Hardware-Enabled Root of Trust for Enhanced Security in Embedded Systems](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [An Architectural Approach for the Secure Integration of Hardware Accelerators into a Trustworthy MPSoC Platform](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [Decentralized Remote Attestation Based on Authoritative Blockchain](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [Lock+Umonitor+Umwait: Exposing the Security Risk of Lock Instruction in Achieving the Transient Execution Attack without Timer](historical/2025/12.md) | Bibliographie historique |
-| 2026-11-03 | [Benchmarking SLH-DSA: A Comparative Hardware Analysis Against Classical Digital Signatures for Post-Quantum Security](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-04 | [Easy Adazone: A Memory-Safe Physical Memory Isolation Framwork for RISC-V](historical/2025/12.md) | Bibliographie historique |
+| 2026-11-04 | [Lightweight Hardware-Based Cache Side-Channel Attack Detection for Edge Devices (Edge-CaSCADe)](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-04 | [Assessing the Performance of OpenTitan as Cryptographic Accelerator in Secure Open-Hardware System-on-Chips](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-04 | [Serberus: Protecting Cryptographic Code from Spectres at Compile-Time](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-04 | [TrustZoneTunnel: A Cross-World Pattern History Table-Based Microarchitectural Side-Channel Attack](historical/2024/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
