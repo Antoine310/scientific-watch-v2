@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-04 | [Icicle: Open-Source Hardware Support for Top-Down Microarchitectural Analysis on RISC-V](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [Special Session Paper: Application of Functional Verification Techniques in Hardware Trust](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [Using RISC-V Extensions to Support Software-Implemented Hardware Fault Tolerance](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [SpectrePrefetch: Undermining Cache-Centric Secure Speculation with Modern Hardware Prefetchers](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [TrackRISC: An Implicit Attack Flow Model and Hardware Microarchitectural Mitigation for Speculative Cache-Based Covert Channels](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [Synthesizing Hardware-Software Leakage Contracts for RISC-V Open-Source Processors](historical/2024/03.md) | Bibliographie historique |
+| 2026-11-04 | [EvilCS: An Evaluation of Information Leakage through Context Switching on Security Enclaves](historical/2024/03.md) | Bibliographie historique |
+| 2026-11-04 | [Statistical Profiling of Micro-Architectural Traces and Machine Learning for Spectre Detection: A Systematic Evaluation](historical/2024/03.md) | Bibliographie historique |
+| 2026-11-04 | [SDATA: Symmetrical Device Identifier Composition Engine Complied Aggregate Trust Attestation](historical/2024/03.md) | Bibliographie historique |
+| 2026-11-04 | [Prefender: A Prefetching Defender Against Cache Side Channel Attacks as a Pretender](historical/2024/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
