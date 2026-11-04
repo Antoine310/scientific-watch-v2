@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Detecting time drifts for securing Proof of Hardware Time in blockchain *(date indicative)*](historical/2025/09.md) | Bibliographie historique |
+| 2026-11-04 | [SecuPilot: A Security Coprocessor-Integrated Platform for Autonomous UAV Security](historical/2025/09.md) | Bibliographie historique |
 | 2026-11-04 | [Obelix: Mitigating Side-Channels Through Dynamic Obfuscation](historical/2025/09.md) | Bibliographie historique |
 | 2026-11-04 | [Securing Cryptographic Software via Typed Assembly Language (Extended Version)](historical/2025/09.md) | Bibliographie historique |
 | 2026-11-04 | [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by Secure HBM Accelerators](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Systematic Timing Leakage Analysis of NIST PQDSS Candidates: Tooling and Lessons Learned](historical/2025/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
