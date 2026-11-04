@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Secure Scattered Memory: Rethinking Secure Enclave Memory with Secret Sharing](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-04 | [Towards Secure Runtime Customizable Trusted Execution Environment on FPGA-SoC](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-04 | [Standard-Based Remote Attestation: The Veraison Project](historical/2024/01.md) | Bibliographie historique |
 | 2026-11-04 | [Is ARM's TrustZone Trustable for Confidentiality Protection?](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Monocle: Transient Execution Proof Memory Views for Runtime Compiled Code](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [A Comprehensive Evaluation of Side-Channel Resistance of Xoodyak Hardware Implementations](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Cloud FPGA Accelerator Fingerprinting Using Communication Side Channels](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Lightweight Authenticated Integration and In-Field Secure Operation of System-in-Package](historical/2025/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
