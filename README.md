@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [A Scalable Formal Verification Methodology for Data-Oblivious Hardware](historical/2024/03.md) | Bibliographie historique |
+| 2026-11-04 | [A Heterogeneous RISC-V Based SoC for Secure Nano-UAV Navigation](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-04 | [Profiling with trust: system monitoring from trusted execution environments](historical/2024/02.md) | Bibliographie historique |
 | 2026-11-04 | [You Shall Not Stall: Achieving RISC-V On-Demand Runtime-Reconfiguration using SCAIE-V](historical/2025/09.md) | Bibliographie historique |
 | 2026-11-04 | [Single engine architecture for hardware root of trust](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Proteção em hardware com Security Protocol and Data Model](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Special Issue on Open Hardware for Embedded System Security and Cryptography](historical/2025/09.md) | Bibliographie historique |
-| 2026-11-04 | [Systematic Security Evaluation of Comprehensive Hardware-Accelerated Key Management Framework for Cellular IoT](historical/2025/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
