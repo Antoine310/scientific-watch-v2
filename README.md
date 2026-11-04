@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Addendum: Systematic Evaluation of Randomized Cache Designs against Cache Occupancy](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [AEX-NStep: Probabilistic Interrupt Counting Attacks on Intel SGX](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [A Secure-by-Design Hardware/Operating System as a Substrate for Trustworthy Computing](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [Automatically Retargeting Hardware and Code Generation for RISC-V Custom Instructions](historical/2025/10.md) | Bibliographie historique |
 | 2026-11-04 | [Enhancing Data Security in RISC-V Embedded Systems: A Lightweight Architecture](historical/2025/11.md) | Bibliographie historique |
-| 2026-11-04 | [ShuffleV: A Microarchitectural Defense Strategy against Electromagnetic Side-Channel Attacks in Microprocessors](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [Proof of Cloud: Data Center Execution Assurance for Confidential VMs](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [FAARM: Firmware Attestation and Authentication Framework for Mali GPUs](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [Signing Right Away](historical/2025/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
