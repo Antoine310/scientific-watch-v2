@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [RunSiP: Property-Based Runtime Security Monitoring in Heterogeneous System-in-Package](historical/2025/11.md) | Bibliographie historique |
 | 2026-11-04 | [Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification *(date indicative)*](historical/2025/11.md) | Bibliographie historique |
 | 2026-11-04 | [Bypass Synchronization Primitives: GhostRace Attack and Mitigation on RISC-V](historical/2025/12.md) | Bibliographie historique |
 | 2026-11-04 | [Pre-cache: A Microarchitectural Solution to prevent Meltdown and Spectre](historical/2025/11.md) | Bibliographie historique |
 | 2026-11-04 | [Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](historical/2025/11.md) | Bibliographie historique |
-| 2026-11-04 | [Easy Adazone: A Memory-Safe Physical Memory Isolation Framwork for RISC-V](historical/2025/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
