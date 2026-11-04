@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Is ARM's TrustZone Trustable for Confidentiality Protection?](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-04 | [Monocle: Transient Execution Proof Memory Views for Runtime Compiled Code](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-04 | [A Comprehensive Evaluation of Side-Channel Resistance of Xoodyak Hardware Implementations](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-04 | [Cloud FPGA Accelerator Fingerprinting Using Communication Side Channels](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Lightweight Authenticated Integration and In-Field Secure Operation of System-in-Package](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Yet Another Mirage of Breaking MIRAGE: Debunking Occupancy-based Side-Channel Attacks on Fully Associative Randomized Caches](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Beyond the Bermuda Triangle of Contention: IOMMU Interference in Mixed Criticality Systems](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Security Implications of the Morello Platform: An Empirical Threat Model-Based Analysis](historical/2025/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -49,7 +49,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2025-11 — 15 publication(s)](historical/2025/11.md)
 - [2025-10 — 14 publication(s)](historical/2025/10.md)
 - [2025-09 — 13 publication(s)](historical/2025/09.md)
-- [2025-08 — 6 publication(s)](historical/2025/08.md)
+- [2025-08 — 4 publication(s)](historical/2025/08.md)
 - [2025-07 — 2 publication(s)](historical/2025/07.md)
 - [2025-06 — 10 publication(s)](historical/2025/06.md)
 - [2025-05 — 6 publication(s)](historical/2025/05.md)
