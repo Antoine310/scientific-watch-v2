@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Lightweight Authenticated Integration and In-Field Secure Operation of System-in-Package](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Yet Another Mirage of Breaking MIRAGE: Debunking Occupancy-based Side-Channel Attacks on Fully Associative Randomized Caches](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Beyond the Bermuda Triangle of Contention: IOMMU Interference in Mixed Criticality Systems](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](historical/2025/08.md) | Bibliographie historique |
 | 2026-11-04 | [Security Implications of the Morello Platform: An Empirical Threat Model-Based Analysis](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Open-Source Timing-Monitor Co-Processor in RISC-V Safety Infrastructure](historical/2025/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
