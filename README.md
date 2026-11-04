@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Icicle: Open-Source Hardware Support for Top-Down Microarchitectural Analysis on RISC-V](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [Special Session Paper: Application of Functional Verification Techniques in Hardware Trust](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [Using RISC-V Extensions to Support Software-Implemented Hardware Fault Tolerance](historical/2025/10.md) | Bibliographie historique |
 | 2026-11-04 | [SpectrePrefetch: Undermining Cache-Centric Secure Speculation with Modern Hardware Prefetchers](historical/2025/10.md) | Bibliographie historique |
 | 2026-11-04 | [TrackRISC: An Implicit Attack Flow Model and Hardware Microarchitectural Mitigation for Speculative Cache-Based Covert Channels](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [Privacy-Preserving Container Attestation](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [Building Trust in Autonomous Aerial Systems: A Review of Hardware-Rooted Trust Mechanisms](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [A Low-Cost Secure Branch Predictor to Mitigate the Speculative Attacks by Disrupting Setup Phase](historical/2025/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
