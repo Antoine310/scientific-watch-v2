@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [TrackRISC: An Implicit Attack Flow Model and Hardware Microarchitectural Mitigation for Speculative Cache-Based Covert Channels](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [Privacy-Preserving Container Attestation](historical/2025/10.md) | Bibliographie historique |
+| 2026-11-04 | [Building Trust in Autonomous Aerial Systems: A Review of Hardware-Rooted Trust Mechanisms](historical/2025/10.md) | Bibliographie historique |
 | 2026-11-04 | [A Low-Cost Secure Branch Predictor to Mitigate the Speculative Attacks by Disrupting Setup Phase](historical/2025/10.md) | Bibliographie historique |
 | 2026-11-04 | [QTFlow: Quantitative Timing-Sensitive Information Flow for Security-Aware Hardware Design on RTL](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-04 | [Fortress: Securing IoT Peripherals with Trusted Execution Environments](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-04 | [Addendum: Systematic Evaluation of Randomized Cache Designs against Cache Occupancy](historical/2025/10.md) | Bibliographie historique |
-| 2026-11-04 | [AEX-NStep: Probabilistic Interrupt Counting Attacks on Intel SGX](historical/2025/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
