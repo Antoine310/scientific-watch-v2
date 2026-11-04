@@ -49,7 +49,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2025-11 — 15 publication(s)](historical/2025/11.md)
 - [2025-10 — 14 publication(s)](historical/2025/10.md)
 - [2025-09 — 13 publication(s)](historical/2025/09.md)
-- [2025-08 — 4 publication(s)](historical/2025/08.md)
+- [2025-08 — 6 publication(s)](historical/2025/08.md)
 - [2025-07 — 2 publication(s)](historical/2025/07.md)
 - [2025-06 — 10 publication(s)](historical/2025/06.md)
 - [2025-05 — 6 publication(s)](historical/2025/05.md)
@@ -67,5 +67,6 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2024-05 — 12 publication(s)](historical/2024/05.md)
 - [2024-04 — 0 publication(s)](historical/2024/04.md)
 - [2024-03 — 6 publication(s)](historical/2024/03.md)
-- [2024-02 — 2 publication(s)](historical/2024/02.md)
+- [2024-02 — 3 publication(s)](historical/2024/02.md)
+- [2024-01 — 1 publication(s)](historical/2024/01.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
