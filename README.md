@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Analyzing and Mitigating the SSB Vulnerability in an MDP-Equipped RISC-V Processor](historical/2025/11.md) | Bibliographie historique |
 | 2026-11-04 | [CoDICE: Roll the DICE for Firmware Attestation](historical/2025/11.md) | Bibliographie historique |
 | 2026-11-04 | [TPM-Based Continuous Remote Attestation and Integrity Verification for 5G VNFs on Kubernetes](historical/2025/11.md) | Bibliographie historique |
 | 2026-11-04 | [Last-Level Cache Side-Channel Attacks Are Feasible in the Modern Public Cloud](historical/2024/04.md) | Bibliographie historique |
 | 2026-11-04 | [R5Detect: Detecting Control-Flow Attacks from Standard RISC-V Enclaves](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-04 | [Salus: A Practical Trusted Execution Environment for CPU-FPGA Heterogeneous Cloud Platforms](historical/2024/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
