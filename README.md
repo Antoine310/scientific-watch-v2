@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-04 | [Reinforcing Secure Live Migration through Verifiable State Management](historical/2025/09.md) | Bibliographie historique |
+| 2026-11-04 | [TRUSTCHECKPOINTS: Time Betrays Malware for Unconditional Software Root of Trust](historical/2025/09.md) | Bibliographie historique |
 | 2026-11-04 | [Synthesizing Hardware-Software Leakage Contracts for RISC-V Open-Source Processors](historical/2024/03.md) | Bibliographie historique |
 | 2026-11-04 | [EvilCS: An Evaluation of Information Leakage through Context Switching on Security Enclaves](historical/2024/03.md) | Bibliographie historique |
 | 2026-11-04 | [Statistical Profiling of Micro-Architectural Traces and Machine Learning for Spectre Detection: A Systematic Evaluation](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-04 | [SDATA: Symmetrical Device Identifier Composition Engine Complied Aggregate Trust Attestation](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-04 | [Prefender: A Prefetching Defender Against Cache Side Channel Attacks as a Pretender](historical/2024/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
