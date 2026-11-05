@@ -31,7 +31,7 @@ Aucune nouvelle publication identifiable cette semaine.
 <!-- SCIENTIFIC-WATCH-REPORTS:END -->
 
 <!-- SCIENTIFIC-WATCH-HISTORY:START -->
-## Bibliographie historique (depuis janvier 2024)
+## Bibliographie historique (depuis janvier 2023)
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
@@ -51,7 +51,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2025-09 — 13 publication(s)](historical/2025/09.md)
 - [2025-08 — 7 publication(s)](historical/2025/08.md)
 - [2025-07 — 6 publication(s)](historical/2025/07.md)
-- [2025-06 — 10 publication(s)](historical/2025/06.md)
+- [2025-06 — 16 publication(s)](historical/2025/06.md)
 - [2025-05 — 6 publication(s)](historical/2025/05.md)
 - [2025-04 — 4 publication(s)](historical/2025/04.md)
 - [2025-03 — 0 publication(s)](historical/2025/03.md)
@@ -69,4 +69,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2024-03 — 6 publication(s)](historical/2024/03.md)
 - [2024-02 — 3 publication(s)](historical/2024/02.md)
 - [2024-01 — 5 publication(s)](historical/2024/01.md)
+- [2023-12 — 1 publication(s)](historical/2023/12.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
