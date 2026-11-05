@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-05 | [Security Enclave Architecture for Heterogeneous Security Primitives for Supply-Chain Attacks](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-04 | [Resister: A Resilient Interposer Architecture for Chiplet to Mitigate Timing Side-Channel Attacks](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [PPA Evaluation of Hardware Accelerated AES Algorithm Using RISC-V ISE](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | ["vcd2df" - Leveraging Data Science Insights for Hardware Security Research](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-04 | [Secure Scattered Memory: Rethinking Secure Enclave Memory with Secret Sharing](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-05 | [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [Tyche: Composable Isolation as a Foundation to Manage Trust in the Cloud](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [On the Inference (In-)Security of Vertical Federated Learning: Efficient Auditing against Inference Tampering Attack](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [An Open-source Implementation and Security Analysis of Triad's TEE Trusted Time Protocol](historical/2025/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
