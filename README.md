@@ -68,5 +68,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2024-04 — 0 publication(s)](historical/2024/04.md)
 - [2024-03 — 6 publication(s)](historical/2024/03.md)
 - [2024-02 — 3 publication(s)](historical/2024/02.md)
-- [2024-01 — 1 publication(s)](historical/2024/01.md)
+- [2024-01 — 5 publication(s)](historical/2024/01.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
