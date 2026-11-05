@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-05 | [Enabling Lattice-Based Post-Quantum Cryptography on the OpenTitan Platform](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-05 | [BioLeak: Exploiting Cache Timing to Recover Fingerprint Minutiae Coordinates](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-05 | [Secure Instruction and Data-Level Information Flow Tracking Model for RISC-V](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-05 | [Hardware-hardened Sandbox Enclaves for Trusted Serverless Computing](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-05 | [KeyVisor – A Lightweight ISA Extension for Protected Key Handles with CPU-enforced Usage Policies](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [Let’s DOIT: Using Intel’s Extended HW/SW Contract for Secure Compilation of Crypto Code](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [SuBhI: Securing Embedded System’s Runtime Integrity via Behavioral Information](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [Design and Implementation of a Physically Secure Open-Source FPGA and Toolchain](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [Permutation-Based Firmware Remote Attestation for Internet-of-Things Edge-Based Network *(date indicative)*](historical/2025/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
