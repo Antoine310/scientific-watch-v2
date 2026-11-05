@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-05 | [A Data-Driven Approach Using Hardware Performance Counters to Detect Micro-Architectural Attacks](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [Hardware Authenticator Binding: A Secure Alternative to Passkeys](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [Side-Channel Extraction of Dataflow AI Accelerator Hardware Parameters](historical/2025/07.md) | Bibliographie historique |
 | 2026-11-05 | [CWAMR: Reimagining A Capability based Webassembly Runtime Via Cheri-Based Compartmentalization](historical/2025/07.md) | Bibliographie historique |
 | 2026-11-05 | [Hardware-Based Solutions for Secure Cloud Computing](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Uma unidade de gestão de memória de entrada/saída RISC-V de código aberto](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-05 | [HSP-V: Hypervisor-Less Static Partitioning for RISC-V COTS Platforms](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-05 | [Cache Side-Channel Attacks Through Electromagnetic Emanations of DRAM Accesses](historical/2024/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
