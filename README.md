@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-05 | [Uma unidade de gestão de memória de entrada/saída RISC-V de código aberto](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-05 | [HSP-V: Hypervisor-Less Static Partitioning for RISC-V COTS Platforms](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-05 | [Cache Side-Channel Attacks Through Electromagnetic Emanations of DRAM Accesses](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-05 | [Cache side-channel attacks and defenses in constrained environments](historical/2024/01.md) | Bibliographie historique |
 | 2026-11-05 | [Teaching an Old Dog New Tricks: Verifiable FHE Using Commodity Hardware *(date indicative)*](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Tyche: Composable Isolation as a Foundation to Manage Trust in the Cloud](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [On the Inference (In-)Security of Vertical Federated Learning: Efficient Auditing against Inference Tampering Attack](historical/2025/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
