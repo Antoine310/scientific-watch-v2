@@ -51,7 +51,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2025-09 — 13 publication(s)](historical/2025/09.md)
 - [2025-08 — 7 publication(s)](historical/2025/08.md)
 - [2025-07 — 6 publication(s)](historical/2025/07.md)
-- [2025-06 — 16 publication(s)](historical/2025/06.md)
+- [2025-06 — 20 publication(s)](historical/2025/06.md)
 - [2025-05 — 6 publication(s)](historical/2025/05.md)
 - [2025-04 — 4 publication(s)](historical/2025/04.md)
 - [2025-03 — 0 publication(s)](historical/2025/03.md)
