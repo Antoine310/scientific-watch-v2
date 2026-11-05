@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-05 | [SecRISC-DFI: Secure RISC-V Architecture with Data-Flow Integrity Enforcement](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Exploiting Inaccurate Branch History in Side-Channel Attacks](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [Efficient RL-based Cache Vulnerability Exploration by Penalizing Useless Agent Actions](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [SNPeek: Side-Channel Analysis for Privacy Applications on Confidential VMs](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [Global Microprocessor Correctness in the Presence of Transient Execution](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [OpenTitan based Multi-Level Security in FPGA System-on-Chips](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-05 | [QuanShield: Protecting against Side-Channels Attacks using Self-Destructing Enclaves](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-05 | [A Survey of Side-Channel Attacks in Context of Cache -- Taxonomies, Analysis and Mitigation](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-05 | [RISC-V PROCESSOR PERFORMANCE ANALYSIS OF SECURE DESIGN PRINCIPLES](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-05 | [Attack of the Knights:Non Uniform Cache Side Channel Attack](historical/2023/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
