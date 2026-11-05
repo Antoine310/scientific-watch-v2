@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-05 | [OpenTitan based Multi-Level Security in FPGA System-on-Chips](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-05 | [QuanShield: Protecting against Side-Channels Attacks using Self-Destructing Enclaves](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-05 | [A Survey of Side-Channel Attacks in Context of Cache -- Taxonomies, Analysis and Mitigation](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-05 | [RISC-V PROCESSOR PERFORMANCE ANALYSIS OF SECURE DESIGN PRINCIPLES](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-05 | [Attack of the Knights:Non Uniform Cache Side Channel Attack](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-05 | [KeyVisor – A Lightweight ISA Extension for Protected Key Handles with CPU-enforced Usage Policies](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [Let’s DOIT: Using Intel’s Extended HW/SW Contract for Secure Compilation of Crypto Code](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [SuBhI: Securing Embedded System’s Runtime Integrity via Behavioral Information](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [Design and Implementation of a Physically Secure Open-Source FPGA and Toolchain](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [Permutation-Based Firmware Remote Attestation for Internet-of-Things Edge-Based Network *(date indicative)*](historical/2025/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
