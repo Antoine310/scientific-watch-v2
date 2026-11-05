@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-05 | [Teaching an Old Dog New Tricks: Verifiable FHE Using Commodity Hardware *(date indicative)*](historical/2025/07.md) | Bibliographie historique |
 | 2026-11-05 | [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](historical/2025/07.md) | Bibliographie historique |
 | 2026-11-05 | [GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI](historical/2025/07.md) | Bibliographie historique |
 | 2026-11-05 | [Tyche: Composable Isolation as a Foundation to Manage Trust in the Cloud](historical/2025/07.md) | Bibliographie historique |
 | 2026-11-05 | [On the Inference (In-)Security of Vertical Federated Learning: Efficient Auditing against Inference Tampering Attack](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [An Open-source Implementation and Security Analysis of Triad's TEE Trusted Time Protocol](historical/2025/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
