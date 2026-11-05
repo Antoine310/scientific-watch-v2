@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-05 | [FastPath: A Hybrid Approach for Efficient Hardware Security Verification](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [LightRIM: Light Runtime Integrity Measurement for Linux Kernels in Embedded Applications](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [SCONE: A Logic Locking Technique Utilizing SMT Solver and Circuit Encoding Scheme for Efficient Hardware IP Protection](historical/2025/06.md) | Bibliographie historique |
 | 2026-11-05 | [Enabling Lattice-Based Post-Quantum Cryptography on the OpenTitan Platform](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-05 | [BioLeak: Exploiting Cache Timing to Recover Fingerprint Minutiae Coordinates](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-05 | [Secure Instruction and Data-Level Information Flow Tracking Model for RISC-V](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-05 | [Hardware-hardened Sandbox Enclaves for Trusted Serverless Computing](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-05 | [KeyVisor – A Lightweight ISA Extension for Protected Key Handles with CPU-enforced Usage Policies](historical/2025/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
