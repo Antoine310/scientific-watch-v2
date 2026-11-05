@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-05 | [A Data-Driven Approach Using Hardware Performance Counters to Detect Micro-Architectural Attacks](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Hardware Authenticator Binding: A Secure Alternative to Passkeys](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Side-Channel Extraction of Dataflow AI Accelerator Hardware Parameters](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [CWAMR: Reimagining A Capability based Webassembly Runtime Via Cheri-Based Compartmentalization](historical/2025/07.md) | Bibliographie historique |
-| 2026-11-05 | [Hardware-Based Solutions for Secure Cloud Computing](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [SecRISC-DFI: Secure RISC-V Architecture with Data-Flow Integrity Enforcement](historical/2025/07.md) | Bibliographie historique |
+| 2026-11-05 | [Exploiting Inaccurate Branch History in Side-Channel Attacks](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [Efficient RL-based Cache Vulnerability Exploration by Penalizing Useless Agent Actions](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [SNPeek: Side-Channel Analysis for Privacy Applications on Confidential VMs](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-05 | [Global Microprocessor Correctness in the Presence of Transient Execution](historical/2025/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
