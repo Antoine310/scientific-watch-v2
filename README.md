@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [A Genetic Algorithm for a Spectre Attack Agnostic to Branch Predictors](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-06 | [BandwidthBreach: Unleashing Covert and Side Channels through Cache Bandwidth Exploitation](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-06 | [A combined side-channel and transient execution attack scheme on RISC-V processors *(date indicative)*](historical/2025/03.md) | Bibliographie historique |
-| 2026-11-06 | [Demoting Security via Exploitation of Cache Demote Operation in Intel's Latest ISA Extension](historical/2025/03.md) | Bibliographie historique |
-| 2026-11-06 | [SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [CHERI-Crypt: Transparent Memory Encryption on Capability Architectures](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [Poster: A microarchitectural signals analysis platform to craft Hardware Security Counters](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [A Code-Based ISE to Protect Boolean Masking in Software](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [Integration of Intel SGX with Confidential Measurement Control for Enhanced Remote Attestation](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [Consumer electronics supply chain poisoning: anatomizing the unified hardware and software threat model and countermeasures](historical/2025/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
