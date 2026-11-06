@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [Detecting speculative data flow vulnerabilities using weakest precondition reasoning](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [AraOS: Analyzing the Impact of Virtual Memory Management on Vector Unit Performance](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [CVA6S+: A Superscalar RISC-V Core with High-Throughput Memory Architecture](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [Multi-Context Execution on a RISC-V Core for Mixed-Criticality Systems](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [Chypnosis: Undervolting-based Static Side-channel Attacks](historical/2025/04.md) | Bibliographie historique |
+| 2026-11-06 | [CVA6 RISC-V Virtualization: Architecture, Microarchitecture, and Design Space Exploration](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-06 | [A RISC-V Instruction Set Extension for Flexible Hardware/Software Protection of Cryptosystems Masked at High Orders](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-06 | [GuaranTEE: Introducing Control-Flow Attestation for Trusted Execution Environments](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-06 | [Towards Dependable RISC-V Cores for Edge Computing Devices](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-06 | [SPEAR-V: Secure and Practical Enclave Architecture for RISC-V](historical/2023/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
