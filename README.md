@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [BPUFuzzer: Effective Fuzz Testing for Branching Transient Execution Vulnerabilities of RISC-V CPU](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-06 | [ZION: A Practical Confidential Virtual Machine Architecture on Commodity RISC-V Processors](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [FastPath: A Hybrid Approach for Efficient Hardware Security Verification](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [LightRIM: Light Runtime Integrity Measurement for Linux Kernels in Embedded Applications](historical/2025/06.md) | Bibliographie historique |
-| 2026-11-05 | [SCONE: A Logic Locking Technique Utilizing SMT Solver and Circuit Encoding Scheme for Efficient Hardware IP Protection](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-06 | [CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature](historical/2023/10.md) | Bibliographie historique |
+| 2026-11-06 | [Hardware-Assisted Static and Runtime Attestation for Cloud Deployments](historical/2023/10.md) | Bibliographie historique |
+| 2026-11-06 | [Raft: Hardware-assisted Dynamic Information Flow Tracking for Runtime Protection on RISC-V](historical/2023/10.md) | Bibliographie historique |
+| 2026-11-06 | [Towards a Formally Verified Security Monitor for VM-based Confidential Computing](historical/2023/10.md) | Bibliographie historique |
+| 2026-11-06 | [Novel PUF-Based Authentication Protocol for IoT Devices with Secure Boot and Fuzzy Matching](historical/2023/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
