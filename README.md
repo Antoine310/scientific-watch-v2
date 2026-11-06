@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [XpuTEE: A High-Performance and Practical Heterogeneous Trusted Execution Environment for GPUs](historical/2025/04.md) | Bibliographie historique |
 | 2026-11-06 | [SYCLARA: An Open Hardware--Software Platform for Evaluating SYCL Applications on RISC-V Vector Accelerators](historical/2025/04.md) | Bibliographie historique |
 | 2026-11-06 | [CVA6 RISC-V Virtualization: Architecture, Microarchitecture, and Design Space Exploration](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-06 | [A RISC-V Instruction Set Extension for Flexible Hardware/Software Protection of Cryptosystems Masked at High Orders](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-06 | [GuaranTEE: Introducing Control-Flow Attestation for Trusted Execution Environments](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-06 | [Towards Dependable RISC-V Cores for Edge Computing Devices](historical/2023/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
