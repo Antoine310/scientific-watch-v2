@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [Quarantine: Mitigating Transient Execution Attacks with Physical Domain Isolation](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-06 | [PP-Bridge: Establishing a Bridge between the Prefetching and Cache Partitioning](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-06 | [A Runtime Security Monitoring Architecture for Embedded Hypervisors](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-06 | [The Architecture of Trust: Deep Diving into Cloud Security Infrastructure](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [Index Randomization with Dual SRAM-PUF for Spectre Mitigation in RISC-V Branch Predictors](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-06 | [Spec17Tre: A New Dataset in Hardware Security and Using Deep Learning for Detecting Spectre Attacks](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [Secure and Scalable Device Attestation Protocol with Aggregate Signature](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [Towards Secure and Reliable Runtime Patching for Cyber-Physical Systems in Industrial Networks](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [TCEC: Integrity Protection for Containers by Trusted Chip on IoT Edge Computing Nodes](historical/2025/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
