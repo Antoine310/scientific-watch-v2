@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [TNIC: A Trusted NIC Architecture: A hardware-network substrate for building high-performance trustworthy distributed systems](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [UpGate: Low-Power and Secure Over-the-Air Hardware Reconfiguration for Deployed FPGAs](historical/2025/03.md) | Bibliographie historique |
 | 2026-11-06 | [CHERI-Crypt: Transparent Memory Encryption on Capability Architectures](historical/2025/03.md) | Bibliographie historique |
 | 2026-11-06 | [Poster: A microarchitectural signals analysis platform to craft Hardware Security Counters](historical/2025/03.md) | Bibliographie historique |
 | 2026-11-06 | [A Code-Based ISE to Protect Boolean Masking in Software](historical/2025/03.md) | Bibliographie historique |
-| 2026-11-06 | [Integration of Intel SGX with Confidential Measurement Control for Enhanced Remote Attestation](historical/2025/03.md) | Bibliographie historique |
-| 2026-11-06 | [Consumer electronics supply chain poisoning: anatomizing the unified hardware and software threat model and countermeasures](historical/2025/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
