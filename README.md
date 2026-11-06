@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [Universal Remote Attestation for Cloud and Edge Platforms](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-06 | [CVA6-VMRT: A Modular Approach Towards Time-Predictable Virtual Memory in a 64-bit Application Class RISC-V Processor](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Asynchronous Architecture Design and Implementation of Physical Memory Protection for RISC-V](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [S4V: A Benchmark Suite of Transient Execution Attacks for RISC-V Processors](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Random and Safe Cache Architecture to Defeat Cache Timing Attacks](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-06 | [This is How You Lose the Transient Execution War](historical/2023/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
