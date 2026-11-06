@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [Enhancing Runtime Security in Heterogeneous System-in-Package Through a Chiplet-Based Root-of-Trust](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Spec17Tre: A New Dataset in Hardware Security and Using Deep Learning for Detecting Spectre Attacks](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Secure and Scalable Device Attestation Protocol with Aggregate Signature](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Towards Secure and Reliable Runtime Patching for Cyber-Physical Systems in Industrial Networks](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [TCEC: Integrity Protection for Containers by Trusted Chip on IoT Edge Computing Nodes](historical/2025/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
