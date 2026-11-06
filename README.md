@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-06 | [Hardware-Assisted Static and Runtime Attestation for Cloud Deployments](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-06 | [Raft: Hardware-assisted Dynamic Information Flow Tracking for Runtime Protection on RISC-V](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-06 | [Towards a Formally Verified Security Monitor for VM-based Confidential Computing](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-06 | [Novel PUF-Based Authentication Protocol for IoT Devices with Secure Boot and Fuzzy Matching](historical/2023/10.md) | Bibliographie historique |
+| 2026-11-06 | [Index Randomization with Dual SRAM-PUF for Spectre Mitigation in RISC-V Branch Predictors](historical/2025/06.md) | Bibliographie historique |
+| 2026-11-06 | [TPM2.0-Supported Runtime Customizable TEE on FPGA-SoC with User-Controllable vTPM](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [Secure Parsing and Serializing with Separation Logic Applied to CBOR, CDDL, and COSE](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [LURK-T: Limited Use of Remote Keys With Added Trust in TLS 1.3](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [Area Comparison of CHERIoT and PMP in Ibex](historical/2025/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
