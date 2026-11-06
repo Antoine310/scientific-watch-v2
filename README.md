@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [The Architecture of Trust: Deep Diving into Cloud Security Infrastructure](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Index Randomization with Dual SRAM-PUF for Spectre Mitigation in RISC-V Branch Predictors](historical/2025/06.md) | Bibliographie historique |
 | 2026-11-06 | [TPM2.0-Supported Runtime Customizable TEE on FPGA-SoC with User-Controllable vTPM](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Secure Parsing and Serializing with Separation Logic Applied to CBOR, CDDL, and COSE](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [LURK-T: Limited Use of Remote Keys With Added Trust in TLS 1.3](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [Area Comparison of CHERIoT and PMP in Ibex](historical/2025/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
