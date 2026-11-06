@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [Universal Remote Attestation for Cloud and Edge Platforms](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-06 | [CVA6-VMRT: A Modular Approach Towards Time-Predictable Virtual Memory in a 64-bit Application Class RISC-V Processor](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [Asynchronous Architecture Design and Implementation of Physical Memory Protection for RISC-V](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [S4V: A Benchmark Suite of Transient Execution Attacks for RISC-V Processors](historical/2025/05.md) | Bibliographie historique |
-| 2026-11-06 | [Random and Safe Cache Architecture to Defeat Cache Timing Attacks](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-06 | [Multi-Context Execution on a RISC-V Core for Mixed-Criticality Systems](historical/2025/05.md) | Bibliographie historique |
+| 2026-11-06 | [Chypnosis: Undervolting-based Static Side-channel Attacks](historical/2025/04.md) | Bibliographie historique |
+| 2026-11-06 | [ShadowBinding: Realizing Effective Microarchitectures for In-Core Secure Speculation Schemes](historical/2025/04.md) | Bibliographie historique |
+| 2026-11-06 | [Shield Bash: Abusing Defensive Coherence State Retrieval to Break Timing Obfuscation](historical/2025/04.md) | Bibliographie historique |
+| 2026-11-06 | [Slice+Slice Baby: Generating Last-Level Cache Eviction Sets in the Blink of an Eye](historical/2025/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
