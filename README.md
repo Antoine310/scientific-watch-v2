@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [XpuTEE: A High-Performance and Practical Heterogeneous Trusted Execution Environment for GPUs](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [SYCLARA: An Open Hardware--Software Platform for Evaluating SYCL Applications on RISC-V Vector Accelerators](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [CVA6 RISC-V Virtualization: Architecture, Microarchitecture, and Design Space Exploration](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-06 | [A RISC-V Instruction Set Extension for Flexible Hardware/Software Protection of Cryptosystems Masked at High Orders](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-06 | [GuaranTEE: Introducing Control-Flow Attestation for Trusted Execution Environments](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-06 | [CacheFX: A Framework for Evaluating Cache Security](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-06 | [Execution at RISC: Stealth JOP Attacks on RISC-V Applications](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-06 | [TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-06 | [Citadel: Simple Spectre-Safe Isolation For Real-World Programs That Share Memory](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-06 | [Secure Heterogeneous Architecture based on RISC-V and root-of-trust](historical/2023/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
