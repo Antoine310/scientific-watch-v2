@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [S4V: A Benchmark Suite of Transient Execution Attacks for RISC-V Processors](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Random and Safe Cache Architecture to Defeat Cache Timing Attacks](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-06 | [This is How You Lose the Transient Execution War](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-06 | [Penetrating Shields: A Systematic Analysis of Memory Corruption Mitigations in the Spectre Era](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-06 | [M-Party: A Secure Dynamic Cache Partitioning by More Than Two Parties](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-06 | [Transient Execution Attacks](historical/2023/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
