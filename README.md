@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-06 | [Detecting speculative data flow vulnerabilities using weakest precondition reasoning](historical/2025/04.md) | Bibliographie historique |
+| 2026-11-06 | [AraOS: Analyzing the Impact of Virtual Memory Management on Vector Unit Performance](historical/2025/04.md) | Bibliographie historique |
+| 2026-11-06 | [CVA6S+: A Superscalar RISC-V Core with High-Throughput Memory Architecture](historical/2025/04.md) | Bibliographie historique |
 | 2026-11-06 | [Multi-Context Execution on a RISC-V Core for Mixed-Criticality Systems](historical/2025/05.md) | Bibliographie historique |
 | 2026-11-06 | [Chypnosis: Undervolting-based Static Side-channel Attacks](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [ShadowBinding: Realizing Effective Microarchitectures for In-Core Secure Speculation Schemes](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [Shield Bash: Abusing Defensive Coherence State Retrieval to Break Timing Obfuscation](historical/2025/04.md) | Bibliographie historique |
-| 2026-11-06 | [Slice+Slice Baby: Generating Last-Level Cache Eviction Sets in the Blink of an Eye](historical/2025/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
