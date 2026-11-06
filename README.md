@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-06 | [CacheFX: A Framework for Evaluating Cache Security](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-06 | [Execution at RISC: Stealth JOP Attacks on RISC-V Applications](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-06 | [TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-06 | [Citadel: Simple Spectre-Safe Isolation For Real-World Programs That Share Memory](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-06 | [Secure Heterogeneous Architecture based on RISC-V and root-of-trust](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-06 | [Demoting Security via Exploitation of Cache Demote Operation in Intel's Latest ISA Extension](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [Activation Functions Considered Harmful: Recovering Neural Network Weights through Controlled Channels](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [Efficient Trace for RISC-V: Design, Evaluation, and Integration in CVA6](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-06 | [Hardware Design of an Advanced-Feature Cryptographic Tile Within the European Processor Initiative](historical/2025/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
