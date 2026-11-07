@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [Call Rewinding: Efficient Backward Edge Protection](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [Multi-modal Pre-silicon Evaluation of Hardware Masking Styles](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [SecRiSBen: A RISC-V based SoC Benchmark for Evaluation of Security Verification Tools](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-07 | [Interstellar: Fully Partitioned and Efficient Security Monitoring Hardware Near a Processor Core for Protecting Systems against Attacks on Privileged Software](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-07 | [LightZone: Lightweight Hardware-Assisted In-Process Isolation for ARM64](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [Trace Copilot: Automatically Locating Cryptographic Operations in Side-Channel Traces by Firmware Binary Instrumenting](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [Glitch-Stopping Circuits: Hardware Secure Masking without Registers](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [Enhancing Security in Bring Your Own Device Environments (BYOD) with Trusted Platform Modules, Continuous Monitoring, and Hardware Security Modules](historical/2024/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
