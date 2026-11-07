@@ -31,7 +31,7 @@ Aucune nouvelle publication identifiable cette semaine.
 <!-- SCIENTIFIC-WATCH-REPORTS:END -->
 
 <!-- SCIENTIFIC-WATCH-HISTORY:START -->
-## Bibliographie historique (depuis janvier 2023)
+## Bibliographie historique (depuis janvier 2022)
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
@@ -80,5 +80,6 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2023-04 — 6 publication(s)](historical/2023/04.md)
 - [2023-03 — 4 publication(s)](historical/2023/03.md)
 - [2023-02 — 4 publication(s)](historical/2023/02.md)
-- [2023-01 — 2 publication(s)](historical/2023/01.md)
+- [2023-01 — 3 publication(s)](historical/2023/01.md)
+- [2022-12 — 1 publication(s)](historical/2022/12.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
