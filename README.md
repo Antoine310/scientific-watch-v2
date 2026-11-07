@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-07 | [PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees](historical/2025/03.md) | Bibliographie historique |
-| 2026-11-07 | [ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory](historical/2025/03.md) | Bibliographie historique |
-| 2026-11-06 | [Hide and Seek with Spectres: Efficient discovery of speculative information leaks with random testing](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-06 | [Scatter and Split Securely: Defeating Cache Contention and Occupancy Attacks](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-06 | [The ghost is the machine: Weird machines in transient execution](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-07 | [PMU-Data: Data Traces Could be Distinguished](historical/2025/02.md) | Bibliographie historique |
+| 2026-11-07 | [SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts](historical/2025/02.md) | Bibliographie historique |
+| 2026-11-07 | [CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](historical/2025/02.md) | Bibliographie historique |
+| 2026-11-07 | [Towards Reinforcement Learning for Exploration of Speculative Execution Vulnerabilities](historical/2025/02.md) | Bibliographie historique |
+| 2026-11-07 | [U Can Touch This! Microarchitectural Timing Attacks via Machine Clears](historical/2025/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
