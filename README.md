@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-07 | [MAXPOWR: Memory Attestation and Export in Process-based Trusted Execution Environments](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [A Universally Composable Key Management System Using Trusted Hardware](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [TRACES: TEE-based Runtime Auditing for Commodity Embedded Systems](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [CCALK: (When) CVA6 Cache Associativity Leaks the Key](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-07 | [Strategies for securing cache memories against software side-channel attacks](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-07 | [SpecTerminator: Blocking Speculative Side Channels Based on Instruction Classes on RISC-V](historical/2022/11.md) | Bibliographie historique |
+| 2026-11-07 | [Risky Translations: Securing TLBs against Timing Side Channels](historical/2022/11.md) | Bibliographie historique |
+| 2026-11-07 | [Remapped Cache Layout: Thwarting Cache-Based Side-Channel Attacks with a Hardware Defense](historical/2022/11.md) | Bibliographie historique |
+| 2026-11-07 | [Specognitor: Identifying Spectre Vulnerabilities via Prediction-Aware Symbolic Execution](historical/2022/11.md) | Bibliographie historique |
+| 2026-11-07 | [Verifying RISC-V Physical Memory Protection](historical/2022/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
