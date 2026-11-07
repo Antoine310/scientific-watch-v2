@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [Poster: Marian: An Open Source RISC-V Processor with Zvk Vector Cryptography Extensions](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-07 | [SpecTerminator: Blocking Speculative Side Channels Based on Instruction Classes on RISC-V](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-07 | [Risky Translations: Securing TLBs against Timing Side Channels](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-07 | [Remapped Cache Layout: Thwarting Cache-Based Side-Channel Attacks with a Hardware Defense](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-07 | [Specognitor: Identifying Spectre Vulnerabilities via Prediction-Aware Symbolic Execution](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-07 | [Verifying RISC-V Physical Memory Protection](historical/2022/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
