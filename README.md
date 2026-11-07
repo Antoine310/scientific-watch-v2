@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-07 | [MicroCFI: Microarchitecture-Level Control-Flow Restrictions for Spectre Mitigation](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-07 | [Microarchitectural Side-Channel Threats, Weaknesses and Mitigations: A Systematic Mapping Study](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-07 | [Comparison of Cache Replacement Algorithms for RISC-V](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-07 | [Software Root Of Trust For A GNSS Receiver](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-07 | [RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives](historical/2025/01.md) | Bibliographie historique |
+| 2026-11-07 | [CCxTrust: Confidential Computing Platform Based on TEE and TPM Collaborative Trust](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [Oreo: Protecting ASLR Against Microarchitectural Attacks (Extended Version)](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [VerifiableFL: Verifiable Claims for Federated Learning using Exclaves](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [T-Edge: Trusted Heterogeneous Edge Computing](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [Building a Privacy Web with SPIDEr -- Secure Pipeline for Information De-Identification with End-to-End Encryption](historical/2024/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
