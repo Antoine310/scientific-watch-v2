@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [Hardware‐assisted remote attestation design for critical embedded systems](historical/2023/03.md) | Bibliographie historique |
+| 2026-11-07 | [ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation](historical/2023/03.md) | Bibliographie historique |
 | 2026-11-07 | [CIBPU: A Conflict-Invisible Secure Branch Prediction Unit](historical/2025/01.md) | Bibliographie historique |
 | 2026-11-07 | [Modern Hardware Security: A Review of Attacks and Countermeasures](historical/2025/01.md) | Bibliographie historique |
 | 2026-11-07 | [Analyzing and Exploiting Branch Mispredictions in Microcode](historical/2025/01.md) | Bibliographie historique |
-| 2026-11-07 | [EILID: Execution Integrity for Low-end IoT Devices](historical/2025/01.md) | Bibliographie historique |
-| 2026-11-07 | [A Comprehensive Framework for Building Highly Secure, Network-Connected Devices: Chip to App](historical/2025/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
