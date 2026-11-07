@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [MicroCFI: Microarchitecture-Level Control-Flow Restrictions for Spectre Mitigation](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-07 | [Microarchitectural Side-Channel Threats, Weaknesses and Mitigations: A Systematic Mapping Study](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-07 | [Comparison of Cache Replacement Algorithms for RISC-V](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-07 | [Software Root Of Trust For A GNSS Receiver](historical/2023/01.md) | Bibliographie historique |
 | 2026-11-07 | [RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives](historical/2025/01.md) | Bibliographie historique |
-| 2026-11-07 | [Protecting Cache States Against Both Speculative Execution Attacks and Side-channel Attacks](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-07 | [Comprehensive Evaluation of RSB and Spectre Vulnerability on Modern Processors](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-07 | [Optimization and Amplification of Cache Side Channel Signals](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-07 | [A method of defense against cache timing attack in non-volatile memory](historical/2023/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
