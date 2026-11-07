@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-07 | [A cluster of patterns for trusted computing](historical/2025/02.md) | Bibliographie historique |
-| 2026-11-07 | [BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-07 | [Security Verification of the OpenTitan Hardware Root of Trust](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-07 | [Remote Attestation Assurance Arguments for Trusted Execution Environments](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-07 | [End-to-End Security for Distributed Event-driven Enclave Applications on Heterogeneous TEEs](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [ACPC: Covert Channel Attack on Last Level Cache using Dynamic Cache Partitioning](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [Timing the Transient Execution: A New Side-Channel Attack on Intel CPUs](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [Information Flow Coverage Metrics for Hardware Security Verification](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [Securing a RISC-V architecture: A dynamic approach](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [A survey on the (in)security of trusted execution environments](historical/2023/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
