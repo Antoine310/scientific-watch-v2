@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [TRACES: TEE-based Runtime Auditing for Commodity Embedded Systems](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-07 | [CCALK: (When) CVA6 Cache Associativity Leaks the Key](historical/2022/12.md) | Bibliographie historique |
 | 2026-11-07 | [Strategies for securing cache memories against software side-channel attacks](historical/2022/12.md) | Bibliographie historique |
 | 2026-11-07 | [Designing a Provenance Analysis for SGX Enclaves](historical/2022/12.md) | Bibliographie historique |
 | 2026-11-07 | [Efficiently Hardening SGX Enclaves against Memory Access Pattern Attacks via Dynamic Program Partitioning](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-07 | [Generic Tagging for RISC-V Binaries](historical/2022/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
