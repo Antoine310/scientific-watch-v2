@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-07 | [CPU Address-Leakage Transient Execution Attack Detection and Its Countermeasures](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [EBCache: A novel cache-based mechanism for mitigating the spectre attacks for RISC-V processor](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [MyTEE: Own the Trusted Execution Environment on Embedded Devices](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-07 | [A Lightweight True Random Number Generator for Root of Trust Applications](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-07 | [Trusted Hart for Mobile RISC-V Security](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-07 | [Interstellar: Fully Partitioned and Efficient Security Monitoring Hardware Near a Processor Core for Protecting Systems against Attacks on Privileged Software](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [LightZone: Lightweight Hardware-Assisted In-Process Isolation for ARM64](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [Trace Copilot: Automatically Locating Cryptographic Operations in Side-Channel Traces by Firmware Binary Instrumenting](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [Glitch-Stopping Circuits: Hardware Secure Masking without Registers](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [Enhancing Security in Bring Your Own Device Environments (BYOD) with Trusted Platform Modules, Continuous Monitoring, and Hardware Security Modules](historical/2024/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
