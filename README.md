@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [CPU Address-Leakage Transient Execution Attack Detection and Its Countermeasures](historical/2024/12.md) | Bibliographie historique |
+| 2026-11-07 | [EBCache: A novel cache-based mechanism for mitigating the spectre attacks for RISC-V processor](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-07 | [MyTEE: Own the Trusted Execution Environment on Embedded Devices](historical/2023/01.md) | Bibliographie historique |
 | 2026-11-07 | [A Lightweight True Random Number Generator for Root of Trust Applications](historical/2023/01.md) | Bibliographie historique |
 | 2026-11-07 | [Trusted Hart for Mobile RISC-V Security](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-07 | [ProMiSE: A Programmable Hardware Monitor for Secure Execution in Zero Trust Networks](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [CCxTrust: Confidential Computing Platform Based on TEE and TPM Collaborative Trust](historical/2024/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
