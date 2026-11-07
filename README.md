@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [Security Verification of the OpenTitan Hardware Root of Trust](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [Remote Attestation Assurance Arguments for Trusted Execution Environments](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-07 | [End-to-End Security for Distributed Event-driven Enclave Applications on Heterogeneous TEEs](historical/2023/04.md) | Bibliographie historique |
 | 2026-11-07 | [PMU-Data: Data Traces Could be Distinguished](historical/2025/02.md) | Bibliographie historique |
-| 2026-11-07 | [SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts](historical/2025/02.md) | Bibliographie historique |
-| 2026-11-07 | [CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](historical/2025/02.md) | Bibliographie historique |
-| 2026-11-07 | [Towards Reinforcement Learning for Exploration of Speculative Execution Vulnerabilities](historical/2025/02.md) | Bibliographie historique |
-| 2026-11-07 | [U Can Touch This! Microarchitectural Timing Attacks via Machine Clears](historical/2025/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
