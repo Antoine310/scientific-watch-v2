@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-07 | [PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees](historical/2025/03.md) | Bibliographie historique |
+| 2026-11-07 | [ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory](historical/2025/03.md) | Bibliographie historique |
 | 2026-11-06 | [Hide and Seek with Spectres: Efficient discovery of speculative information leaks with random testing](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-06 | [Scatter and Split Securely: Defeating Cache Contention and Occupancy Attacks](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-06 | [The ghost is the machine: Weird machines in transient execution](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-06 | [SCALE: Secure and Scalable Cache Partitioning](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-06 | [Spectre Declassified: Reading from the Right Place at the Wrong Time](historical/2023/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
