@@ -11,7 +11,13 @@
 
 ### Google Scholar et veille scientifique
 
-Aucune nouvelle publication identifiable cette semaine.
+| Ajout | Publication | Source |
+| --- | --- | --- |
+| 2026-11-08 | [Flashpoint: Privileged-Software Isolation on RISC-V for Dynamic Root of Trust](reports/2026/week-45.md) | Rapport hebdomadaire |
+| 2026-11-08 | [Last-Level Cache Side-Channel Attacks Are Feasible in the Modern Public Cloud](reports/2026/week-45.md) | Rapport hebdomadaire |
+| 2026-11-08 | [DyFORA: Dynamic Firmware Obfuscation and Remote Attestation using Hardware Signatures](reports/2026/week-45.md) | Rapport hebdomadaire |
+| 2026-11-08 | [SoK: Understanding Design Choices and Pitfalls of Trusted Execution Environments](reports/2026/week-45.md) | Rapport hebdomadaire |
+| 2026-11-08 | [CaSA: End-to-End Quantitative Security Analysis of Randomly Mapped Caches](reports/2026/week-45.md) | Rapport hebdomadaire |
 
 ### Bibliographie historique
 
