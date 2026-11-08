@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-08 | [TreasureCache: Hiding Cache Evictions Against Side-Channel Attacks](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [fence.t.s: Closing Timing Channels in High-Performance Out-of-Order Cores through ISA-Supported Temporal Partitioning](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Securing Network-Booting Linux Systems at the Example of bwLehrpool and bwForCluster NEMO](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Attacking Slicing Network via Side-channel Reinforcement Learning Attack](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Design and Implementation of the PHaSE Core: Establishing Hardware Roots of Trust for Safety-Critical Embedded Devices](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Using Hardware Events to Detect Side-Channel Attacks](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Closing the Gap: Leakage Contracts for Processors with Transitions and Glitches](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Another Evidence to not Employ Customized Masked Hardware](historical/2024/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
