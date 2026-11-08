@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-08 | [Exploiting the Lock: Leveraging MiG-V's Logic Locking for Secret-Data Extraction](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-08 | [CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Cloud-Native Computing](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-08 | [Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](historical/2024/08.md) | Bibliographie historique |
 | 2026-11-08 | [Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-08 | [SoK: Practical Foundations for Software Spectre Defenses](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-08 | [Dynamic Binary Translation for SGX Enclaves](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-08 | [CTR: Checkpoint, Transfer, and Restore for Secure Enclaves](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-08 | [TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices](historical/2022/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
