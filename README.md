@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-08 | [Formal Verification for Secure Processors: A Guide for Computer Architects *(date indicative)*](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [A Scheduling-Aware Defense Against Prefetching-Based Side-Channel Attacks](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [A Survey of Hardware Improvements to Secure Program Execution](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [BETA: Automated Black-box Exploration for Timing Attacks in Processors](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks on ARM-FPGA Embedded SoC](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [DITES: A Lightweight and Flexible Dual-Core Isolated Trusted Execution SoC Based on RISC-V](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-08 | [An Enclave-based TEE for SE-in-SoC in RISC-V Industry](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-08 | [Attack detection based on machine learning algorithms for different variants of Spectre attacks and different Meltdown attack implementations](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-08 | [A State Transition Based Cache Side Channel Attack Model](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-08 | [CFRV: A Decentralized Control-Flow Attestation Schema Using Mutual Secret Sharing](historical/2022/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
