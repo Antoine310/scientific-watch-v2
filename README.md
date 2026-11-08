@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-08 | [Locality Based Cache Side-channel Attack Detection](historical/2022/10.md) | Bibliographie historique |
-| 2026-11-08 | [Short Paper: Static and Microarchitectural ML-Based Approaches For Detecting Spectre Vulnerabilities and Attacks](historical/2022/10.md) | Bibliographie historique |
-| 2026-11-08 | [Hardware Root of Trust for SSN-basedDFT Ecosystems](historical/2022/09.md) | Bibliographie historique |
-| 2026-11-08 | [Software Solution of Secure Debug Based on RISC-V CPU](historical/2022/09.md) | Bibliographie historique |
-| 2026-11-08 | [Timing Side-Channel Mitigation via Automated Program Repair](historical/2024/11.md) | Bibliographie historique |
+| 2026-11-08 | [Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Breaking Bad: How Compilers Break Constant-Time Implementations](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Research Directions for Verifiable Crypto-Physically Secure TEEs](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Secure Software/Hardware Hybrid In-Field Testing for System-on-Chip](historical/2024/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
