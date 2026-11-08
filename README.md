@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Temporal Staging for Correct-by-Construction Cryptographic Hardware](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Fully Automatic Compiler Retargeting and CV-X-IF Hardware Interface Generation for RISC-V Custom Instructions](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Runtime Self-Attestation of FPGA-Based IoT Devices](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Cracking the Core: Hardware Vulnerabilities in Android Devices Unveiled](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Efficient Boolean-to-Arithmetic Mask Conversion in Hardware](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [Efficient Runtime Firmware Update Mechanism for LoRaWAN Class A Devices](historical/2024/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
