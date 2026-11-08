@@ -27,6 +27,7 @@ Aucune nouvelle publication identifiable cette semaine.
 ## Rapports hebdomadaires
 
 <!-- SCIENTIFIC-WATCH-REPORTS:START -->
+- **2026 — semaine 45** : [8 publication(s)](reports/2026/week-45.md)
 - **2026 — semaine 44** : [7 publication(s)](reports/2026/week-44.md)
 <!-- SCIENTIFIC-WATCH-REPORTS:END -->
 
