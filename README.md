@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Formal Verification for Secure Processors: A Guide for Computer Architects *(date indicative)*](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [A Scheduling-Aware Defense Against Prefetching-Based Side-Channel Attacks](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [A Survey of Hardware Improvements to Secure Program Execution](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [BETA: Automated Black-box Exploration for Timing Attacks in Processors](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks on ARM-FPGA Embedded SoC](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [HIVE: Scalable Hardware-Firmware Co-Verification Using Scenario-Based Decomposition and Automated Hint Extraction *(date indicative)*](historical/2024/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
