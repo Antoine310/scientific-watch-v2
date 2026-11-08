@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Timing Side-Channel Mitigation via Automated Program Repair](historical/2024/11.md) | Bibliographie historique |
 | 2026-11-08 | [Bridge: A Leak-Free Hardware-Software Architecture for Parallel Embedded Systems](historical/2024/11.md) | Bibliographie historique |
 | 2026-11-08 | [Control-Flow Integrity at RISC: Attacking RISC-V by Jump-Oriented Programming](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-08 | [Implementacão do RISC-V IOPMP no CVA6 SoC](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-08 | [Is RISC-V ready for Space? A Security Perspective](historical/2022/10.md) | Bibliographie historique |
-| 2026-11-08 | [Bao-Enclave: Virtualization-based Enclaves for Arm](historical/2022/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
