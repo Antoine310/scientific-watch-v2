@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-08 | [Patching FPGAs: The Security Implications of Bitstream Modifications](historical/2024/11.md) | Bibliographie historique |
-| 2026-11-08 | [TaPaFuzz: Hardware-accelerated RISC-V bare-metal firmware fuzzing using rapid job launches *(date indicative)*](historical/2024/11.md) | Bibliographie historique |
-| 2026-11-08 | [rTPM: A Native Firmware-Based Trusted Platform Module for RISC-V](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-08 | [Teapot: Efficiently Uncovering Spectre Gadgets in COTS Binaries](historical/2024/11.md) | Bibliographie historique |
-| 2026-11-08 | [Comprehensive Kernel Safety in the Spectre Era: Mitigations and Performance Evaluation (Extended Version)](historical/2024/11.md) | Bibliographie historique |
+| 2026-11-08 | [Control-Flow Integrity at RISC: Attacking RISC-V by Jump-Oriented Programming](historical/2022/11.md) | Bibliographie historique |
+| 2026-11-08 | [Implementacão do RISC-V IOPMP no CVA6 SoC](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-08 | [Is RISC-V ready for Space? A Security Perspective](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-08 | [Bao-Enclave: Virtualization-based Enclaves for Arm](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-08 | [Providing Trusted Execution Environments using FPGA](historical/2022/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
