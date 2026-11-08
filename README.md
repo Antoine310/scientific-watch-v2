@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [TreasureCache: Hiding Cache Evictions Against Side-Channel Attacks](historical/2024/09.md) | Bibliographie historique |
 | 2026-11-08 | [fence.t.s: Closing Timing Channels in High-Performance Out-of-Order Cores through ISA-Supported Temporal Partitioning](historical/2024/09.md) | Bibliographie historique |
 | 2026-11-08 | [Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)](historical/2024/09.md) | Bibliographie historique |
 | 2026-11-08 | [Securing Network-Booting Linux Systems at the Example of bwLehrpool and bwForCluster NEMO](historical/2024/09.md) | Bibliographie historique |
 | 2026-11-08 | [Attacking Slicing Network via Side-channel Reinforcement Learning Attack](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Ciphertext Policy Attribute Based Encryption with Intel SGX](historical/2024/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
