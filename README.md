@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-08 | [High Performance and Predictable Shared Last-level Cache for Safety-Critical Systems](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Remote Attestation with Software Updates in Embedded Systems](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Turn on, Tune in, and Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [SoK: Hardware-supported Trusted Execution Environments](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-08 | [Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-08 | [SoK: Practical Foundations for Software Spectre Defenses](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-08 | [Dynamic Binary Translation for SGX Enclaves](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-08 | [CTR: Checkpoint, Transfer, and Restore for Secure Enclaves](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-08 | [TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices](historical/2022/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
