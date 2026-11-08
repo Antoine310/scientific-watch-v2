@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Runtime Self-Attestation of FPGA-Based IoT Devices](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Cracking the Core: Hardware Vulnerabilities in Android Devices Unveiled](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Efficient Boolean-to-Arithmetic Mask Conversion in Hardware](historical/2024/10.md) | Bibliographie historique |
+| 2026-11-08 | [Efficient Runtime Firmware Update Mechanism for LoRaWAN Class A Devices](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [DITES: A Lightweight and Flexible Dual-Core Isolated Trusted Execution SoC Based on RISC-V](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-08 | [An Enclave-based TEE for SE-in-SoC in RISC-V Industry](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-08 | [Attack detection based on machine learning algorithms for different variants of Spectre attacks and different Meltdown attack implementations](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-08 | [A State Transition Based Cache Side Channel Attack Model](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-08 | [CFRV: A Decentralized Control-Flow Attestation Schema Using Mutual Secret Sharing](historical/2022/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
