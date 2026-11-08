@@ -93,4 +93,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2022-10 — 5 publication(s)](historical/2022/10.md)
 - [2022-09 — 3 publication(s)](historical/2022/09.md)
 - [2022-08 — 5 publication(s)](historical/2022/08.md)
+- [2022-07 — 1 publication(s)](historical/2022/07.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
