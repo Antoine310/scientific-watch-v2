@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Remote Attestation with Software Updates in Embedded Systems](historical/2024/09.md) | Bibliographie historique |
+| 2026-11-08 | [Turn on, Tune in, and Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters](historical/2024/09.md) | Bibliographie historique |
 | 2026-11-08 | [SoK: Hardware-supported Trusted Execution Environments](historical/2022/05.md) | Bibliographie historique |
 | 2026-11-08 | [Fault-Resistant Partitioning of Secure CPUs for System Co-Verification against Faults](historical/2024/09.md) | Bibliographie historique |
 | 2026-11-08 | [Design and Implementation of the PHaSE Core: Establishing Hardware Roots of Trust for Safety-Critical Embedded Devices](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Using Hardware Events to Detect Side-Channel Attacks](historical/2024/09.md) | Bibliographie historique |
-| 2026-11-08 | [Closing the Gap: Leakage Contracts for Processors with Transitions and Glitches](historical/2024/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
