@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Patching FPGAs: The Security Implications of Bitstream Modifications](historical/2024/11.md) | Bibliographie historique |
+| 2026-11-08 | [TaPaFuzz: Hardware-accelerated RISC-V bare-metal firmware fuzzing using rapid job launches *(date indicative)*](historical/2024/11.md) | Bibliographie historique |
 | 2026-11-08 | [rTPM: A Native Firmware-Based Trusted Platform Module for RISC-V](historical/2024/12.md) | Bibliographie historique |
 | 2026-11-08 | [Teapot: Efficiently Uncovering Spectre Gadgets in COTS Binaries](historical/2024/11.md) | Bibliographie historique |
 | 2026-11-08 | [Comprehensive Kernel Safety in the Spectre Era: Mitigations and Performance Evaluation (Extended Version)](historical/2024/11.md) | Bibliographie historique |
-| 2026-11-07 | [Poster: Marian: An Open Source RISC-V Processor with Zvk Vector Cryptography Extensions](historical/2024/12.md) | Bibliographie historique |
-| 2026-11-07 | [SpecTerminator: Blocking Speculative Side Channels Based on Instruction Classes on RISC-V](historical/2022/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
