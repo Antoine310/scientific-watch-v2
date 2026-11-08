@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [WaTZ: A Trusted WebAssembly Runtime Environment with Remote Attestation for TrustZone](historical/2022/07.md) | Bibliographie historique |
+| 2026-11-08 | [RESEKRA: Remote Enrollment Using SEaled Keys for Remote Attestation](historical/2022/07.md) | Bibliographie historique |
 | 2026-11-08 | [Temporal Staging for Correct-by-Construction Cryptographic Hardware](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Fully Automatic Compiler Retargeting and CV-X-IF Hardware Interface Generation for RISC-V Custom Instructions](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Runtime Self-Attestation of FPGA-Based IoT Devices](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [Cracking the Core: Hardware Vulnerabilities in Android Devices Unveiled](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [Efficient Boolean-to-Arithmetic Mask Conversion in Hardware](historical/2024/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
