@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-08 | [Avenger: Punishing the Cross-Core Last-Level Cache Attacker and Not the Victim by Isolating the Attacker](historical/2022/09.md) | Bibliographie historique |
+| 2026-11-08 | [Implementation of Cache Timing Attack Based on Present Algorithm](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-08 | [Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Breaking Bad: How Compilers Break Constant-Time Implementations](historical/2024/10.md) | Bibliographie historique |
 | 2026-11-08 | [Research Directions for Verifiable Crypto-Physically Secure TEEs](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM](historical/2024/10.md) | Bibliographie historique |
-| 2026-11-08 | [Secure Software/Hardware Hybrid In-Field Testing for System-on-Chip](historical/2024/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
