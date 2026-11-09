@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [Fast Selective Flushing to Mitigate Contention-based Cache Timing Attacks](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-09 | [A TOCTOU Attack on DICE Attestation](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-09 | [An Exploratory Study of Attestation Mechanisms for Trusted Execution Environments](historical/2022/04.md) | Bibliographie historique |
 | 2026-11-09 | [TVRAVNF: an efficient low-cost TEE-based virtual remote attestation scheme for virtual network functions](historical/2024/08.md) | Bibliographie historique |
 | 2026-11-08 | [Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-08 | [Exploiting the Lock: Leveraging MiG-V's Logic Locking for Secret-Data Extraction](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-08 | [CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Cloud-Native Computing](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-08 | [Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](historical/2024/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
