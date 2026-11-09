@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [Privacy-Preserving Localization using Enclaves](historical/2021/12.md) | Bibliographie historique |
 | 2026-11-09 | [Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [Evaluating Trusted Firmware Remote Attestation on ARM and RISC-V Edge Computing Prototypes](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [A Hardware Security Protection Method for Conditional Branches of Embedded Systems](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [ReCFA: Resilient Control-Flow Attestation](historical/2021/12.md) | Bibliographie historique |
-| 2026-11-09 | [Trust Beyond Border: Lightweight, Verifiable User Isolation for Protecting In-Enclave Services](historical/2021/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
