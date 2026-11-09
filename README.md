@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [Self-Assertion-Based Countermeasures Within a RISC-V Microprocessor for Coverage of Information Leakage Faults *(date indicative)*](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [A 55nm 350MHz 328mW Secure RISC-V CPU for Lightweight Systems](historical/2024/07.md) | Bibliographie historique |
 | 2026-11-09 | [CacheSquash: Making caches speculation-aware](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [On Kernel's Safety in the Spectre Era (Extended Version)](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [SemPat: Using Hyperproperty-based Semantic Analysis to Generate Microarchitectural Attack Patterns](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-09 | [Shesha: Multi-head Microarchitectural Leakage Discovery in new-generation Intel Processors](historical/2024/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
