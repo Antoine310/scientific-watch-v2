@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-09 | [Execution security in the Spectre era](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-09 | [Chunked-Cache: On-Demand and Scalable Cache Isolation for Security Architectures](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-09 | [Systematic Analysis of Programming Languages and Their Execution Environments for Spectre Attacks](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-09 | [Trusted Execution Environment Hardware by Isolated Heterogeneous Architecture for Key Scheduling](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-09 | [CacheHawkeye: Detecting Cache Side Channel Attacks Based on Memory Events](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-09 | [A 55nm 350MHz 328mW Secure RISC-V CPU for Lightweight Systems](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [CacheSquash: Making caches speculation-aware](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-09 | [On Kernel's Safety in the Spectre Era (Extended Version)](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-09 | [SemPat: Using Hyperproperty-based Semantic Analysis to Generate Microarchitectural Attack Patterns](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-09 | [Shesha: Multi-head Microarchitectural Leakage Discovery in new-generation Intel Processors](historical/2024/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
