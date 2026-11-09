@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-09 | [SGXFault: An Efficient Page Fault Handling Mechanism for SGX Enclaves *(date indicative)*](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-09 | [Do You Even Lift? Strengthening Compiler Security Guarantees Against Spectre Attacks](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-09 | [SEA Cache: A Performance-Efficient Countermeasure for Contention-based Attacks](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-09 | [Towards Trust Proof for Secure Confidential Virtual Machines](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-09 | [Design of lightweight memory protection solution based on RISC-V processor](historical/2024/06.md) | Bibliographie historique |
+| 2026-11-09 | [Bypassing Isolated Execution on RISC-V using Side-Channel-Assisted Fault-Injection and Its Countermeasure](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-09 | [Enabling Design Space Exploration for RISC-V Secure Compute Environments](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-09 | [RT-Sniper: A Low-Overhead Defense Mechanism Pinpointing Cache Side-Channel Attacks](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-09 | [Composite Enclaves: Towards Disaggregated Trusted Execution](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-09 | [Exorcising Spectres with Secure Compilers](historical/2021/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
