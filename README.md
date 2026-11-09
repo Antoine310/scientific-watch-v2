@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [POSTER: On the Feasibility of Inferring SGX Execution through PMU](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [A Comprehensive Trusted Runtime for WebAssembly With Intel SGX *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
 | 2026-11-09 | [Transient Execution and Side Channel Analysis: a Vulnerability or a Science Experiment?](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-09 | [A Cross-Platform Cache Timing Attack Framework via Deep Learning](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-09 | [Performance evolution of mitigating transient execution attacks](historical/2022/03.md) | Bibliographie historique |
-| 2026-11-09 | [ShEF: shielded enclaves for cloud FPGAs](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-09 | [Memory Corruption at the Border of Trusted Execution](historical/2024/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
