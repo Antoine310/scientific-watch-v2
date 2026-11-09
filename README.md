@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [A Trusted Execution Environment RISC-V System on Chip](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-09 | [Research on control flow integrity for RISC-V](historical/2024/08.md) | Bibliographie historique |
 | 2026-11-09 | [Nanovised Control Flow Attestation](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-09 | [A Review of Technologies that can Provide a 'Root of Trust' for Operational Technologies](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-09 | [Fast Selective Flushing to Mitigate Contention-based Cache Timing Attacks](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-09 | [A TOCTOU Attack on DICE Attestation](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-09 | [An Exploratory Study of Attestation Mechanisms for Trusted Execution Environments](historical/2022/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
