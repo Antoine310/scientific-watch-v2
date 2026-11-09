@@ -11,23 +11,17 @@
 
 ### Google Scholar et veille scientifique
 
-| Ajout | Publication | Source |
-| --- | --- | --- |
-| 2026-11-08 | [Flashpoint: Privileged-Software Isolation on RISC-V for Dynamic Root of Trust](reports/2026/week-45.md) | Rapport hebdomadaire |
-| 2026-11-08 | [Last-Level Cache Side-Channel Attacks Are Feasible in the Modern Public Cloud](reports/2026/week-45.md) | Rapport hebdomadaire |
-| 2026-11-08 | [DyFORA: Dynamic Firmware Obfuscation and Remote Attestation using Hardware Signatures](reports/2026/week-45.md) | Rapport hebdomadaire |
-| 2026-11-08 | [SoK: Understanding Design Choices and Pitfalls of Trusted Execution Environments](reports/2026/week-45.md) | Rapport hebdomadaire |
-| 2026-11-08 | [CaSA: End-to-End Quantitative Security Analysis of Randomly Mapped Caches](reports/2026/week-45.md) | Rapport hebdomadaire |
+Aucune nouvelle publication identifiable cette semaine.
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [Transient Execution and Side Channel Analysis: a Vulnerability or a Science Experiment?](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-09 | [A Cross-Platform Cache Timing Attack Framework via Deep Learning](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-09 | [Performance evolution of mitigating transient execution attacks](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-09 | [ShEF: shielded enclaves for cloud FPGAs](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-09 | [Memory Corruption at the Border of Trusted Execution](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [Beyond Over-Protection: A Targeted Approach to Spectre Mitigation and Performance Optimization *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [SoK: Can We Really Detect Cache Side-Channel Attacks by Monitoring Performance Counters? *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [A Lightweight Hardware-Assisted Security Method for eFPGA Edge Devices](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [A Secure Computing System With Hardware-Efficient Lazy Bonsai Merkle Tree for FPGA-Attached Embedded Memory *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
