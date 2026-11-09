@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-09 | [CVA6's Data cache: Structure and Behavior](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-09 | [Noise-Free Security Assessment of Eviction Set Construction Algorithms with Randomized Caches](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-09 | [Evict+Spec+Time: Exploiting Out-of-Order Execution to Improve Cache-Timing Attacks](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [DDS Security+: Enhancing the Data Distribution Service With TPM-based Remote Attestation](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [Hardware-Assisted Fault Isolation: Going Beyond the Limits of Software-Based Sandboxing](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [Execution security in the Spectre era](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-09 | [Chunked-Cache: On-Demand and Scalable Cache Isolation for Security Architectures](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-09 | [Systematic Analysis of Programming Languages and Their Execution Environments for Spectre Attacks](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-09 | [Trusted Execution Environment Hardware by Isolated Heterogeneous Architecture for Key Scheduling](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-09 | [CacheHawkeye: Detecting Cache Side Channel Attacks Based on Memory Events](historical/2022/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
