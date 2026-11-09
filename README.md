@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-09 | [POSTER: On the Feasibility of Inferring SGX Execution through PMU](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [A Comprehensive Trusted Runtime for WebAssembly With Intel SGX *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [Transient Execution and Side Channel Analysis: a Vulnerability or a Science Experiment?](historical/2022/03.md) | Bibliographie historique |
-| 2026-11-09 | [A Cross-Platform Cache Timing Attack Framework via Deep Learning](historical/2022/03.md) | Bibliographie historique |
-| 2026-11-09 | [Performance evolution of mitigating transient execution attacks](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-09 | [Evict+Spec+Time: Exploiting Out-of-Order Execution to Improve Cache-Timing Attacks](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [DDS Security+: Enhancing the Data Distribution Service With TPM-based Remote Attestation](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [Hardware-Assisted Fault Isolation: Going Beyond the Limits of Software-Based Sandboxing](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [Hints from Hertz: Dynamic Frequency Scaling Side-Channel Analysis of Number Theoretic Transform in Lattice-Based KEMs](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [Hardware Trust Anchor Authentication for Updatable IoT Devices](historical/2024/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
