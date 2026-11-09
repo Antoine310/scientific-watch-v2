@@ -23,11 +23,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-09 | [Culsans: An Efficient Snoop-based Coherency Unit for the CVA6 Open Source RISC-V application processor](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-09 | [Aster: Fixing the Android TEE Ecosystem with Arm CCA](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [VeriCHERI: Exhaustive Formal Security Verification of CHERI at the RTL](historical/2024/07.md) | Bibliographie historique |
-| 2026-11-09 | [A Trusted Execution Environment RISC-V System on Chip](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-09 | [Research on control flow integrity for RISC-V](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-09 | [Memory Corruption at the Border of Trusted Execution](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [Beyond Over-Protection: A Targeted Approach to Spectre Mitigation and Performance Optimization *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [SoK: Can We Really Detect Cache Side-Channel Attacks by Monitoring Performance Counters? *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [A Lightweight Hardware-Assisted Security Method for eFPGA Edge Devices](historical/2024/07.md) | Bibliographie historique |
+| 2026-11-09 | [A Secure Computing System With Hardware-Efficient Lazy Bonsai Merkle Tree for FPGA-Attached Embedded Memory *(date indicative)*](historical/2024/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
