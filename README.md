@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-09 | [Do You Even Lift? Strengthening Compiler Security Guarantees Against Spectre Attacks](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-09 | [SEA Cache: A Performance-Efficient Countermeasure for Contention-based Attacks](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-09 | [Towards Trust Proof for Secure Confidential Virtual Machines](historical/2024/05.md) | Bibliographie historique |
 | 2026-11-09 | [Design of lightweight memory protection solution based on RISC-V processor](historical/2024/06.md) | Bibliographie historique |
 | 2026-11-09 | [Towards Trustworthy RISC-V Designs: Formal Verification of the MFENCE Instruction](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-09 | [Privacy-Preserving Localization using Enclaves](historical/2021/12.md) | Bibliographie historique |
-| 2026-11-09 | [Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels](historical/2024/06.md) | Bibliographie historique |
-| 2026-11-09 | [Evaluating Trusted Firmware Remote Attestation on ARM and RISC-V Edge Computing Prototypes](historical/2024/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
