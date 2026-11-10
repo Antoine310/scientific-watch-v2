@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [Architectural Security and Trust Foundation for RISC-V](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [Avaliação da vulnerabilidade da arquitetura RISC-V a ataques de execução especulativa](historical/2024/05.md) | Bibliographie historique |
 | 2026-11-10 | [Security Assessment of Heterogeneous SoC-FPGA: On the Practicality of Cache Timing Attacks](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-10 | [GhostMinion: A Strictness-Ordered Cache System for Spectre Mitigation](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-10 | [In Hardware We Trust? From TPM to Enclave Computing on RISC-V](historical/2021/10.md) | Bibliographie historique |
-| 2026-11-10 | [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](historical/2021/10.md) | Bibliographie historique |
-| 2026-11-10 | [SpecSafe: detecting cache side channels in a speculative world](historical/2021/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
