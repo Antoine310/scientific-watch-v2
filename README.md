@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [Spectre Returns! Speculation Attacks Using the Return Stack Buffer](historical/2024/04.md) | Bibliographie historique |
 | 2026-11-10 | [Timing Side-channel Attacks and Countermeasures in CPU Microarchitectures](historical/2024/04.md) | Bibliographie historique |
 | 2026-11-10 | [CFIEE: An Open-Source Critical Metadata Extraction Tool for RISC-V Hardware-Based CFI Schemes](historical/2024/04.md) | Bibliographie historique |
 | 2026-11-10 | [Elevating Security with Arm CCA](historical/2024/04.md) | Bibliographie historique |
 | 2026-11-10 | [Innovative Firmware Update Method to Microcontrollers during Runtime](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [Transient Execution of Non-Canonical Accesses](historical/2021/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
