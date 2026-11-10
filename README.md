@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-10 | [Demonstrating Post-Quantum Remote Attestation for RISC-V Devices](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-10 | [A firmware upgrade solution based on hardware unique ID and SM4 cryptographic algorithm](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-10 | [eLIMInate: a Leakage-focused ISE for Masked Implementation](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-10 | [TPMScan: A wide-scale study of security-relevant properties of TPM 2.0 chips](historical/2024/03.md) | Bibliographie historique |
-| 2026-11-10 | [Introducing Fast and Secure Deterministic Stash Free Write Only Oblivious RAMs for Demand Paging in Keystone](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-10 | [Osiris: Automated Discovery of Microarchitectural Side Channels](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-10 | [TimeCache: Using Time to Eliminate Cache Side Channels when Sharing Software](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-10 | [HECTOR-V: A Heterogeneous CPU Architecture for a Secure RISC-V Execution Environment](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [LIRA-V: Lightweight Remote Attestation for Constrained RISC-V Devices](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It](historical/2021/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
