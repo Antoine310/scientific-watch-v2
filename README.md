@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [Verifying Memory Confidentiality and Integrity of Intel TDX Trusted Execution Environments](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [Cache Wars: A Comparative Study of UMWAIT, UMONITOR, and Prime-Probe Attacks](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [LightEMU: Hardware Assisted Fuzzing of Trusted Applications](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [Too Hot to Handle: Novel Thermal Side-Channel in Power Attack-Protected Intel Processors](historical/2024/05.md) | Bibliographie historique |
 | 2026-11-09 | [Bypassing Isolated Execution on RISC-V using Side-Channel-Assisted Fault-Injection and Its Countermeasure](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-09 | [Enabling Design Space Exploration for RISC-V Secure Compute Environments](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-09 | [RT-Sniper: A Low-Overhead Defense Mechanism Pinpointing Cache Side-Channel Attacks](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-09 | [Composite Enclaves: Towards Disaggregated Trusted Execution](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-09 | [Exorcising Spectres with Secure Compilers](historical/2021/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
