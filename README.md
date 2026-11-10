@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-10 | [Verifying Memory Confidentiality and Integrity of Intel TDX Trusted Execution Environments](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-10 | [Cache Wars: A Comparative Study of UMWAIT, UMONITOR, and Prime-Probe Attacks](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-10 | [LightEMU: Hardware Assisted Fuzzing of Trusted Applications](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-10 | [Too Hot to Handle: Novel Thermal Side-Channel in Power Attack-Protected Intel Processors](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-09 | [Bypassing Isolated Execution on RISC-V using Side-Channel-Assisted Fault-Injection and Its Countermeasure](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-10 | [Security Assessment of Heterogeneous SoC-FPGA: On the Practicality of Cache Timing Attacks](historical/2021/10.md) | Bibliographie historique |
+| 2026-11-10 | [GhostMinion: A Strictness-Ordered Cache System for Spectre Mitigation](historical/2021/10.md) | Bibliographie historique |
+| 2026-11-10 | [In Hardware We Trust? From TPM to Enclave Computing on RISC-V](historical/2021/10.md) | Bibliographie historique |
+| 2026-11-10 | [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](historical/2021/10.md) | Bibliographie historique |
+| 2026-11-10 | [SpecSafe: detecting cache side channels in a speculative world](historical/2021/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
