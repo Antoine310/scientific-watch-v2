@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [eLIMInate: a Leakage-focused ISE for Masked Implementation](historical/2024/03.md) | Bibliographie historique |
+| 2026-11-10 | [TPMScan: A wide-scale study of security-relevant properties of TPM 2.0 chips](historical/2024/03.md) | Bibliographie historique |
 | 2026-11-10 | [Introducing Fast and Secure Deterministic Stash Free Write Only Oblivious RAMs for Demand Paging in Keystone](historical/2021/06.md) | Bibliographie historique |
 | 2026-11-10 | [Side-Channel Attacks on RISC-V Processors: Current Progress, Challenges, and Opportunities](historical/2021/06.md) | Bibliographie historique |
 | 2026-11-10 | [VOSySmonitoRV: a mixed-criticality solution on Linux-capable RISC-V platforms](historical/2021/06.md) | Bibliographie historique |
-| 2026-11-10 | [A Method for Comparative Analysis of Trusted Execution Environments](historical/2021/06.md) | Bibliographie historique |
-| 2026-11-10 | [Performing Cache Timing Attacks from the Reconfigurable Part of a Heterogeneous SoC—An Experimental Study](historical/2021/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
