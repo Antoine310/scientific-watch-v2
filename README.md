@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [Seeds of SEED: A Side-Channel Resilient Cache Skewed by a Linear Function over a Galois Field](historical/2021/09.md) | Bibliographie historique |
+| 2026-11-10 | [FastSpec: Scalable Generation and Detection of Spectre Gadgets Using Neural Embeddings](historical/2021/09.md) | Bibliographie historique |
+| 2026-11-10 | [A Hardware Platform for Ensuring OS Kernel Integrity on RISC-V](historical/2021/08.md) | Bibliographie historique |
+| 2026-11-10 | [Remote Attestation Extended to the Analog Domain](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-10 | [Oblivious Demand Paging with Ring ORAM in RISC-V Trusted Execution Environments](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-10 | [An seL4-based Trusted Execution Environment on RISC-V](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-10 | [Gem5-Based Evaluation of CVA6 SoC: Insights into the Architectural Design](historical/2024/05.md) | Bibliographie historique |
-| 2026-11-10 | [Privacy-Preserving Remote Attestation Protocol](historical/2021/10.md) | Bibliographie historique |
-| 2026-11-10 | [Breaking TrustZone memory isolation and secure boot through malicious hardware on a modern FPGA-SoC](historical/2021/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
