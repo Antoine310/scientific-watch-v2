@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [Introducing Fast and Secure Deterministic Stash Free Write Only Oblivious RAMs for Demand Paging in Keystone](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-10 | [Side-Channel Attacks on RISC-V Processors: Current Progress, Challenges, and Opportunities](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-10 | [VOSySmonitoRV: a mixed-criticality solution on Linux-capable RISC-V platforms](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-10 | [A Method for Comparative Analysis of Trusted Execution Environments](historical/2021/06.md) | Bibliographie historique |
 | 2026-11-10 | [Performing Cache Timing Attacks from the Reconfigurable Part of a Heterogeneous SoC—An Experimental Study](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-10 | [A Survey of Microarchitectural Side-channel Vulnerabilities, Attacks, and Defenses in Cryptography](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-10 | [A Survey on RISC-V Security: Hardware and Architecture](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-10 | [Towards a Trusted Execution Environment via Reconfigurable FPGA](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-10 | [Prototype Implementation of Non-Volatile Memory Support for RISC-V Keystone Enclave](historical/2021/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
