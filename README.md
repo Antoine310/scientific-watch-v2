@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [CFIEE: An Open-Source Critical Metadata Extraction Tool for RISC-V Hardware-Based CFI Schemes](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [Elevating Security with Arm CCA](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [Innovative Firmware Update Method to Microcontrollers during Runtime](historical/2024/04.md) | Bibliographie historique |
 | 2026-11-10 | [Transient Execution of Non-Canonical Accesses](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-10 | [SIGY: Breaking Intel SGX Enclaves with Malicious Exceptions & Signals](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [Heckler: Breaking Confidential VMs with Malicious Interrupts](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [WeSee: Using Malicious #VC Interrupts to Break AMD SEV-SNP](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments](historical/2024/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
