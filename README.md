@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-10 | [Seeds of SEED: A Side-Channel Resilient Cache Skewed by a Linear Function over a Galois Field](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-10 | [FastSpec: Scalable Generation and Detection of Spectre Gadgets Using Neural Embeddings](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-10 | [A Hardware Platform for Ensuring OS Kernel Integrity on RISC-V](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-10 | [Remote Attestation Extended to the Analog Domain](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-10 | [Oblivious Demand Paging with Ring ORAM in RISC-V Trusted Execution Environments](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [SIGY: Breaking Intel SGX Enclaves with Malicious Exceptions & Signals](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [Heckler: Breaking Confidential VMs with Malicious Interrupts](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [WeSee: Using Malicious #VC Interrupts to Break AMD SEV-SNP](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [Low-Latency PAE: Permutation-Based Address Encryption Hardware Engine for IoT Real-Time Memory Protection](historical/2024/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
