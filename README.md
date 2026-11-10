@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-10 | [WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-10 | [Prime+Retouch: When Cache is Locked and Leaked](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-10 | [An Investigation of Hardware Security Bug Characteristics in Open-Source Projects](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-10 | [BTIDEC : A Novel Detection Scheme for CPU Security of Consumer Electronics](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-10 | [Cryptographically Assured Information Flow: Assured Remote Execution](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-10 | [Survey of Transient Execution Attacks and Their Mitigations](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [Remote Attestation: A Literature Review](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [Interposer-Based Root of Trust.](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [Hardware Information Flow Tracking](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [Security, Reliability and Test Aspects of the RISC-V Ecosystem](historical/2021/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
