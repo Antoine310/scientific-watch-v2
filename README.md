@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-10 | [Spectre Returns! Speculation Attacks Using the Return Stack Buffer](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [Timing Side-channel Attacks and Countermeasures in CPU Microarchitectures](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [CFIEE: An Open-Source Critical Metadata Extraction Tool for RISC-V Hardware-Based CFI Schemes](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [Elevating Security with Arm CCA](historical/2024/04.md) | Bibliographie historique |
-| 2026-11-10 | [Innovative Firmware Update Method to Microcontrollers during Runtime](historical/2024/04.md) | Bibliographie historique |
+| 2026-11-10 | [Performing Cache Timing Attacks from the Reconfigurable Part of a Heterogeneous SoC—An Experimental Study](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-10 | [A Survey of Microarchitectural Side-channel Vulnerabilities, Attacks, and Defenses in Cryptography](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-10 | [A Survey on RISC-V Security: Hardware and Architecture](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-10 | [Towards a Trusted Execution Environment via Reconfigurable FPGA](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-10 | [Prototype Implementation of Non-Volatile Memory Support for RISC-V Keystone Enclave](historical/2021/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
