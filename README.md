@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-10 | [Oblivious Demand Paging with Ring ORAM in RISC-V Trusted Execution Environments](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [An seL4-based Trusted Execution Environment on RISC-V](historical/2024/05.md) | Bibliographie historique |
+| 2026-11-10 | [Gem5-Based Evaluation of CVA6 SoC: Insights into the Architectural Design](historical/2024/05.md) | Bibliographie historique |
 | 2026-11-10 | [Privacy-Preserving Remote Attestation Protocol](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-10 | [Breaking TrustZone memory isolation and secure boot through malicious hardware on a modern FPGA-SoC](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-10 | [Towards Efficient Control-Flow Attestation with Software-Assisted Multi-level Execution Tracing](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-10 | [Flexible Mechanisms for Remote Attestation](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-10 | [Architectural Security and Trust Foundation for RISC-V](historical/2024/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
