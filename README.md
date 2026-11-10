@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-10 | [Osiris: Automated Discovery of Microarchitectural Side Channels](historical/2021/06.md) | Bibliographie historique |
-| 2026-11-10 | [TimeCache: Using Time to Eliminate Cache Side Channels when Sharing Software](historical/2021/06.md) | Bibliographie historique |
-| 2026-11-10 | [HECTOR-V: A Heterogeneous CPU Architecture for a Secure RISC-V Execution Environment](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-10 | [LIRA-V: Lightweight Remote Attestation for Constrained RISC-V Devices](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-10 | [Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-10 | [WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-10 | [Prime+Retouch: When Cache is Locked and Leaked](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-10 | [An Investigation of Hardware Security Bug Characteristics in Open-Source Projects](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-10 | [BTIDEC : A Novel Detection Scheme for CPU Security of Consumer Electronics](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-10 | [Cryptographically Assured Information Flow: Assured Remote Execution](historical/2024/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
