@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-11 | [BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced Taint Tracking](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-11 | [From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation](historical/2024/01.md) | Bibliographie historique |
 | 2026-11-11 | [Understanding the Insecurity of Processor Caches Due to Cache Timing-Based Vulnerabilities](historical/2021/02.md) | Bibliographie historique |
 | 2026-11-11 | [Leaking Information Through Cache LRU States in Commercial Processors and Secure Caches](historical/2021/02.md) | Bibliographie historique |
 | 2026-11-11 | [Exploiting Secrets by Leveraging Dynamic Cache Partitioning of Last Level Cache](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-11 | [Swivel: Hardening WebAssembly against Spectre](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-11 | [Tiny-CFA: Minimalistic Control-Flow Attestation Using Verified Proofs of Execution](historical/2021/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
