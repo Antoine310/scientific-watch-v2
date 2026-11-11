@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-11 | [CARE: Lightweight Attack Resilient Secure Boot Architecture with Onboard Recovery for RISC-V based SOC](historical/2021/04.md) | Bibliographie historique |
+| 2026-11-11 | [Joint security and performance improvement in multilevel shared caches](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-10 | [Survey of Transient Execution Attacks and Their Mitigations](historical/2021/05.md) | Bibliographie historique |
 | 2026-11-10 | [Remote Attestation: A Literature Review](historical/2021/05.md) | Bibliographie historique |
 | 2026-11-10 | [Interposer-Based Root of Trust.](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-10 | [Hardware Information Flow Tracking](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-10 | [Security, Reliability and Test Aspects of the RISC-V Ecosystem](historical/2021/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
