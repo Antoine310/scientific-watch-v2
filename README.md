@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced Taint Tracking](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [Understanding the Insecurity of Processor Caches Due to Cache Timing-Based Vulnerabilities](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-11 | [Leaking Information Through Cache LRU States in Commercial Processors and Secure Caches](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-11 | [Exploiting Secrets by Leveraging Dynamic Cache Partitioning of Last Level Cache](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-11 | [A Real-Time Cache Side-Channel Attack Detection System on RISC-V Out-of-Order Processor](historical/2021/01.md) | Bibliographie historique |
+| 2026-11-11 | [A Defense Mechanism Against Transient Execution Attacks On SMT Processors](historical/2021/01.md) | Bibliographie historique |
+| 2026-11-11 | [Hunting the Haunter — Efficient Relational Symbolic Execution for Spectre with Haunted RelSE](historical/2021/01.md) | Bibliographie historique |
+| 2026-11-11 | [Defeating Hardware Prefetchers in Flush+Reload Side-Channel Attack](historical/2021/01.md) | Bibliographie historique |
+| 2026-11-11 | [Evaluation of Cache Attacks on Arm Processors and Secure Caches](historical/2021/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
