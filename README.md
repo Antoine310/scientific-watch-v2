@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [CacheIEE: Cache-Assisted Isolated Execution Environment on ARM Multi-Core Platforms](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [Building a Lightweight Trusted Execution Environment for Arm GPUs *(date indicative)*](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [Cachet: Low-Overhead Integrity Verification on Metadata Cache in Secure Nonvolatile Memory Systems *(date indicative)*](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [TitanCFI: Toward Enforcing Control-Flow Integrity in the Root-of-Trust](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-11 | [Understanding the Insecurity of Processor Caches Due to Cache Timing-Based Vulnerabilities](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-11 | [Leaking Information Through Cache LRU States in Commercial Processors and Secure Caches](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-11 | [Exploiting Secrets by Leveraging Dynamic Cache Partitioning of Last Level Cache](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-11 | [Swivel: Hardening WebAssembly against Spectre](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-11 | [Tiny-CFA: Minimalistic Control-Flow Attestation Using Verified Proofs of Execution](historical/2021/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
