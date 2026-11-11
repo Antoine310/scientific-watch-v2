@@ -103,4 +103,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2021-06 — 5 publication(s)](historical/2021/06.md)
 - [2021-05 — 7 publication(s)](historical/2021/05.md)
 - [2021-04 — 2 publication(s)](historical/2021/04.md)
+- [2021-03 — 1 publication(s)](historical/2021/03.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
