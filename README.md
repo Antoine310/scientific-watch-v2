@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-11 | [CacheIEE: Cache-Assisted Isolated Execution Environment on ARM Multi-Core Platforms](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-11 | [Building a Lightweight Trusted Execution Environment for Arm GPUs *(date indicative)*](historical/2024/01.md) | Bibliographie historique |
+| 2026-11-11 | [Cachet: Low-Overhead Integrity Verification on Metadata Cache in Secure Nonvolatile Memory Systems *(date indicative)*](historical/2024/01.md) | Bibliographie historique |
 | 2026-11-11 | [TitanCFI: Toward Enforcing Control-Flow Integrity in the Root-of-Trust](historical/2024/01.md) | Bibliographie historique |
 | 2026-11-11 | [A novel architecture to virtualise a hardware-bound trusted platform module *(date indicative)*](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget](historical/2024/01.md) | Bibliographie historique |
-| 2026-11-11 | [Volcano: Stateless Cache Side-channel Attack by Exploiting Mesh Interconnect](historical/2021/03.md) | Bibliographie historique |
-| 2026-11-11 | [Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses](historical/2021/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
