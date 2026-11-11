@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-11 | [SPECRUN: The Danger of Speculative Runahead Execution in Processors](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [DECLASSIFLOW: A Static Analysis for Modeling Non-Speculative Knowledge to Relax Speculative Execution Security Measures (Full Version)](historical/2023/12.md) | Bibliographie historique |
 | 2026-11-11 | [Software Mitigation of RISC-V Spectre Attacks](historical/2024/01.md) | Bibliographie historique |
 | 2026-11-11 | [A Real-Time Cache Side-Channel Attack Detection System on RISC-V Out-of-Order Processor](historical/2021/01.md) | Bibliographie historique |
 | 2026-11-11 | [A Defense Mechanism Against Transient Execution Attacks On SMT Processors](historical/2021/01.md) | Bibliographie historique |
-| 2026-11-11 | [Hunting the Haunter — Efficient Relational Symbolic Execution for Spectre with Haunted RelSE](historical/2021/01.md) | Bibliographie historique |
-| 2026-11-11 | [Defeating Hardware Prefetchers in Flush+Reload Side-Channel Attack](historical/2021/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
