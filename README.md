@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [HybriDG: Hybrid Dynamic Time Warping and Gaussian Distribution Model for Detecting Emerging Zero-Day Microarchitectural Side-Channel Attacks](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-11 | [Formal methods for the analysis of cache-timing leaks and key generation in cryptographic implementations](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-11 | [An Overview of Hardware Security and Trust: Threats, Countermeasures, and Design Tools](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-11 | [Towards Designing a Secure RISC-V System-on-Chip: ITUS](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-11 | [HPME: A High-Performance Hardware Memory Encryption Engine Based on RISC-V TEE](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-11 | [SIMF: Single-Instruction Multiple-Flush Mechanism for Processor Temporal Isolation](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-11 | [Exposing cache timing side-channel leaks through out-of-order symbolic execution](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-11 | [SpectreRewind](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-11 | [Tiny-CFA: A Minimalistic Approach for Control-Flow Attestation Using Verified Proofs of Execution](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-11 | [Building a Modern TRNG](historical/2020/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
