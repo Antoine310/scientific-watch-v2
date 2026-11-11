@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [Hardware Mitigation and Verification For Rogue In-Flight Data Load Attacks](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [Overtake: Achieving Meltdown-type Attacks with One Instruction](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [DF-TEE: Trusted Execution Environment for Disaggregated Multi-FPGA Cloud Systems](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [TrustSoC: Light and Efficient Heterogeneous SoC Architecture, Secure-by-design](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [When Memory Mappings Attack: On the (Mis)use of the ARM Cortex-M FPB Unit](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [HybriDG: Hybrid Dynamic Time Warping and Gaussian Distribution Model for Detecting Emerging Zero-Day Microarchitectural Side-Channel Attacks](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-11 | [Formal methods for the analysis of cache-timing leaks and key generation in cryptographic implementations](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-11 | [An Overview of Hardware Security and Trust: Threats, Countermeasures, and Design Tools](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-11 | [Towards Designing a Secure RISC-V System-on-Chip: ITUS](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-11 | [HPME: A High-Performance Hardware Memory Encryption Engine Based on RISC-V TEE](historical/2020/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -106,6 +106,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2021-03 — 1 publication(s)](historical/2021/03.md)
 - [2021-02 — 5 publication(s)](historical/2021/02.md)
 - [2021-01 — 10 publication(s)](historical/2021/01.md)
-- [2020-12 — 5 publication(s)](historical/2020/12.md)
-- [2020-11 — 3 publication(s)](historical/2020/11.md)
+- [2020-12 — 3 publication(s)](historical/2020/12.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
