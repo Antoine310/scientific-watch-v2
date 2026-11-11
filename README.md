@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-11 | [Multi-objective Optimisation of RISC-V CV32A6 for ML application](historical/2023/12.md) | Bibliographie historique |
 | 2026-11-11 | [SIMF: Single-Instruction Multiple-Flush Mechanism for Processor Temporal Isolation](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-11 | [Exposing cache timing side-channel leaks through out-of-order symbolic execution](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-11 | [SpectreRewind](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-11 | [Tiny-CFA: A Minimalistic Approach for Control-Flow Attestation Using Verified Proofs of Execution](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-11 | [Building a Modern TRNG](historical/2020/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
