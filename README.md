@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [TeeJam: Sub-Cache-Line Leakages Strike Back](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [SEV-Step A Single-Stepping Framework for AMD-SEV](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [Hardware VM Isolation in the Cloud](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [Remote Attestation with Constrained Disclosure](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [High-assurance zeroization](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [Hardware Mitigation and Verification For Rogue In-Flight Data Load Attacks](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [Overtake: Achieving Meltdown-type Attacks with One Instruction](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [DF-TEE: Trusted Execution Environment for Disaggregated Multi-FPGA Cloud Systems](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [TrustSoC: Light and Efficient Heterogeneous SoC Architecture, Secure-by-design](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [When Memory Mappings Attack: On the (Mis)use of the ARM Cortex-M FPB Unit](historical/2023/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
