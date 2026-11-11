@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [Towards a metrics suite for evaluating cache side-channel vulnerability: Case studies on an open-source RISC-V processor *(date indicative)*](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [SRACARE: Secure Remote Attestation with Code Authentication and Resilience Engine](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-11 | [SeRoT: A Secure Runtime System on Trusted Execution Environments](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-11 | [Library Implementation and Performance Analysis of GlobalPlatform TEE Internal API for Intel SGX and RISC-V Keystone](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-11 | [SPECRUN: The Danger of Speculative Runahead Execution in Processors](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [TeeJam: Sub-Cache-Line Leakages Strike Back](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [SEV-Step A Single-Stepping Framework for AMD-SEV](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [Hardware VM Isolation in the Cloud](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [Remote Attestation with Constrained Disclosure](historical/2023/12.md) | Bibliographie historique |
+| 2026-11-11 | [High-assurance zeroization](historical/2023/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
