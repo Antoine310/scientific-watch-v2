@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [Instruction-Level Power Side-Channel Leakage Evaluation of Soft-Core CPUs on Shared FPGAs](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [PReFeR : P hysically Re lated F unction bas e d R emote Attestation Protocol](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Synergistic Verification of Hardware Peripherals through Virtual Prototype Aided Cross-Level Methodology Leveraging Coverage-Guided Fuzzing and Co-Simulation](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-12 | [MCU-Wide Timing Side Channels and Their Detection](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-12 | [Poster: Control-Flow Integrity in Low-end Embedded Devices](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-12 | [Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence (Full Version)](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-12 | [Capacity: Cryptographically-Enforced In-Process Capabilities for Modern ARM Architectures (Extended Version)](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-12 | [Security Verification of Low-Trust Architectures](historical/2023/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
