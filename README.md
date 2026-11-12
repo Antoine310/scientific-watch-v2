@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-12 | [Exploiting Security Dependence for Conditional Speculation Against Spectre Attacks](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-12 | [Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-12 | [Verifying RISC-V Privilege Transition Integrity Through Symbolic Execution](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [Security Verification of RISC-V System Based on ISA Level Information Flow Tracking](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [Spectre attacks: exploiting speculative execution](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-12 | [MCU-Wide Timing Side Channels and Their Detection](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Poster: Control-Flow Integrity in Low-end Embedded Devices](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence (Full Version)](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Capacity: Cryptographically-Enforced In-Process Capabilities for Modern ARM Architectures (Extended Version)](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Security Verification of Low-Trust Architectures](historical/2023/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
