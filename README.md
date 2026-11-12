@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [CURE: A Security Architecture with CUstomizable and Resilient Enclaves](historical/2020/10.md) | Bibliographie historique |
+| 2026-11-12 | [Elasticlave: An Efficient Memory Model for Enclaves](historical/2020/10.md) | Bibliographie historique |
+| 2026-11-12 | [Phased-Guard: Multi-Phase Machine Learning Framework for Detection and Identification of Zero-Day Microarchitectural Side-Channel Attacks](historical/2020/10.md) | Bibliographie historique |
+| 2026-11-12 | [Déjà Vu: Side-Channel Analysis of Mozilla's NSS](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-12 | [AVX-TSCHA: Leaking information through AVX extensions in commercial processors](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-12 | [ProMiSE: A High-Performance Programmable Hardware Monitor for High Security Enforcement of Software Execution](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-12 | [A Tale of Unrealized Hope: Hardware Performance Counter Against Cache Attacks](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-12 | [Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-12 | [Robust Constant-Time Cryptography](historical/2023/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
