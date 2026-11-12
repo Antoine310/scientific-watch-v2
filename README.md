@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [AVX-TSCHA: Leaking information through AVX extensions in commercial processors](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-12 | [ProMiSE: A High-Performance Programmable Hardware Monitor for High Security Enforcement of Software Execution](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-12 | [A Tale of Unrealized Hope: Hardware Performance Counter Against Cache Attacks](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-12 | [Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-12 | [Robust Constant-Time Cryptography](historical/2023/11.md) | Bibliographie historique |
-| 2026-11-12 | [SinClave: Hardware-assisted Singletons for TEEs](historical/2023/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
