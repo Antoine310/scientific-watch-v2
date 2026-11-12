@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-11 | [Multi-objective Optimisation of RISC-V CV32A6 for ML application](historical/2023/12.md) | Bibliographie historique |
-| 2026-11-11 | [SIMF: Single-Instruction Multiple-Flush Mechanism for Processor Temporal Isolation](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-11 | [Exposing cache timing side-channel leaks through out-of-order symbolic execution](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-11 | [SpectreRewind](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-11 | [Tiny-CFA: A Minimalistic Approach for Control-Flow Attestation Using Verified Proofs of Execution](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-12 | [ProMiSE: A High-Performance Programmable Hardware Monitor for High Security Enforcement of Software Execution](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-12 | [A Tale of Unrealized Hope: Hardware Performance Counter Against Cache Attacks](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-12 | [Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-12 | [Robust Constant-Time Cryptography](historical/2023/11.md) | Bibliographie historique |
+| 2026-11-12 | [SinClave: Hardware-assisted Singletons for TEEs](historical/2023/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
