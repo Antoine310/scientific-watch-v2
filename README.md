@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [RegKey: A Register-based Implementation of ECC Signature Algorithms Against One-shot Memory Disclosure](historical/2023/11.md) | Bibliographie historique |
 | 2026-11-12 | [Cryptographic Accelerators for Trusted Execution Environment in RISC-V Processors](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-12 | [Secure Boot for Reconfigurable Architectures](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-12 | [Implementation of Trusted Execution Environment and Its Supporting Technologies](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-12 | [2.5D Root of Trust: Secure System-Level Integration of Untrusted Chiplets](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-12 | [Binary Compatibility For SGX Enclaves](historical/2020/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
