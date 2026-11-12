@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [Exploiting Security Dependence for Conditional Speculation Against Spectre Attacks](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-12 | [Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-12 | [Verifying RISC-V Privilege Transition Integrity Through Symbolic Execution](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Security Verification of RISC-V System Based on ISA Level Information Flow Tracking](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Spectre attacks: exploiting speculative execution](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-12 | [Constant-time foundations for the new spectre era](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-12 | [KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution](historical/2020/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
