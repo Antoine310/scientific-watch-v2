@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-12 | [Multi-node Trusted Remote Attestation and Recovery Scheme for Power Industrial Control Terminal](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [Flush-Detector: More Secure API Resistant to Flush-Based Spectre Attacks on ARM Cortex-A9](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-12 | [SESAME: Software defined Enclaves to Secure Inference Accelerators with Multi-tenant Execution](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-12 | [The K2 Architecture for Trustworthy Hardware Security Modules](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [Data Processing Unit's Entry into Confidential Computing](historical/2023/10.md) | Bibliographie historique |
+| 2026-11-12 | [Spectre attacks: exploiting speculative execution](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-12 | [Constant-time foundations for the new spectre era](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-12 | [KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-12 | [Real time Detection of Spectre and Meltdown Attacks Using Machine Learning](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-12 | [A method for constructing sliding windows leak from noisy cache timing information](historical/2020/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -112,5 +112,4 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2020-09 — 3 publication(s)](historical/2020/09.md)
 - [2020-08 — 1 publication(s)](historical/2020/08.md)
 - [2020-07 — 1 publication(s)](historical/2020/07.md)
-- [2020-06 — 4 publication(s)](historical/2020/06.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
