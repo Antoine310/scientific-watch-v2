@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [Thwarting code-reuse and side-channel attacks in embedded systems *(date indicative)*](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Indirect Meltdown: Building Novel Side-Channel Attacks from Transient-Execution Attacks](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [DASICS White Paper: Enhancing Memory Protection with Dynamic Compartmentalization](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [No Forking Way: Detecting Cloning Attacks on Intel SGX Applications](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Proving the Absence of Microarchitectural Timing Channels](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [Systematic Evaluation of Randomized Cache Designs against Cache Occupancy](historical/2023/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
