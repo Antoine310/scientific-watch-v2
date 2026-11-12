@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [Transient-Execution Attacks: A Computer Architect Perspective](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Comprehensive Evaluation of Machine Learning Countermeasures for Detecting Microarchitectural Side-Channel Attacks](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-12 | [MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties](historical/2020/08.md) | Bibliographie historique |
 | 2026-11-12 | [Thwarting code-reuse and side-channel attacks in embedded systems *(date indicative)*](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Indirect Meltdown: Building Novel Side-Channel Attacks from Transient-Execution Attacks](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [DASICS White Paper: Enhancing Memory Protection with Dynamic Compartmentalization](historical/2023/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
