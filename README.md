@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [Flush-Detector: More Secure API Resistant to Flush-Based Spectre Attacks on ARM Cortex-A9](historical/2020/07.md) | Bibliographie historique |
+| 2026-11-12 | [SESAME: Software defined Enclaves to Secure Inference Accelerators with Multi-tenant Execution](historical/2020/07.md) | Bibliographie historique |
 | 2026-11-12 | [The K2 Architecture for Trustworthy Hardware Security Modules](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Data Processing Unit's Entry into Confidential Computing](historical/2023/10.md) | Bibliographie historique |
 | 2026-11-12 | [Transient-Execution Attacks: A Computer Architect Perspective](historical/2023/10.md) | Bibliographie historique |
-| 2026-11-12 | [Comprehensive Evaluation of Machine Learning Countermeasures for Detecting Microarchitectural Side-Channel Attacks](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-12 | [MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties](historical/2020/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
