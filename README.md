@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-12 | [Hardware Root-of-Trust Support for Operational Technology Cybersecurity in Critical Infrastructures](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Trusted Embedded Attestation Storage Scheme and System](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-12 | [Secure Firmware Update Architecture for IoT Devices using Blockchain and PUF](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-12 | [LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-12 | [MuonTrap: Preventing Cross-Domain Spectre-Like Attacks by Capturing Speculative State](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-12 | [SpecCFI: Mitigating Spectre Attacks using CFI Informed Speculation](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-12 | [Packet Chasing: Spying on Network Packets over a Cache Side-Channel](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-12 | [A Survey on Hardware Approaches for Remote Attestation in Network Infrastructures](historical/2020/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
