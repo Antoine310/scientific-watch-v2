@@ -11,17 +11,20 @@
 
 ### Google Scholar et veille scientifique
 
-Aucune nouvelle publication identifiable cette semaine.
+| Ajout | Publication | Source |
+| --- | --- | --- |
+| 2026-11-13 | [Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs](scholar/README.md) | Google Scholar |
+| 2026-11-13 | [Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic](scholar/README.md) | Google Scholar |
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [Towards Runtime Customizable Trusted Execution Environment on FPGA-SoC](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [Confidential Computing across Edge-to-Cloud for Machine Learning: A Survey Study](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [HMT: A Hardware-centric Hybrid Bonsai Merkle Tree Algorithm for High-performance Authentication](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [PARIOT: Anti-repackaging for IoT firmware integrity *(date indicative)*](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-13 | [Mitigating Cache-Based Side-Channel Attacks through Randomization: A Comprehensive System and Architecture Level Analysis](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-13 | [Memory-Safe Elimination of Side Channels](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-13 | [Post-Quantum Secure Boot](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-13 | [Exploring Branch Predictors for Constructing Transient Execution Trojans](historical/2020/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
