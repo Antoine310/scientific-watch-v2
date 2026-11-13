@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [Work in Progress: Thwarting Timing Attacks in Microcontrollers using Fine-grained Hardware Protections](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [SvTPM: SGX-Based Virtual Trusted Platform Modules for Cloud Computing](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [Securing Embedded System from Code Reuse Attacks: A Lightweight Scheme with Hardware Assistance](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [Management of Hardware Vulnerabilities in the Life Cycle Stages of Microprocessors and Computers](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [CopyCat: Controlled Instruction-Level Attacks on Enclaves](historical/2020/02.md) | Bibliographie historique |
-| 2026-11-13 | [Quick Boot of Trusted Execution Environment With Hardware Accelerators](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-13 | [Enclave Computing Paradigm: Hardware-assisted Security Architectures & Applications](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-13 | [ASM: An Adaptive Secure Multicore for Co-located Mutually Distrusting Processes](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [FlushTime: Towards Mitigating Flush-based Cache Attacks via Collaborating Flush Instructions and Timers on ARMv8-A](historical/2023/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
