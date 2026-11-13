@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-13 | [A buffer overflow detection and defense method based on RISC-V instruction set extension](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-13 | [Winter is here! A decade of cache-based side-channel attacks, detection & mitigation for RSA](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-13 | [BAHULAM: Distributed Data Analytics on Secure Enclaves](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-12 | [Hardware Root-of-Trust Support for Operational Technology Cybersecurity in Critical Infrastructures](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-12 | [Trusted Embedded Attestation Storage Scheme and System](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-13 | [Reducing Load-Use Dependency-Induced Performance Penalty in the Open-Source RISC-V CVA6 CPU](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-13 | [Formal Verification of Security Properties on RISC-V Processors](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-13 | [Unlocking Hardware Security Assurance: The Potential of LLMs](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-13 | [PARseL: Towards a Verified Root-of-Trust over seL4](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-13 | [SoftFlow: Automated HW-SW Confidentiality Verification for Embedded Processors](historical/2023/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -73,8 +73,8 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2023-12 — 12 publication(s)](historical/2023/12.md)
 - [2023-11 — 11 publication(s)](historical/2023/11.md)
 - [2023-10 — 16 publication(s)](historical/2023/10.md)
-- [2023-09 — 11 publication(s)](historical/2023/09.md)
-- [2023-08 — 5 publication(s)](historical/2023/08.md)
+- [2023-09 — 10 publication(s)](historical/2023/09.md)
+- [2023-08 — 2 publication(s)](historical/2023/08.md)
 - [2023-07 — 6 publication(s)](historical/2023/07.md)
 - [2023-06 — 6 publication(s)](historical/2023/06.md)
 - [2023-05 — 10 publication(s)](historical/2023/05.md)
