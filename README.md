@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [Post-Quantum Secure Boot](historical/2020/03.md) | Bibliographie historique |
+| 2026-11-13 | [Exploring Branch Predictors for Constructing Transient Execution Trojans](historical/2020/03.md) | Bibliographie historique |
 | 2026-11-13 | [Making Your Program Oblivious: a Comparative Study for Side-channel-safe Confidential Computing](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-13 | [FLAIRS: FPGA-Accelerated Inference-Resistant & Secure Federated Learning](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-13 | [SGX-MR-Prot: Efficient and Developer-Friendly Access-Pattern Protection in Trusted Execution Environments](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-13 | [Reducing Load-Use Dependency-Induced Performance Penalty in the Open-Source RISC-V CVA6 CPU](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-13 | [Formal Verification of Security Properties on RISC-V Processors](historical/2023/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
