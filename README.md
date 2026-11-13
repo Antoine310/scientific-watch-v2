@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [A RISC-V Processor Designed For Security](historical/2019/12.md) | Bibliographie historique |
+| 2026-11-13 | [FLUSH + PREFETCH: A countermeasure against access-driven cache-based side-channel attacks](historical/2019/12.md) | Bibliographie historique |
+| 2026-11-13 | [More Secure Collaborative APIs Resistant to Flush+Reload and Flush+Flush Attacks on ARMv8-A](historical/2019/12.md) | Bibliographie historique |
+| 2026-11-13 | [A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes](historical/2019/11.md) | Bibliographie historique |
 | 2026-11-13 | [Side-channel Elimination via Partial Control-flow Linearization](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-13 | [Hardware Security Module Cryptosystem Using Petri Net](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-13 | [Cache-Timing Attack Against HQC](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-13 | [CROWBAR: Natively Fuzzing Trusted Applications Using ARM CoreSight](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-13 | [Minimizing a Smartphone's TCB for Security-Critical Programs with Exclusively-Used, Physically-Isolated, Statically-Partitioned Hardware](historical/2023/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
