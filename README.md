@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [Hardware Security Module Cryptosystem Using Petri Net](historical/2023/06.md) | Bibliographie historique |
 | 2026-11-13 | [Cache-Timing Attack Against HQC](historical/2023/06.md) | Bibliographie historique |
 | 2026-11-13 | [CROWBAR: Natively Fuzzing Trusted Applications Using ARM CoreSight](historical/2023/06.md) | Bibliographie historique |
 | 2026-11-13 | [Minimizing a Smartphone's TCB for Security-Critical Programs with Exclusively-Used, Physically-Isolated, Statically-Partitioned Hardware](historical/2023/06.md) | Bibliographie historique |
 | 2026-11-13 | [PROLEAD_SW](historical/2023/06.md) | Bibliographie historique |
-| 2026-11-13 | [Efficient Regression-Based Linear Discriminant Analysis for Side-Channel Security Evaluations](historical/2023/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
