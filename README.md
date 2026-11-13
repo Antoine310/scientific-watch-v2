@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-13 | [Towards Runtime Customizable Trusted Execution Environment on FPGA-SoC](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [Confidential Computing across Edge-to-Cloud for Machine Learning: A Survey Study](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [HMT: A Hardware-centric Hybrid Bonsai Merkle Tree Algorithm for High-performance Authentication](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [PARIOT: Anti-repackaging for IoT firmware integrity *(date indicative)*](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-13 | [ASM: An Adaptive Secure Multicore for Co-located Mutually Distrusting Processes](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [FlushTime: Towards Mitigating Flush-based Cache Attacks via Collaborating Flush Instructions and Timers on ARMv8-A](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [ShowTime: Amplifying Arbitrary CPU Timing Side Channels](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [ZEKRA: Zero-Knowledge Control-Flow Attestation](historical/2023/07.md) | Bibliographie historique |
+| 2026-11-13 | [Harnessing the x86 Intermediate Rings for Intra-Process Isolation](historical/2023/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
