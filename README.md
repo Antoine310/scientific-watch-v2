@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-13 | [A RISC-V Processor Designed For Security](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-13 | [FLUSH + PREFETCH: A countermeasure against access-driven cache-based side-channel attacks](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-13 | [More Secure Collaborative APIs Resistant to Flush+Reload and Flush+Flush Attacks on ARMv8-A](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-13 | [A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-13 | [Side-channel Elimination via Partial Control-flow Linearization](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-13 | [A Survey of Security Concerns and Countermeasures in Modern Micro-architectures with Transient Execution](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-13 | [RARES: Runtime Attack Resilient Embedded System Design Using Verified Proof-of-Execution](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-13 | [Specification and Verification of Side-channel Security for Open-source Processors via Leakage Contracts](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-13 | [Automatic and Incremental Repair for Speculative Information Leaks](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-13 | [ACAI: Protecting Accelerator Execution with Arm Confidential Computing Architecture](historical/2023/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
