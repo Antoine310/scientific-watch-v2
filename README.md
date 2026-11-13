@@ -35,7 +35,7 @@
 <!-- SCIENTIFIC-WATCH-REPORTS:END -->
 
 <!-- SCIENTIFIC-WATCH-HISTORY:START -->
-## Bibliographie historique (depuis janvier 2020)
+## Bibliographie historique (depuis janvier 2019)
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
@@ -121,4 +121,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2020-03 — 3 publication(s)](historical/2020/03.md)
 - [2020-02 — 1 publication(s)](historical/2020/02.md)
 - [2020-01 — 5 publication(s)](historical/2020/01.md)
+- [2019-12 — 2 publication(s)](historical/2019/12.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
