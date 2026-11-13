@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [Hardware-Assisted Code-Pointer Tagging for Forward-Edge Control-Flow Integrity](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [Work in Progress: Thwarting Timing Attacks in Microcontrollers using Fine-grained Hardware Protections](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [SvTPM: SGX-Based Virtual Trusted Platform Modules for Cloud Computing](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [Securing Embedded System from Code Reuse Attacks: A Lightweight Scheme with Hardware Assistance](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [Management of Hardware Vulnerabilities in the Life Cycle Stages of Microprocessors and Computers](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [CopyCat: Controlled Instruction-Level Attacks on Enclaves](historical/2020/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
