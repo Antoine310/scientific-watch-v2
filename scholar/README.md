@@ -8,7 +8,8 @@
 
 | Score | Publication | Lien |
 | ---: | --- | --- |
-| — | Aucun article pour le moment | — |
+| 92/100 | Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs | [Lire](https://arxiv.org/pdf/2611.12622) |
+| 75/100 | Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic | [Lire](https://arxiv.org/pdf/2611.09422) |
 
 ## 📖 Articles secondaires (60–74/100)
 
