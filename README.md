@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [Dancing With Wolves: An Intra-Process Isolation Technique With Privileged Hardware](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-13 | [L-IDS: A lightweight hardware-assisted IDS for IoT systems to detect ransomware attacks](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-13 | [A Survey of Security Concerns and Countermeasures in Modern Micro-architectures with Transient Execution](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-13 | [RARES: Runtime Attack Resilient Embedded System Design Using Verified Proof-of-Execution](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-13 | [Specification and Verification of Side-channel Security for Open-source Processors via Leakage Contracts](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-13 | [Automatic and Incremental Repair for Speculative Information Leaks](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-13 | [ACAI: Protecting Accelerator Execution with Arm Confidential Computing Architecture](historical/2023/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
