@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [PARIOT: Anti-repackaging for IoT firmware integrity *(date indicative)*](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-13 | [Mitigating Cache-Based Side-Channel Attacks through Randomization: A Comprehensive System and Architecture Level Analysis](historical/2020/03.md) | Bibliographie historique |
 | 2026-11-13 | [Memory-Safe Elimination of Side Channels](historical/2023/08.md) | Bibliographie historique |
 | 2026-11-13 | [Post-Quantum Secure Boot](historical/2020/03.md) | Bibliographie historique |
 | 2026-11-13 | [Exploring Branch Predictors for Constructing Transient Execution Trojans](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-13 | [Making Your Program Oblivious: a Comparative Study for Side-channel-safe Confidential Computing](historical/2023/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
