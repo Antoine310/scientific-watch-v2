@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [A buffer overflow detection and defense method based on RISC-V instruction set extension](historical/2023/09.md) | Bibliographie historique |
+| 2026-11-13 | [Winter is here! A decade of cache-based side-channel attacks, detection & mitigation for RSA](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-13 | [BAHULAM: Distributed Data Analytics on Secure Enclaves](historical/2020/04.md) | Bibliographie historique |
 | 2026-11-12 | [Hardware Root-of-Trust Support for Operational Technology Cybersecurity in Critical Infrastructures](historical/2023/09.md) | Bibliographie historique |
 | 2026-11-12 | [Trusted Embedded Attestation Storage Scheme and System](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-12 | [Secure Firmware Update Architecture for IoT Devices using Blockchain and PUF](historical/2023/09.md) | Bibliographie historique |
-| 2026-11-12 | [LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-12 | [MuonTrap: Preventing Cross-Domain Spectre-Like Attacks by Capturing Speculative State](historical/2020/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
