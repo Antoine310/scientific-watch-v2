@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-13 | [SE-PIM: In-Memory Acceleration of Data-Intensive Confidential Computing](historical/2023/07.md) | Bibliographie historique |
-| 2026-11-13 | [ConTExT: A Generic Approach for Mitigating Spectre](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-13 | [Meet the Sherlock Holmes’ of Side Channel Leakage: A Survey of Cache SCA Detection Techniques](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-13 | [Defending Against Flush+Reload Attack With DRAM Cache by Bypassing Shared SRAM Cache](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-13 | [SofTEE: Software-Based Trusted Execution Environment for User Applications](historical/2020/01.md) | Bibliographie historique |
+| 2026-11-13 | [New Cross-Core Cache-Agnostic and Prefetcher-based Side-Channels and Covert-Channels](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-13 | [SafeBet: Secure, Simple, and Fast Speculative Execution](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-13 | [Mitigating Speculation-based Attacks through Configurable Hardware/Software Co-design](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-13 | [TALUS: Reinforcing TEE Confidentiality with Cryptographic Coprocessors (Technical Report)](historical/2023/06.md) | Bibliographie historique |
+| 2026-11-13 | [Formalizing, Verifying and Applying ISA Security Guarantees as Universal Contracts](historical/2023/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
