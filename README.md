@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-13 | [SE-PIM: In-Memory Acceleration of Data-Intensive Confidential Computing](historical/2023/07.md) | Bibliographie historique |
 | 2026-11-13 | [ConTExT: A Generic Approach for Mitigating Spectre](historical/2020/01.md) | Bibliographie historique |
 | 2026-11-13 | [Meet the Sherlock Holmes’ of Side Channel Leakage: A Survey of Cache SCA Detection Techniques](historical/2020/01.md) | Bibliographie historique |
 | 2026-11-13 | [Defending Against Flush+Reload Attack With DRAM Cache by Bypassing Shared SRAM Cache](historical/2020/01.md) | Bibliographie historique |
 | 2026-11-13 | [SofTEE: Software-Based Trusted Execution Environment for User Applications](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-13 | [Enclavisor: A Hardware-software Co-design for Enclaves on Untrusted Cloud](historical/2020/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
