@@ -11,20 +11,17 @@
 
 ### Google Scholar et veille scientifique
 
-| Ajout | Publication | Source |
-| --- | --- | --- |
-| 2026-11-13 | [Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs](scholar/README.md) | Google Scholar |
-| 2026-11-13 | [Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic](scholar/README.md) | Google Scholar |
+Aucune nouvelle publication identifiable cette semaine.
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [Systematic Prevention of On-Core Timing Channels by Full Temporal Partitioning](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-14 | [MI6: Secure Enclaves in a Speculative Out-of-Order Processor](historical/2019/10.md) | Bibliographie historique |
 | 2026-11-14 | [Post-Quantum Forward-Secure Signatures with Hardware-Support for Internet of Things](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-14 | [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs *(date indicative)*](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-14 | [OMT: A Run-time Adaptive Architectural Framework for Bonsai Merkle Tree-Based Secure Authentication with Embedded Heterogeneous Memory](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-13 | [oo7: Low-Overhead Defense Against Spectre Attacks via Program Analysis](historical/2019/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
