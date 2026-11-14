@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [MI6: Secure Enclaves in a Speculative Out-of-Order Processor](historical/2019/10.md) | Bibliographie historique |
 | 2026-11-14 | [Post-Quantum Forward-Secure Signatures with Hardware-Support for Internet of Things](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-14 | [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs *(date indicative)*](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-14 | [OMT: A Run-time Adaptive Architectural Framework for Bonsai Merkle Tree-Based Secure Authentication with Embedded Heterogeneous Memory](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-13 | [oo7: Low-Overhead Defense Against Spectre Attacks via Program Analysis](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-13 | [Dancing With Wolves: An Intra-Process Isolation Technique With Privileged Hardware](historical/2023/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
