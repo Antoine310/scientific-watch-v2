@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [Ambassy: A Runtime Framework to Delegate Trusted Applications in an ARM/FPGA Hybrid System](historical/2023/02.md) | Bibliographie historique |
 | 2026-11-14 | [ProSpeCT: Provably Secure Speculation for the Constant-Time Policy (Extended version)](historical/2023/02.md) | Bibliographie historique |
 | 2026-11-14 | [SPECWANDS: An Efficient Priority-based Scheduler Against Speculation Contention Attacks](historical/2023/02.md) | Bibliographie historique |
 | 2026-11-14 | [An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation](historical/2023/02.md) | Bibliographie historique |
 | 2026-11-14 | [Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version)](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-14 | [Parma: Confidential Containers via Attested Execution Policies](historical/2023/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
