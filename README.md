@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [Applying Address Encryption and Timing Noise to Enhance the Security of Caches](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [Selection of Best Fit Hardware Performance Counters to Detect Cache Side-Channel Attacks](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [MITIGATING RAM EXFILTRATION ATTACKS ON CRYPTOGRAPHIC KEYS THROUGH THE USE OF HARDWARE TRANSACTIONAL MEMORY](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [Malware Detection in Embedded Devices using Artificial Hardware Immunity](historical/2023/04.md) | Bibliographie historique |
 | 2026-11-14 | [CoVE: Towards Confidential Computing on RISC-V Platforms](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [Exploration and Exploitation of Hidden PMU Events](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [Scalable Attestation of Virtualized Execution Environments in Hybrid- and Multi-Cloud](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [FVCARE:Formal Verification of Security Primitives in Resilient Embedded SoCs](historical/2023/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
