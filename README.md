@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [HybCache: Hybrid Side-Channel-Resilient Caches for Trusted Execution Environments](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-14 | [Constructing Sliding Windows Leak from Noisy Cache Timing Information of OSS-RSA](historical/2019/09.md) | Bibliographie historique |
 | 2026-11-14 | [Systematic Prevention of On-Core Timing Channels by Full Temporal Partitioning](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-14 | [MI6: Secure Enclaves in a Speculative Out-of-Order Processor](historical/2019/10.md) | Bibliographie historique |
 | 2026-11-14 | [Post-Quantum Forward-Secure Signatures with Hardware-Support for Internet of Things](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-14 | [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs *(date indicative)*](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-14 | [OMT: A Run-time Adaptive Architectural Framework for Bonsai Merkle Tree-Based Secure Authentication with Embedded Heterogeneous Memory](historical/2023/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
