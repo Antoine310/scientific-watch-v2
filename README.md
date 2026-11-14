@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-14 | [Ambassy: A Runtime Framework to Delegate Trusted Applications in an ARM/FPGA Hybrid System](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-14 | [ProSpeCT: Provably Secure Speculation for the Constant-Time Policy (Extended version)](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-14 | [SPECWANDS: An Efficient Priority-based Scheduler Against Speculation Contention Attacks](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-14 | [An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-14 | [Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version)](historical/2023/02.md) | Bibliographie historique |
+| 2026-11-14 | [Attack Directories, Not Caches: Side Channel Attacks in a Non-Inclusive World](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-14 | [SafeSpec: Banishing the Spectre of a Meltdown with Leakage-Free Speculation](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-14 | [ConTExT: Leakage-Free Transient Execution](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-14 | [SpectreGuard: An Efficient Data-centric Defense Mechanism against Spectre Attacks](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-14 | [SpecFuzz: Bringing Spectre-type vulnerabilities to the surface](historical/2019/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
