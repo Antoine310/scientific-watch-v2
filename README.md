@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-14 | [Lookout for Zombies: Mitigating Flush+Reload Attack on Shared Caches by Monitoring Invalidated Lines](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-14 | [Secure TLBs](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-14 | [SgxPectre: Stealing Intel Secrets from SGX Enclaves Via Speculative Execution](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-14 | [Leveraging Cache Management Hardware for Practical Defense Against Cache Timing Channel Attacks](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-14 | [Sherlock Holmes of Cache Side-Channel Attacks in Intel's x86 Architecture](historical/2019/06.md) | Bibliographie historique |
+| 2026-11-14 | [ProSpeCT: Provably Secure Speculation for the Constant-Time Policy (Extended version)](historical/2023/02.md) | Bibliographie historique |
+| 2026-11-14 | [SPECWANDS: An Efficient Priority-based Scheduler Against Speculation Contention Attacks](historical/2023/02.md) | Bibliographie historique |
+| 2026-11-14 | [An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation](historical/2023/02.md) | Bibliographie historique |
+| 2026-11-14 | [Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version)](historical/2023/02.md) | Bibliographie historique |
+| 2026-11-14 | [Parma: Confidential Containers via Attested Execution Policies](historical/2023/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
