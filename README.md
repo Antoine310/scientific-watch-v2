@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-14 | [ENCIDER: Detecting Timing and Cache Side Channels in SGX Enclaves and Cryptographic APIs](historical/2023/03.md) | Bibliographie historique |
-| 2026-11-14 | [Intel TDX Demystified: A Top-Down Approach](historical/2023/03.md) | Bibliographie historique |
-| 2026-11-14 | [EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments](historical/2019/07.md) | Bibliographie historique |
-| 2026-11-14 | [Architecting the Autocuckoo Filter to Defend Against Cross-Core Cache Attacks](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [Advanced profiling for probabilistic Prime+Probe attacks and covert channels in ScatterCache](historical/2019/08.md) | Bibliographie historique |
+| 2026-11-14 | [How Secure is Exponent-blinded RSA–CRT with Sliding Window Exponentiation?](historical/2023/03.md) | Bibliographie historique |
+| 2026-11-14 | [RDS: FPGA Routing Delay Sensors for Effective Remote Power Analysis Attacks](historical/2023/03.md) | Bibliographie historique |
+| 2026-11-14 | [Threshold Implementations in Software: Micro-architectural Leakages in Algorithms](historical/2023/03.md) | Bibliographie historique |
+| 2026-11-14 | [Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI](historical/2023/03.md) | Bibliographie historique |
+| 2026-11-14 | [Efficient Private Circuits with Precomputation](historical/2023/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
