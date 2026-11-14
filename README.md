@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-14 | [FairSDP: Fair and Secure Dynamic Cache Partitioning](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-14 | [Hardware-assisted Remote Runtime Attestation for Critical Embedded Systems](historical/2019/08.md) | Bibliographie historique |
-| 2026-11-14 | [A Probability Prediction Based Mutable Control-Flow Attestation Scheme on Embedded Platforms](historical/2019/08.md) | Bibliographie historique |
-| 2026-11-14 | [HybCache: Hybrid Side-Channel-Resilient Caches for Trusted Execution Environments](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-14 | [Constructing Sliding Windows Leak from Noisy Cache Timing Information of OSS-RSA](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-14 | [CoVE: Towards Confidential Computing on RISC-V Platforms](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [Exploration and Exploitation of Hidden PMU Events](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [Scalable Attestation of Virtualized Execution Environments in Hybrid- and Multi-Cloud](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [FVCARE:Formal Verification of Security Primitives in Resilient Embedded SoCs](historical/2023/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -78,7 +78,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2023-07 — 15 publication(s)](historical/2023/07.md)
 - [2023-06 — 16 publication(s)](historical/2023/06.md)
 - [2023-05 — 17 publication(s)](historical/2023/05.md)
-- [2023-04 — 10 publication(s)](historical/2023/04.md)
+- [2023-04 — 6 publication(s)](historical/2023/04.md)
 - [2023-03 — 4 publication(s)](historical/2023/03.md)
 - [2023-02 — 4 publication(s)](historical/2023/02.md)
 - [2023-01 — 3 publication(s)](historical/2023/01.md)
