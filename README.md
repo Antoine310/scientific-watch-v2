@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs *(date indicative)*](historical/2023/05.md) | Bibliographie historique |
+| 2026-11-14 | [OMT: A Run-time Adaptive Architectural Framework for Bonsai Merkle Tree-Based Secure Authentication with Embedded Heterogeneous Memory](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-13 | [oo7: Low-Overhead Defense Against Spectre Attacks via Program Analysis](historical/2019/11.md) | Bibliographie historique |
 | 2026-11-13 | [Dancing With Wolves: An Intra-Process Isolation Technique With Privileged Hardware](historical/2023/05.md) | Bibliographie historique |
 | 2026-11-13 | [L-IDS: A lightweight hardware-assisted IDS for IoT systems to detect ransomware attacks](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-13 | [A Survey of Security Concerns and Countermeasures in Modern Micro-architectures with Transient Execution](historical/2023/05.md) | Bibliographie historique |
-| 2026-11-13 | [RARES: Runtime Attack Resilient Embedded System Design Using Verified Proof-of-Execution](historical/2023/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
