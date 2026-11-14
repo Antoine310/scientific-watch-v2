@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-14 | [EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-14 | [Architecting the Autocuckoo Filter to Defend Against Cross-Core Cache Attacks](historical/2023/04.md) | Bibliographie historique |
 | 2026-11-14 | [Advanced profiling for probabilistic Prime+Probe attacks and covert channels in ScatterCache](historical/2019/08.md) | Bibliographie historique |
 | 2026-11-14 | [Self-Spectre, Write-Execute and the Hidden State](historical/2019/08.md) | Bibliographie historique |
 | 2026-11-14 | [Cross-VM Cache Timing Attacks on Virtualized Network Functions](historical/2019/08.md) | Bibliographie historique |
-| 2026-11-14 | [Keystone: An Open Framework for Architecting TEEs](historical/2019/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
