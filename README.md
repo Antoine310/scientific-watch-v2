@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-14 | [Applying Address Encryption and Timing Noise to Enhance the Security of Caches](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [Selection of Best Fit Hardware Performance Counters to Detect Cache Side-Channel Attacks](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [MITIGATING RAM EXFILTRATION ATTACKS ON CRYPTOGRAPHIC KEYS THROUGH THE USE OF HARDWARE TRANSACTIONAL MEMORY](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [Malware Detection in Embedded Devices using Artificial Hardware Immunity](historical/2023/04.md) | Bibliographie historique |
-| 2026-11-14 | [CoVE: Towards Confidential Computing on RISC-V Platforms](historical/2023/04.md) | Bibliographie historique |
+| 2026-11-14 | [Advanced profiling for probabilistic Prime+Probe attacks and covert channels in ScatterCache](historical/2019/08.md) | Bibliographie historique |
+| 2026-11-14 | [Self-Spectre, Write-Execute and the Hidden State](historical/2019/08.md) | Bibliographie historique |
+| 2026-11-14 | [Cross-VM Cache Timing Attacks on Virtualized Network Functions](historical/2019/08.md) | Bibliographie historique |
+| 2026-11-14 | [Keystone: An Open Framework for Architecting TEEs](historical/2019/07.md) | Bibliographie historique |
+| 2026-11-14 | [Secure Design Flow of FPGA Based RISC-V Implementation](historical/2019/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
