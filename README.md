@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [SCADET: a side-channel attack detection tool for tracking prime+probe](historical/2018/11.md) | Bibliographie historique |
+| 2026-11-15 | [A Systematic Evaluation of Transient Execution Attacks and Defenses](historical/2018/11.md) | Bibliographie historique |
+| 2026-11-15 | [Securing a trusted hardware environment (Trusted Execution Environment)](historical/2018/11.md) | Bibliographie historique |
 | 2026-11-15 | [Cipherfix: Mitigating Ciphertext Side-Channel Attacks in Software](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-15 | [RvDfi: A RISC-V Architecture With Security Enforcement by High Performance Complete Data-Flow Integrity](historical/2022/10.md) | Bibliographie historique |
-| 2026-11-15 | [Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers](historical/2022/10.md) | Bibliographie historique |
-| 2026-11-15 | [SoK: How Not to Architect Your Next-Generation TEE Malware?](historical/2022/10.md) | Bibliographie historique |
-| 2026-11-15 | [Delay-on-Squash: Stopping Microarchitectural Replay Attacks in Their Tracks](historical/2022/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
