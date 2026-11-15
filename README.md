@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Microarchitectural Attacks in Heterogeneous Systems: A Survey](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-15 | [Cross-VM Covert- and Side-Channel Attacks in Cloud FPGAs](historical/2022/12.md) | Bibliographie historique |
 | 2026-11-15 | [Towards a Better Indicator for Cache Timing Channels](historical/2019/02.md) | Bibliographie historique |
 | 2026-11-15 | [TIMBER-V: Tag-Isolated Memory Bringing Fine-grained Enclaves to RISC-V](historical/2019/01.md) | Bibliographie historique |
 | 2026-11-15 | [SANCTUARY: ARMing TrustZone with User-space Enclaves](historical/2019/01.md) | Bibliographie historique |
-| 2026-11-15 | [Hardware Root of Trust on IoT Gateway](historical/2019/01.md) | Bibliographie historique |
-| 2026-11-15 | [Hardware-Based Isolation and Attestation Architecture for a RISC-V core](historical/2019/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
