@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Reverse-Engineering and Exploiting the Frontend Bus of Intel Processor](historical/2023/02.md) | Bibliographie historique |
 | 2026-11-14 | [Attack Directories, Not Caches: Side Channel Attacks in a Non-Inclusive World](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-14 | [SafeSpec: Banishing the Spectre of a Meltdown with Leakage-Free Speculation](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-14 | [ConTExT: Leakage-Free Transient Execution](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-14 | [SpectreGuard: An Efficient Data-centric Defense Mechanism against Spectre Attacks](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-14 | [SpecFuzz: Bringing Spectre-type vulnerabilities to the surface](historical/2019/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
