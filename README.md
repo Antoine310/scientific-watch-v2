@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-15 | [Microarchitectural Attacks in Heterogeneous Systems: A Survey](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-15 | [Cross-VM Covert- and Side-Channel Attacks in Cloud FPGAs](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-15 | [Towards a Better Indicator for Cache Timing Channels](historical/2019/02.md) | Bibliographie historique |
-| 2026-11-15 | [TIMBER-V: Tag-Isolated Memory Bringing Fine-grained Enclaves to RISC-V](historical/2019/01.md) | Bibliographie historique |
-| 2026-11-15 | [SANCTUARY: ARMing TrustZone with User-space Enclaves](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [Spectre: Attack and Defense](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [Analysis and design of microarchitectural side-channel attacks and countermeasures](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [A security evaluation of TrustZone based trusted execution environments](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [Secure Remote Attestation for Safety-Critical Embedded and IoT Devices](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [NetSpectre: Read Arbitrary Memory over Network](historical/2019/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -135,5 +135,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2019-04 — 1 publication(s)](historical/2019/04.md)
 - [2019-03 — 4 publication(s)](historical/2019/03.md)
 - [2019-02 — 2 publication(s)](historical/2019/02.md)
-- [2019-01 — 5 publication(s)](historical/2019/01.md)
+- [2019-01 — 2 publication(s)](historical/2019/01.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
