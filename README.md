@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-15 | [SoK: Analysis of Root Causes and Defense Strategies for Attacks on Microarchitectural Optimizations](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-15 | [Cache-related Hardware Capabilities and Their Impact on Information Security](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-15 | [MProtect: Operating System Memory Management without Access](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-15 | [On (the Lack of) Code Confidentiality in Trusted Execution Environments](historical/2022/12.md) | Bibliographie historique |
-| 2026-11-15 | [Behind the last line of defense: Surviving SoC faults and intrusions *(date indicative)*](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-15 | [Towards a Better Indicator for Cache Timing Channels](historical/2019/02.md) | Bibliographie historique |
+| 2026-11-15 | [TIMBER-V: Tag-Isolated Memory Bringing Fine-grained Enclaves to RISC-V](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [SANCTUARY: ARMing TrustZone with User-space Enclaves](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [Hardware Root of Trust on IoT Gateway](historical/2019/01.md) | Bibliographie historique |
+| 2026-11-15 | [Hardware-Based Isolation and Attestation Architecture for a RISC-V core](historical/2019/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
