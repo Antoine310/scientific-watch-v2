@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Revisiting ARM Debugging Features: Nailgun and its Defense](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-15 | [MINOTAuR: A Timing Predictable RISC-V Core Featuring Speculative Execution](historical/2023/01.md) | Bibliographie historique |
 | 2026-11-15 | [SoK: Hardware Defenses Against Speculative Execution Attacks](historical/2023/01.md) | Bibliographie historique |
 | 2026-11-15 | [CVTEE: A Compatible Verified TEE Architecture With Enhanced Security](historical/2023/01.md) | Bibliographie historique |
 | 2026-11-15 | [Clueless: A Tool Characterising Values Leaking as Addresses](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [MVAM: Multi-variant Attacks on Memory for IoT Trust Computing](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [Survey of Approaches and Techniques for Security Verification of Computer Systems](historical/2023/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
