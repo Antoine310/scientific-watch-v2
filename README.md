@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-15 | [A Framework for Design, Verification, and Management of SoC Access Control Systems](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-15 | [Life cycle models and security threats to a microcircuit during its development and operation](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [Reverse-Engineering and Exploiting the Frontend Bus of Intel Processor](historical/2023/02.md) | Bibliographie historique |
-| 2026-11-14 | [Attack Directories, Not Caches: Side Channel Attacks in a Non-Inclusive World](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-14 | [SafeSpec: Banishing the Spectre of a Meltdown with Leakage-Free Speculation](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-15 | [SoK: Hardware Defenses Against Speculative Execution Attacks](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-15 | [CVTEE: A Compatible Verified TEE Architecture With Enhanced Security](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-15 | [Clueless: A Tool Characterising Values Leaking as Addresses](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-15 | [MVAM: Multi-variant Attacks on Memory for IoT Trust Computing](historical/2023/01.md) | Bibliographie historique |
+| 2026-11-15 | [Survey of Approaches and Techniques for Security Verification of Computer Systems](historical/2023/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
