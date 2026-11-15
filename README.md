@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Delay-on-Squash: Stopping Microarchitectural Replay Attacks in Their Tracks](historical/2022/11.md) | Bibliographie historique |
+| 2026-11-15 | [High Bandwidth Thermal Covert Channel in 3-D-Integrated Multicore Processors *(date indicative)*](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-15 | [Verification of Hardware and Software with Fuzzing and Proofs](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-15 | [Hardware protection of UEFI-firmware and NVRAM of the computer with Resident Security Component](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-15 | [SpecDefender: Transient Execution Attack Defender using Performance Counters](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-15 | [MemWander: Memory Dynamic Remapping via Hypervisor Against Cache-Based Side-Channel Attacks](historical/2018/12.md) | Bibliographie historique |
-| 2026-11-15 | [Side-Channel Analysis of SM2: A Late-Stage Featurization Case Study](historical/2018/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -89,7 +89,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2023-02 — 10 publication(s)](historical/2023/02.md)
 - [2023-01 — 9 publication(s)](historical/2023/01.md)
 - [2022-12 — 12 publication(s)](historical/2022/12.md)
-- [2022-11 — 11 publication(s)](historical/2022/11.md)
+- [2022-11 — 10 publication(s)](historical/2022/11.md)
 - [2022-10 — 5 publication(s)](historical/2022/10.md)
 - [2022-09 — 3 publication(s)](historical/2022/09.md)
 - [2022-08 — 5 publication(s)](historical/2022/08.md)
