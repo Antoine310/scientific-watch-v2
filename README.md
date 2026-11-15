@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-15 | [Spectre is here to stay: An analysis of side-channels and speculative execution](historical/2019/02.md) | Bibliographie historique |
-| 2026-11-15 | [Sanctorum: A lightweight security monitor for secure enclaves](historical/2019/03.md) | Bibliographie historique |
-| 2026-11-15 | [Lightweight Secure-Boot Architecture for RISC-V System-on-Chip](historical/2019/03.md) | Bibliographie historique |
-| 2026-11-15 | [A Security Architecture for RISC-V based IoT Devices](historical/2019/03.md) | Bibliographie historique |
-| 2026-11-15 | [On the Incomparability of Cache Algorithms in Terms of Timing Leakage](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-15 | [SoK: Analysis of Root Causes and Defense Strategies for Attacks on Microarchitectural Optimizations](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-15 | [Cache-related Hardware Capabilities and Their Impact on Information Security](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-15 | [MProtect: Operating System Memory Management without Access](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-15 | [On (the Lack of) Code Confidentiality in Trusted Execution Environments](historical/2022/12.md) | Bibliographie historique |
+| 2026-11-15 | [Behind the last line of defense: Surviving SoC faults and intrusions *(date indicative)*](historical/2022/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
