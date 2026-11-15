@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Sanctorum: A lightweight security monitor for secure enclaves](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-15 | [Lightweight Secure-Boot Architecture for RISC-V System-on-Chip](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-15 | [A Security Architecture for RISC-V based IoT Devices](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-15 | [On the Incomparability of Cache Algorithms in Terms of Timing Leakage](historical/2019/03.md) | Bibliographie historique |
 | 2026-11-15 | [An Exhaustive Approach to Detecting Transient Execution Side Channels in RTL Designs of Processors](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [Revisiting ARM Debugging Features: Nailgun and its Defense](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [MINOTAuR: A Timing Predictable RISC-V Core Featuring Speculative Execution](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [SoK: Hardware Defenses Against Speculative Execution Attacks](historical/2023/01.md) | Bibliographie historique |
-| 2026-11-15 | [CVTEE: A Compatible Verified TEE Architecture With Enhanced Security](historical/2023/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
