@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Cipherfix: Mitigating Ciphertext Side-Channel Attacks in Software](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-15 | [RvDfi: A RISC-V Architecture With Security Enforcement by High Performance Complete Data-Flow Integrity](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-15 | [Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-15 | [SoK: How Not to Architect Your Next-Generation TEE Malware?](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-15 | [Delay-on-Squash: Stopping Microarchitectural Replay Attacks in Their Tracks](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-15 | [High Bandwidth Thermal Covert Channel in 3-D-Integrated Multicore Processors *(date indicative)*](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-15 | [Verification of Hardware and Software with Fuzzing and Proofs](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-15 | [Hardware protection of UEFI-firmware and NVRAM of the computer with Resident Security Component](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-15 | [SpecDefender: Transient Execution Attack Defender using Performance Counters](historical/2022/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
