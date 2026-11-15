@@ -4,7 +4,7 @@ Domaines : sécurité matérielle, architecture, cybersécurité, cryptographie 
 
 > **Attention :** dates provenant de calendriers communautaires. Vérifier impérativement les échéances sur le site officiel avant toute soumission. Les rangs CORE affichés sont **indicatifs** et ne constituent pas une vérification du classement ICORE 2026.
 
-**Actualisé le :** 08/11/2026 · **Fuseau horaire des échéances :** Europe/Paris (conversion lorsque le flux fournit un fuseau).
+**Actualisé le :** 15/11/2026 · **Fuseau horaire des échéances :** Europe/Paris (conversion lorsque le flux fournit un fuseau).
 
 [Consulter le classement officiel ICORE](https://portal.core.edu.au/conf-ranks/?by=all) · [Research Conference Deadlines](https://conference-deadlines.github.io/) · [Security Deadlines](https://sec-deadlines.github.io/)
 
@@ -12,7 +12,6 @@ Domaines : sécurité matérielle, architecture, cybersécurité, cryptographie 
 
 | Conférence | Échéance | Type | Site officiel |
 |---|---|---|---|
-| HOST 2027 | 09/11/2026 | Article | [Site](https://host.conferences.computer.org/2027/) |
 | ISCA 2027 | 17/11/2026 | Article | [Site](https://iscaconf.org/isca2027/) |
 | IEEE S&P 2027 | 18/11/2026 | Article | [Site](https://sp2027.ieee-security.org/index.html) |
 | DAC 2027 | 19/11/2026 | Article | [Site](https://dac.com/2027/authors/call-for-contributions) |
@@ -61,7 +60,7 @@ Domaines : sécurité matérielle, architecture, cybersécurité, cryptographie 
 
 | Conférence | Rang CORE¹ | Soumission article | Dates de la conférence | Lieu | Site |
 |---|---|---|---|---|---|
-| DATE 2027 | A | 21/09/2026 | March 22-24, 2027 | Dresden, Germany | [Officiel](https://www.date-conference.com/date-2027-call-papers) |
+| DATE 2027 | A | 21/09/2026 | March 22-24, 2027 | Dresden, Germany | [Officiel](https://www.date-conference.com/call-for-papers) |
 | ICCAD 2026 | A | 15/04/2026 | November 8 - 12, 2026 | San Jose, California, USA | [Officiel](https://iccad.com/2026) |
 | DAC 2027 | Non renseigné | 19/11/2026 | July 11-14, 2027 | San Jose, CA | [Officiel](https://dac.com/2027/authors/call-for-contributions) |
 | FPGA 2027 | Non renseigné | 09/10/2026 | March 14 - March 16, 2027 | Monterey, California, USA | [Officiel](https://www.isfpga.org/) |
