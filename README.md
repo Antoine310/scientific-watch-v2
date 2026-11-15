@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [Spectre is here to stay: An analysis of side-channels and speculative execution](historical/2019/02.md) | Bibliographie historique |
 | 2026-11-15 | [Sanctorum: A lightweight security monitor for secure enclaves](historical/2019/03.md) | Bibliographie historique |
 | 2026-11-15 | [Lightweight Secure-Boot Architecture for RISC-V System-on-Chip](historical/2019/03.md) | Bibliographie historique |
 | 2026-11-15 | [A Security Architecture for RISC-V based IoT Devices](historical/2019/03.md) | Bibliographie historique |
 | 2026-11-15 | [On the Incomparability of Cache Algorithms in Terms of Timing Leakage](historical/2019/03.md) | Bibliographie historique |
-| 2026-11-15 | [An Exhaustive Approach to Detecting Transient Execution Side Channels in RTL Designs of Processors](historical/2023/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
