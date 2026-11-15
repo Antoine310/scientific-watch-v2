@@ -88,7 +88,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2023-03 — 8 publication(s)](historical/2023/03.md)
 - [2023-02 — 10 publication(s)](historical/2023/02.md)
 - [2023-01 — 9 publication(s)](historical/2023/01.md)
-- [2022-12 — 11 publication(s)](historical/2022/12.md)
+- [2022-12 — 12 publication(s)](historical/2022/12.md)
 - [2022-11 — 7 publication(s)](historical/2022/11.md)
 - [2022-10 — 5 publication(s)](historical/2022/10.md)
 - [2022-09 — 3 publication(s)](historical/2022/09.md)
@@ -135,5 +135,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2019-04 — 1 publication(s)](historical/2019/04.md)
 - [2019-03 — 4 publication(s)](historical/2019/03.md)
 - [2019-02 — 2 publication(s)](historical/2019/02.md)
-- [2019-01 — 2 publication(s)](historical/2019/01.md)
+- [2019-01 — 5 publication(s)](historical/2019/01.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
