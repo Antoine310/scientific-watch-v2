@@ -11,7 +11,12 @@
 
 ### Google Scholar et veille scientifique
 
-Aucune nouvelle publication identifiable cette semaine.
+| Ajout | Publication | Source |
+| --- | --- | --- |
+| 2026-11-15 | [Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs](reports/2026/week-46.md) | Rapport hebdomadaire |
+| 2026-11-15 | [Branch Target Reuse: Practical Spectre-v2 Attacks in JIT Engines via Stale Branch Prediction Entries](reports/2026/week-46.md) | Rapport hebdomadaire |
+| 2026-11-15 | [Toward Secure Live Enclave Introspection](reports/2026/week-46.md) | Rapport hebdomadaire |
+| 2026-11-15 | [Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic](reports/2026/week-46.md) | Rapport hebdomadaire |
 
 ### Bibliographie historique
 
