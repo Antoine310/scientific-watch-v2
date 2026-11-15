@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-15 | [SpecDefender: Transient Execution Attack Defender using Performance Counters](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-15 | [MemWander: Memory Dynamic Remapping via Hypervisor Against Cache-Based Side-Channel Attacks](historical/2018/12.md) | Bibliographie historique |
 | 2026-11-15 | [Side-Channel Analysis of SM2: A Late-Stage Featurization Case Study](historical/2018/12.md) | Bibliographie historique |
 | 2026-11-15 | [Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels](historical/2022/11.md) | Bibliographie historique |
 | 2026-11-15 | [Hacky Racers: Exploiting Instruction-Level Parallelism to Generate Stealthy Fine-Grained Timers](historical/2022/11.md) | Bibliographie historique |
-| 2026-11-15 | [Toward Register Spilling Security Using LLVM and ARM Pointer Authentication *(date indicative)*](historical/2022/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
