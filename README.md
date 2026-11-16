@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [ERIC: An Efficient and Practical Software Obfuscation Framework](historical/2022/07.md) | Bibliographie historique |
+| 2026-11-16 | [Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses](historical/2018/05.md) | Bibliographie historique |
+| 2026-11-16 | [Cache timing side-channel vulnerability checking with computation tree logic](historical/2018/05.md) | Bibliographie historique |
 | 2026-11-16 | [Sealer: In-SRAM AES for High-Performance and Low-Overhead Memory Encryption *(date indicative)*](historical/2022/08.md) | Bibliographie historique |
 | 2026-11-16 | [Dynamic First Access Isolation Cache to Eliminate Reuse-Based Cache Side Channel Attacks](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-16 | [LazyFP: Leaking FPU Register State using Microarchitectural Side-Channels](historical/2018/06.md) | Bibliographie historique |
-| 2026-11-16 | [SYNFI: Pre-Silicon Fault Analysis of an Open-Source Secure Element](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-16 | [RIPEMB: A framework for assessing hardware-assisted software security schemes in embedded systems](historical/2022/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
