@@ -138,4 +138,5 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2018-08 — 1 publication(s)](historical/2018/08.md)
 - [2018-07 — 2 publication(s)](historical/2018/07.md)
 - [2018-06 — 1 publication(s)](historical/2018/06.md)
+- [2018-05 — 2 publication(s)](historical/2018/05.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
