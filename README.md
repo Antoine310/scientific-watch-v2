@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-16 | [AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-16 | [A Hardware Security-Monitoring Architecture Based on Data Integrity and Control Flow Integrity for Embedded Systems](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-16 | [Layered Binary Templating: Efficient Detection of Compiler- and Linker-introduced Leakage](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-16 | [STELLA: Sparse Taint Analysis for Enclave Leakage Detection](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-16 | [Recovering Information on the CVA6 RISC-V CPU with a Baremetal Micro-Architectural Covert Channel](historical/2022/09.md) | Bibliographie historique |
+| 2026-11-16 | [SYNFI: Pre-Silicon Fault Analysis of an Open-Source Secure Element](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-16 | [RIPEMB: A framework for assessing hardware-assisted software security schemes in embedded systems](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-16 | [Analysis and Evaluation of Hardware Trust Anchors in the Automotive Domain](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-16 | [Fast Large-Integer Extended GCD Algorithm and Hardware Design for Verifiable Delay Functions and Modular Inversion](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-16 | [The Technological Arms Race in Hardware Security](historical/2022/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
