@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [Translation leak-aside buffer : Defeating cache side-channel protections with TLB attacks](historical/2018/08.md) | Bibliographie historique |
 | 2026-11-16 | [3rdParTEE: Securing Third-Party IoT Services Using the Trusted Execution Environment](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-16 | [Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-16 | [Write Me and I'll Tell You Secrets -- Write-After-Write Effects On Intel CPUs](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-16 | [Chameleon Cache: Approximating Fully Associative Caches with Random Replacement to Prevent Contention-Based Cache Attacks](historical/2022/09.md) | Bibliographie historique |
-| 2026-11-16 | [Automatic Detection of Speculative Execution Combinations](historical/2022/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
