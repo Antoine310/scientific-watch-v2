@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [Open-Source Hardware Memory Protection Engine Integrated With NVMM Simulator](historical/2022/07.md) | Bibliographie historique |
+| 2026-11-16 | [SOTARU: Abordagem Baseada em Blockchain de Consórcio para Atualização Remota de Firmware no Cenário da IoT](historical/2022/07.md) | Bibliographie historique |
 | 2026-11-16 | [PMUSpill: The Counters in Performance Monitor Unit that Leak SGX-Protected Secrets](historical/2022/07.md) | Bibliographie historique |
 | 2026-11-16 | [Processor Security: Detecting Microarchitectural Attacks via Count-Min Sketches](historical/2022/07.md) | Bibliographie historique |
 | 2026-11-16 | [Cyber Security Protection of Power System Equipment Based on Chip-Level Trusted Computing](historical/2022/07.md) | Bibliographie historique |
-| 2026-11-16 | [ERIC: An Efficient and Practical Software Obfuscation Framework](historical/2022/07.md) | Bibliographie historique |
-| 2026-11-16 | [Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses](historical/2018/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
