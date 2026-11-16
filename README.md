@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [An Efficient Indexing Technique for AES Lookup Table to Prevent Side-Channel Cache Timing Attack](historical/2018/09.md) | Bibliographie historique |
 | 2026-11-16 | [Automatic Software Timing Attack Evaluation & Mitigation on Clear Hardware Assumption](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-16 | [DAWG: A Defense Against Cache Timing Attacks in Speculative Execution Processors](historical/2018/10.md) | Bibliographie historique |
 | 2026-11-16 | [Nemesis: Studying Microarchitectural Timing Leaks in Rudimentary CPU Interrupt Logic](historical/2018/10.md) | Bibliographie historique |
 | 2026-11-16 | [Symbolic Verification of Cache Side-Channel Freedom](historical/2018/10.md) | Bibliographie historique |
-| 2026-11-16 | [Salsa: SGX Attestation for Live Streaming Applications](historical/2022/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
