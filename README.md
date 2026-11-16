@@ -11,22 +11,17 @@
 
 ### Google Scholar et veille scientifique
 
-| Ajout | Publication | Source |
-| --- | --- | --- |
-| 2026-11-15 | [Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs](reports/2026/week-46.md) | Rapport hebdomadaire |
-| 2026-11-15 | [Branch Target Reuse: Practical Spectre-v2 Attacks in JIT Engines via Stale Branch Prediction Entries](reports/2026/week-46.md) | Rapport hebdomadaire |
-| 2026-11-15 | [Toward Secure Live Enclave Introspection](reports/2026/week-46.md) | Rapport hebdomadaire |
-| 2026-11-15 | [Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic](reports/2026/week-46.md) | Rapport hebdomadaire |
+Aucune nouvelle publication identifiable cette semaine.
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [Real-Time Instruction Execution Monitoring with Hardware-Assisted Security Monitoring Unit in RISC-V Embedded Systems](historical/2022/09.md) | Bibliographie historique |
+| 2026-11-16 | [A Hardware-Assisted Security Monitoring Method for Jump Instruction and Jump Address in Embedded Systems *(date indicative)*](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-16 | [Translation leak-aside buffer : Defeating cache side-channel protections with TLB attacks](historical/2018/08.md) | Bibliographie historique |
 | 2026-11-16 | [3rdParTEE: Securing Third-Party IoT Services Using the Trusted Execution Environment](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-16 | [Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing](historical/2022/09.md) | Bibliographie historique |
-| 2026-11-16 | [Write Me and I'll Tell You Secrets -- Write-After-Write Effects On Intel CPUs](historical/2022/09.md) | Bibliographie historique |
-| 2026-11-16 | [Chameleon Cache: Approximating Fully Associative Caches with Random Replacement to Prevent Contention-Based Cache Attacks](historical/2022/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
