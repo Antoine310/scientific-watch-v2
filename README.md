@@ -22,11 +22,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [Salsa: SGX Attestation for Live Streaming Applications](historical/2022/10.md) | Bibliographie historique |
+| 2026-11-16 | [A Trusted Communication Unit for Secure Tiled Hardware Architectures](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-16 | [Counteracting software integrity attacks on IoT devices with remote attestation: a prototype](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-16 | [RAS2P: Remote Attestation via Self-Measurement for SGX-based Platforms](historical/2022/10.md) | Bibliographie historique |
 | 2026-11-15 | [SCADET: a side-channel attack detection tool for tracking prime+probe](historical/2018/11.md) | Bibliographie historique |
-| 2026-11-15 | [A Systematic Evaluation of Transient Execution Attacks and Defenses](historical/2018/11.md) | Bibliographie historique |
-| 2026-11-15 | [Securing a trusted hardware environment (Trusted Execution Environment)](historical/2018/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
