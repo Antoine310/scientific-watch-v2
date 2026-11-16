@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-16 | [Recovering Information on the CVA6 RISC-V CPU with a Baremetal Micro-Architectural Covert Channel](historical/2022/09.md) | Bibliographie historique |
 | 2026-11-16 | [How to Live in a Post-Meltdown and -Spectre World: Learn from the past to prepare for the next battle.](historical/2018/08.md) | Bibliographie historique |
 | 2026-11-16 | [Invited Paper: Secure Boot and Remote Attestation in the Sanctum Processor](historical/2018/07.md) | Bibliographie historique |
 | 2026-11-16 | [ScaRR: Scalable Runtime Remote Attestation for Complex Systems](historical/2018/07.md) | Bibliographie historique |
 | 2026-11-16 | [BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof](historical/2018/07.md) | Bibliographie historique |
-| 2026-11-16 | [Real-Time Instruction Execution Monitoring with Hardware-Assisted Security Monitoring Unit in RISC-V Embedded Systems](historical/2022/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
