@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [Towards securely migrating webassembly enclaves](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [Tiered trust for useful embedded systems security](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [Hardware-Implemented Security Processing Unit for Program Execution Monitoring and Instruction Fault Self-Repairing on Embedded Systems](historical/2022/04.md) | Bibliographie historique |
 | 2026-11-17 | [NetSpectre](historical/2018/01.md) | Bibliographie historique |
 | 2026-11-17 | [Capability Hardware Enhanced RISC Instructions (CHERI): Notes on the Meltdown and Spectre Attacks](historical/2018/01.md) | Bibliographie historique |
-| 2026-11-17 | [Investigating Black-Box Function Recognition Using Hardware Performance Counters](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-17 | [S-Blocks: Lightweight and Trusted Virtual Security Function With SGX](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-17 | [A Secure Platform Model Based on ARM Platform Security Architecture for IoT Devices](historical/2022/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
