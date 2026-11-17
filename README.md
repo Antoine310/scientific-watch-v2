@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-17 | [Øzone: Efficient execution with zero timing leakage for modern microarchitectures](historical/2018/03.md) | Bibliographie historique |
-| 2026-11-17 | [Axiomatic hardware-software contracts for security](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [Efficient Method for Timing-based Information Flow Verification in Hardware Designs](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [HASTE: Software Security Analysis for Timing Attacks on Clear Hardware Assumption](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [On Security of TrustZone-M-Based IoT Systems](historical/2022/06.md) | Bibliographie historique |
+| 2026-11-17 | [Innovations and applications of operating system security with a hardware-software co-design](historical/2022/06.md) | Bibliographie historique |
+| 2026-11-17 | [Security Model for Randomization-based Protected Caches](historical/2022/06.md) | Bibliographie historique |
+| 2026-11-17 | [Benchmarking the Second Generation of Intel SGX Hardware](historical/2022/06.md) | Bibliographie historique |
+| 2026-11-17 | [The Hidden Parallelepiped Is Back Again: Power Analysis Attacks on Falcon](historical/2022/06.md) | Bibliographie historique |
+| 2026-11-17 | [Composable Gadgets with Reused Fresh Masks](historical/2022/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
