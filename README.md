@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [CompartOS: CHERI Compartmentalization for Embedded Systems](historical/2022/06.md) | Bibliographie historique |
+| 2026-11-17 | [DF-SCA: Dynamic Frequency Side Channel Attacks are Practical](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-16 | [Secure and Dynamic Core and Cache Partitioning for Safe and Efficient Server Consolidation](historical/2018/05.md) | Bibliographie historique |
 | 2026-11-16 | [A comparison study of intel SGX and AMD memory encryption technology](historical/2018/05.md) | Bibliographie historique |
 | 2026-11-16 | [Open-Source Hardware Memory Protection Engine Integrated With NVMM Simulator](historical/2022/07.md) | Bibliographie historique |
-| 2026-11-16 | [SOTARU: Abordagem Baseada em Blockchain de Consórcio para Atualização Remota de Firmware no Cenário da IoT](historical/2022/07.md) | Bibliographie historique |
-| 2026-11-16 | [PMUSpill: The Counters in Performance Monitor Unit that Leak SGX-Protected Secrets](historical/2022/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
