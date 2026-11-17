@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-17 | [ATRIUM: Runtime Attestation Resilient Under Memory Attacks](historical/2017/11.md) | Bibliographie historique |
-| 2026-11-17 | [The Porting and Optimization of RISC-V UEFI Boot](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-17 | [Keep the PokerFace on! Thwarting cache side channel attacks by memory bus monitoring and cache obfuscation](historical/2017/12.md) | Bibliographie historique |
-| 2026-11-17 | [The Pyramid Scheme: Oblivious RAM for Trusted Processors](historical/2017/12.md) | Bibliographie historique |
-| 2026-11-17 | [Towards Interoperable Enclave Attestation: Learnings from Decades of Academic Work](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [You Cannot Always Win the Race: Analyzing the LFENCE/JMP Mitigation for Branch Target Injection](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-17 | [CRAlert: Hardware-Assisted Code Reuse Attack Detection *(date indicative)*](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-17 | [RTL-ConTest: Concolic Testing on RTL for Detecting Security Vulnerabilities *(date indicative)*](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-17 | [Tightly Seal Your Sensitive Pointers with PACTight](historical/2022/03.md) | Bibliographie historique |
+| 2026-11-17 | [Computation offloading to hardware accelerators in Intel SGX and Gramine Library OS](historical/2022/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
