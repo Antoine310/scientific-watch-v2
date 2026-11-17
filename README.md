@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [Towards Interoperable Enclave Attestation: Learnings from Decades of Academic Work](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [Hardware Root-of-Trust Design Based on on-chip PUF for AIoT Applications](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [Software-defined hardware-assisted isolation for trusted next-generation IoT systems](historical/2022/04.md) | Bibliographie historique |
 | 2026-11-17 | [Towards securely migrating webassembly enclaves](historical/2022/04.md) | Bibliographie historique |
 | 2026-11-17 | [Tiered trust for useful embedded systems security](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-17 | [Hardware-Implemented Security Processing Unit for Program Execution Monitoring and Instruction Fault Self-Repairing on Embedded Systems](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-17 | [NetSpectre](historical/2018/01.md) | Bibliographie historique |
-| 2026-11-17 | [Capability Hardware Enhanced RISC Instructions (CHERI): Notes on the Meltdown and Spectre Attacks](historical/2018/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
