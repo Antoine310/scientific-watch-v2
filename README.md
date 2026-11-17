@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [MAD-EN: Microarchitectural Attack Detection through System-wide Energy Consumption](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-17 | [Confidential Machine Learning within Graphcore IPUs](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-17 | [Private delegated computations using strong isolation](historical/2022/05.md) | Bibliographie historique |
+| 2026-11-17 | [Building A Trusted Execution Environment for In-Storage Computing](historical/2022/05.md) | Bibliographie historique |
 | 2026-11-17 | [Aurora: Providing Trusted System Services for Enclaves On an Untrusted System](historical/2018/02.md) | Bibliographie historique |
-| 2026-11-17 | [Experimental Implementation of Remote Attestation over OPC UA Protocol *(date indicative)*](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [EnclaveSim:A Micro-architectural Simulator with Enclave Support](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [Innovations and applications of operating system security with a hardware-software co-design](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [Security Model for Randomization-based Protected Caches](historical/2022/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
