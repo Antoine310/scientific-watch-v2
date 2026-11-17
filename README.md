@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [ATRIUM: Runtime Attestation Resilient Under Memory Attacks](historical/2017/11.md) | Bibliographie historique |
 | 2026-11-17 | [The Porting and Optimization of RISC-V UEFI Boot](historical/2022/04.md) | Bibliographie historique |
 | 2026-11-17 | [Keep the PokerFace on! Thwarting cache side channel attacks by memory bus monitoring and cache obfuscation](historical/2017/12.md) | Bibliographie historique |
 | 2026-11-17 | [The Pyramid Scheme: Oblivious RAM for Trusted Processors](historical/2017/12.md) | Bibliographie historique |
 | 2026-11-17 | [Towards Interoperable Enclave Attestation: Learnings from Decades of Academic Work](historical/2022/04.md) | Bibliographie historique |
-| 2026-11-17 | [Hardware Root-of-Trust Design Based on on-chip PUF for AIoT Applications](historical/2022/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
