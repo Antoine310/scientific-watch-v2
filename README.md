@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [Øzone: Efficient execution with zero timing leakage for modern microarchitectures](historical/2018/03.md) | Bibliographie historique |
 | 2026-11-17 | [Axiomatic hardware-software contracts for security](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [Efficient Method for Timing-based Information Flow Verification in Hardware Designs](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [HASTE: Software Security Analysis for Timing Attacks on Clear Hardware Assumption](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [On Security of TrustZone-M-Based IoT Systems](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [Enabling Heterogeneous, Multicore SoC Research with RISC-V and ESP](historical/2022/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
