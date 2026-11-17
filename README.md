@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [Hardware Root of Trust for Linux Based Edge Gateway](historical/2018/01.md) | Bibliographie historique |
+| 2026-11-17 | [Practical Runtime Attestation for Tiny IoT Devices](historical/2018/01.md) | Bibliographie historique |
+| 2026-11-17 | [A Flexible FPGA-Assisted Framework for Remote Attestation of Internet Connected Embedded Devices](historical/2018/01.md) | Bibliographie historique |
 | 2026-11-17 | [MAD-EN: Microarchitectural Attack Detection through System-wide Energy Consumption](historical/2022/05.md) | Bibliographie historique |
 | 2026-11-17 | [Confidential Machine Learning within Graphcore IPUs](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-17 | [Private delegated computations using strong isolation](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-17 | [Building A Trusted Execution Environment for In-Storage Computing](historical/2022/05.md) | Bibliographie historique |
-| 2026-11-17 | [Aurora: Providing Trusted System Services for Enclaves On an Untrusted System](historical/2018/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
