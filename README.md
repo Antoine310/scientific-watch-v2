@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [Experimental Implementation of Remote Attestation over OPC UA Protocol *(date indicative)*](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [EnclaveSim:A Micro-architectural Simulator with Enclave Support](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [Innovations and applications of operating system security with a hardware-software co-design](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [Security Model for Randomization-based Protected Caches](historical/2022/06.md) | Bibliographie historique |
 | 2026-11-17 | [Benchmarking the Second Generation of Intel SGX Hardware](historical/2022/06.md) | Bibliographie historique |
-| 2026-11-17 | [The Hidden Parallelepiped Is Back Again: Power Analysis Attacks on Falcon](historical/2022/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
