@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-17 | [Investigating Black-Box Function Recognition Using Hardware Performance Counters](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [S-Blocks: Lightweight and Trusted Virtual Security Function With SGX](historical/2022/04.md) | Bibliographie historique |
+| 2026-11-17 | [A Secure Platform Model Based on ARM Platform Security Architecture for IoT Devices](historical/2022/04.md) | Bibliographie historique |
 | 2026-11-17 | [Spectre attack detection with Neutral Network on RISC-V processor](historical/2022/05.md) | Bibliographie historique |
 | 2026-11-17 | [Hardware Root of Trust for Linux Based Edge Gateway](historical/2018/01.md) | Bibliographie historique |
-| 2026-11-17 | [Practical Runtime Attestation for Tiny IoT Devices](historical/2018/01.md) | Bibliographie historique |
-| 2026-11-17 | [A Flexible FPGA-Assisted Framework for Remote Attestation of Internet Connected Embedded Devices](historical/2018/01.md) | Bibliographie historique |
-| 2026-11-17 | [MAD-EN: Microarchitectural Attack Detection through System-wide Energy Consumption](historical/2022/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
