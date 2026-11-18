@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [Eş zamanlı çok işlem parçacıklı işlemcilerde adalet için güvenli önbellek paylaşımı](historical/2022/02.md) | Bibliographie historique |
+| 2026-11-18 | [Real-Time Hardware-Based Malware and Micro-Architectural Attack Detection Utilizing CMOS Reservoir Computing](historical/2022/02.md) | Bibliographie historique |
+| 2026-11-18 | [Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation *(date indicative)*](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [A trustenclave-based architecture for ensuring run-time security in embedded terminals](historical/2017/09.md) | Bibliographie historique |
 | 2026-11-18 | [Spatial Isolation against Logical Cache-based Side-Channel Attacks in Many-Core Architectures](historical/2017/09.md) | Bibliographie historique |
-| 2026-11-18 | [OLIVE: Oblivious Federated Learning on Trusted Execution Environment against the risk of sparsification](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-18 | [On the prevention of Cross-VM cache-based side channel attacks / Zakira Inayat](historical/2017/10.md) | Bibliographie historique |
-| 2026-11-18 | [MELTWEB: A Transient Execution Attack to Capture Data in Fill Line Buffer](historical/2022/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
