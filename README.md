@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-18 | [LO-FAT: Low-Overhead Control Flow ATtestation in Hardware](historical/2017/06.md) | Bibliographie historique |
-| 2026-11-18 | [DuVisor: a User-level Hypervisor Through Delegated Virtualization](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-18 | [Towards a New Thermal Monitoring Based Framework for Embedded CPS Device Security](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-18 | [Bratter: An Instruction Set Extension for Forward Control-Flow Integrity in RISC-V](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-18 | [HeapSafe: Securing Unprotected Heaps in RISC-V *(date indicative)*](historical/2022/02.md) | Bibliographie historique |
+| 2026-11-18 | [MATANA: A Reconfigurable Framework for Runtime Attack Detection Based on the Analysis of Microarchitectural Signals](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-18 | [The Kingsguard OS-level mitigation against cache side-channel attacks using runtime detection](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-18 | [HeapCheck: Low-cost Hardware Support for Memory Safety](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-18 | [ARES: Persistently Secure Non-Volatile Memory with Processor-transparent and Hardware-friendly Integrity Verification and Metadata Recovery](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-18 | [DExIE - An IoT-Class Hardware Monitor for Real-Time Fine-Grained Control-Flow Integrity](historical/2022/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
