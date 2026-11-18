@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [A Formal Foundation for Secure Remote Execution of Enclaves](historical/2017/10.md) | Bibliographie historique |
+| 2026-11-18 | [May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519](historical/2017/10.md) | Bibliographie historique |
 | 2026-11-18 | [PRoM: Passive Remote Attestation Against Roving Malware in Multicore IoT Devices *(date indicative)*](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-18 | [Mechanism for Runtime Kernel Integrity Check without Additional IP and without TEE for Low/Mid Automotive Segments](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-18 | [Improving Hardware Security on Talos II Architecture Through Boot Image Encryption](historical/2022/03.md) | Bibliographie historique |
-| 2026-11-17 | [You Cannot Always Win the Race: Analyzing the LFENCE/JMP Mitigation for Branch Target Injection](historical/2022/03.md) | Bibliographie historique |
-| 2026-11-17 | [CRAlert: Hardware-Assisted Code Reuse Attack Detection *(date indicative)*](historical/2022/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
