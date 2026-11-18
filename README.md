@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [DuVisor: a User-level Hypervisor Through Delegated Virtualization](historical/2022/01.md) | Bibliographie historique |
+| 2026-11-18 | [Towards a New Thermal Monitoring Based Framework for Embedded CPS Device Security](historical/2022/01.md) | Bibliographie historique |
 | 2026-11-18 | [Bratter: An Instruction Set Extension for Forward Control-Flow Integrity in RISC-V](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [HeapSafe: Securing Unprotected Heaps in RISC-V *(date indicative)*](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [An IoT Device-trusted Remote Attestation Framework](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-18 | [Hardware Security in Embedded Systems Techniques and Challenges](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-18 | [Session 34 Overview: Hardware Security](historical/2022/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
