@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [Relational Models of Microarchitectures for Formal Security Analyses](historical/2021/12.md) | Bibliographie historique |
+| 2026-11-18 | [Automated Side Channel Analysis of Media Software with Manifold Learning](historical/2021/12.md) | Bibliographie historique |
+| 2026-11-18 | [FlexOS: Towards Flexible OS Isolation](historical/2021/12.md) | Bibliographie historique |
+| 2026-11-18 | [Speeding up enclave transitions for IO-intensive applications](historical/2021/12.md) | Bibliographie historique |
 | 2026-11-18 | [Secure Hierarchy-Aware Cache Replacement Policy (SHARP): Defending Against Cache-Based Side Channel Atacks](historical/2017/06.md) | Bibliographie historique |
-| 2026-11-18 | [Leveraging Hardware Isolation for Process Level Access Control & Authentication](historical/2017/05.md) | Bibliographie historique |
-| 2026-11-18 | [MATANA: A Reconfigurable Framework for Runtime Attack Detection Based on the Analysis of Microarchitectural Signals](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-18 | [The Kingsguard OS-level mitigation against cache side-channel attacks using runtime detection](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-18 | [HeapCheck: Low-cost Hardware Support for Memory Safety](historical/2022/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
