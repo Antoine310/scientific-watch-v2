@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [Telling your secrets without page faults: stealthy page table-based attacks on enclaved execution](historical/2017/08.md) | Bibliographie historique |
+| 2026-11-18 | [A Novel Scheduling Framework Leveraging Hardware Cache Partitioning for Cache-Side-Channel Elimination in Clouds](historical/2017/08.md) | Bibliographie historique |
+| 2026-11-18 | [Cache Timing Attacks on Public Key Encryption](historical/2017/08.md) | Bibliographie historique |
 | 2026-11-18 | [Eş zamanlı çok işlem parçacıklı işlemcilerde adalet için güvenli önbellek paylaşımı](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [Real-Time Hardware-Based Malware and Micro-Architectural Attack Detection Utilizing CMOS Reservoir Computing](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-18 | [Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation *(date indicative)*](historical/2022/02.md) | Bibliographie historique |
-| 2026-11-18 | [A trustenclave-based architecture for ensuring run-time security in embedded terminals](historical/2017/09.md) | Bibliographie historique |
-| 2026-11-18 | [Spatial Isolation against Logical Cache-based Side-Channel Attacks in Many-Core Architectures](historical/2017/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
