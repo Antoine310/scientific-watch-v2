@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [OLIVE: Oblivious Federated Learning on Trusted Execution Environment against the risk of sparsification](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [On the prevention of Cross-VM cache-based side channel attacks / Zakira Inayat](historical/2017/10.md) | Bibliographie historique |
 | 2026-11-18 | [MELTWEB: A Transient Execution Attack to Capture Data in Fill Line Buffer](historical/2022/03.md) | Bibliographie historique |
 | 2026-11-18 | [A Formal Foundation for Secure Remote Execution of Enclaves](historical/2017/10.md) | Bibliographie historique |
 | 2026-11-18 | [May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519](historical/2017/10.md) | Bibliographie historique |
-| 2026-11-18 | [PRoM: Passive Remote Attestation Against Roving Malware in Multicore IoT Devices *(date indicative)*](historical/2022/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
