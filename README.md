@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [Secure Hierarchy-Aware Cache Replacement Policy (SHARP): Defending Against Cache-Based Side Channel Atacks](historical/2017/06.md) | Bibliographie historique |
+| 2026-11-18 | [Leveraging Hardware Isolation for Process Level Access Control & Authentication](historical/2017/05.md) | Bibliographie historique |
 | 2026-11-18 | [MATANA: A Reconfigurable Framework for Runtime Attack Detection Based on the Analysis of Microarchitectural Signals](historical/2022/01.md) | Bibliographie historique |
 | 2026-11-18 | [The Kingsguard OS-level mitigation against cache side-channel attacks using runtime detection](historical/2022/01.md) | Bibliographie historique |
 | 2026-11-18 | [HeapCheck: Low-cost Hardware Support for Memory Safety](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-18 | [ARES: Persistently Secure Non-Volatile Memory with Processor-transparent and Hardware-friendly Integrity Verification and Metadata Recovery](historical/2022/01.md) | Bibliographie historique |
-| 2026-11-18 | [DExIE - An IoT-Class Hardware Monitor for Real-Time Fine-Grained Control-Flow Integrity](historical/2022/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
