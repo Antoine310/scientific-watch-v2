@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-18 | [An IoT Device-trusted Remote Attestation Framework](historical/2022/02.md) | Bibliographie historique |
+| 2026-11-18 | [Hardware Security in Embedded Systems Techniques and Challenges](historical/2022/02.md) | Bibliographie historique |
+| 2026-11-18 | [Session 34 Overview: Hardware Security](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [Colony: A Privileged Trusted Execution Environment With Extensibility](historical/2022/02.md) | Bibliographie historique |
 | 2026-11-18 | [Telling your secrets without page faults: stealthy page table-based attacks on enclaved execution](historical/2017/08.md) | Bibliographie historique |
-| 2026-11-18 | [A Novel Scheduling Framework Leveraging Hardware Cache Partitioning for Cache-Side-Channel Elimination in Clouds](historical/2017/08.md) | Bibliographie historique |
-| 2026-11-18 | [Cache Timing Attacks on Public Key Encryption](historical/2017/08.md) | Bibliographie historique |
-| 2026-11-18 | [Eş zamanlı çok işlem parçacıklı işlemcilerde adalet için güvenli önbellek paylaşımı](historical/2022/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
