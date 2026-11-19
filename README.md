@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-19 | [Cache Timing Attacks from The SoCFPGA Coherency Port (Abstract Only)](historical/2017/02.md) | Bibliographie historique |
-| 2026-11-19 | [Domain Page-Table Isolation](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-19 | [An attack-immune trusted architecture for supervisory aircraft hardware](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-19 | [Speculative Execution and Timing Predictability in an Open Source RISC-V Core](historical/2021/12.md) | Bibliographie historique |
-| 2026-11-19 | [An open-source SWUpdate and Hawkbit framework for OTA Updates of RISC-V based resource constrained devices](historical/2021/12.md) | Bibliographie historique |
+| 2026-11-19 | [Speculative Execution Attacks and Hardware Defenses](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-19 | [MIRACLE: MIcRo-ArChitectural Leakage Evaluation](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-19 | [Solver-Aided Constant-Time Hardware Verification](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-19 | [RealSWATT: Remote Software-based Attestation for Embedded Devices under Realtime Constraints](historical/2021/11.md) | Bibliographie historique |
+| 2026-11-19 | [Masked Accelerators and Instruction Set Extensions for Post-Quantum Cryptography](historical/2021/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
