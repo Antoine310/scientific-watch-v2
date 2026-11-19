@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-19 | [Hardware Speculation Vulnerabilities and Mitigations](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-19 | [A Lightweight Security Checking Module to Protect Microprocessors against Hardware Trojan Horses](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-19 | [Inferring DNN layer-types through a Hardware Performance Counters based Side Channel Attack](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-19 | [POTENTIAL APPLICATION OF HARDWARE PROTECTED SYMMETRIC AUTHENTICATION MICROCIRCUITS TO ENSURE THE SECURITY OF INTERNET OF THINGS](historical/2021/10.md) | Bibliographie historique |
 | 2026-11-19 | [A Software Cache Partitioning System for Hash-Based Caches](historical/2016/12.md) | Bibliographie historique |
-| 2026-11-19 | [Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing](historical/2016/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
