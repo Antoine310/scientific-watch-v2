@@ -33,7 +33,7 @@ Aucune nouvelle publication identifiable cette semaine.
 <!-- SCIENTIFIC-WATCH-REPORTS:END -->
 
 <!-- SCIENTIFIC-WATCH-HISTORY:START -->
-## Bibliographie historique (depuis janvier 2017)
+## Bibliographie historique (depuis janvier 2016)
 
 Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas exhaustif.
 
@@ -152,4 +152,6 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2017-04 — 1 publication(s)](historical/2017/04.md)
 - [2017-02 — 1 publication(s)](historical/2017/02.md)
 - [2017-01 — 1 publication(s)](historical/2017/01.md)
+- [2016-12 — 0 publication(s)](historical/2016/12.md)
+- [2016-11 — 1 publication(s)](historical/2016/11.md)
 <!-- SCIENTIFIC-WATCH-HISTORY:END -->
