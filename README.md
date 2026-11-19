@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-19 | [Side-Channel Attacks on Intel SGX: How SGX Amplifies The Power of Cache Attack](historical/2017/04.md) | Bibliographie historique |
 | 2026-11-19 | [DIALED: Data Integrity Attestation for Low-end Embedded Devices](historical/2021/12.md) | Bibliographie historique |
 | 2026-11-19 | [ConNOC: A Practical Timing Channel Attack on Network-on-chip Hardware in a Multicore Processor](historical/2021/12.md) | Bibliographie historique |
 | 2026-11-19 | [The Method for creating a trusted hardware-software platform for its application in special purpose information systems](historical/2021/12.md) | Bibliographie historique |
 | 2026-11-19 | [Formal Verification of a Trusted Execution Environment-Based Architecture for IoT Applications](historical/2021/12.md) | Bibliographie historique |
-| 2026-11-18 | [Supporting RISC-V Performance Counters through Performance analysis tools for Linux (Perf)](historical/2021/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
