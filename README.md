@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-19 | [Lightweight Verification of Secure Hardware Isolation Through Static Information Flow Analysis (Technical Report)](historical/2017/01.md) | Bibliographie historique |
 | 2026-11-19 | [Hardware-Assisted Security Monitoring Unit for Real-Time Ensuring Secure Instruction Execution and Data Processing in Embedded Systems](historical/2021/11.md) | Bibliographie historique |
 | 2026-11-19 | [A Security Integrated Attestation Scheme for Embedded Devices](historical/2021/11.md) | Bibliographie historique |
 | 2026-11-19 | [Lightweight Hardware-Based Memory Protection Mechanism on IoT Processors *(date indicative)*](historical/2021/11.md) | Bibliographie historique |
 | 2026-11-19 | [Speculative Execution Attacks and Hardware Defenses](historical/2021/11.md) | Bibliographie historique |
-| 2026-11-19 | [MIRACLE: MIcRo-ArChitectural Leakage Evaluation](historical/2021/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
