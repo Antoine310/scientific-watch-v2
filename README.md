@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-20 | [RSM Protection of the PRESENT Lightweight Cipher as a RISC-V Extension](historical/2021/09.md) | Bibliographie historique |
 | 2026-11-20 | [Comparative Analysis and Enhancement of CFG-based Hardware-Assisted CFI Schemes](historical/2021/09.md) | Bibliographie historique |
 | 2026-11-20 | [A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in IoT/IIoT Devices, and Their Detection Mechanisms](historical/2021/09.md) | Bibliographie historique |
 | 2026-11-20 | [Reconfigurable Hardware Root-of-Trust for Secure Edge Processing](historical/2021/09.md) | Bibliographie historique |
 | 2026-11-20 | [Hardware Performance Counters: Ready-Made vs Tailor-Made](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-20 | [C-FLAT: Control-Flow Attestation for Embedded Systems Software](historical/2016/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
