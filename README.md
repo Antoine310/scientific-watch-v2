@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-20 | [SecNVM: Power Side-Channel Elimination Using On-Chip Capacitors for Highly Secure Emerging NVM *(date indicative)*](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [Util::Lookup: Exploiting key decoding in cryptographic libraries](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [STBPU: A Reasonably Secure Branch Prediction Unit](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [Stockade: Hardware Hardening for Distributed Trusted Sandboxes](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-20 | [Cats vs. Spectre: An Axiomatic Approach to Modeling Speculative Execution Attacks](historical/2021/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
