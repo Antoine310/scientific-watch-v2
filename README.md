@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-20 | [Virtualization Technology: Cross-VM Cache Side Channel Attacks make it Vulnerable](historical/2016/06.md) | Bibliographie historique |
 | 2026-11-20 | [Online Template Attacks: Revisited](historical/2021/07.md) | Bibliographie historique |
 | 2026-11-20 | [Architectural Protection of Trusted System Services for SGX Enclaves in Cloud Computing](historical/2021/07.md) | Bibliographie historique |
 | 2026-11-20 | [Breaking Masked Implementations with Many Shares on 32-bit Software Platforms](historical/2021/07.md) | Bibliographie historique |
 | 2026-11-20 | [Improved Leakage-Resistant Authenticated Encryption based on Hardware AES Coprocessors](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-20 | [AES-LBBB: AES Mode for Lightweight and BBB-Secure Authenticated Encryption](historical/2021/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
