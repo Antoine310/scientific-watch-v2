@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-20 | [RSM Protection of the PRESENT Lightweight Cipher as a RISC-V Extension](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-20 | [Comparative Analysis and Enhancement of CFG-based Hardware-Assisted CFI Schemes](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-20 | [A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in IoT/IIoT Devices, and Their Detection Mechanisms](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-20 | [Reconfigurable Hardware Root-of-Trust for Secure Edge Processing](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-20 | [Hardware Performance Counters: Ready-Made vs Tailor-Made](historical/2021/09.md) | Bibliographie historique |
+| 2026-11-20 | [Util::Lookup: Exploiting key decoding in cryptographic libraries](historical/2021/08.md) | Bibliographie historique |
+| 2026-11-20 | [STBPU: A Reasonably Secure Branch Prediction Unit](historical/2021/08.md) | Bibliographie historique |
+| 2026-11-20 | [One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization](historical/2021/08.md) | Bibliographie historique |
+| 2026-11-20 | [Stockade: Hardware Hardening for Distributed Trusted Sandboxes](historical/2021/08.md) | Bibliographie historique |
+| 2026-11-20 | [Cats vs. Spectre: An Axiomatic Approach to Modeling Speculative Execution Attacks](historical/2021/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
@@ -99,7 +99,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2021-11 — 12 publication(s)](historical/2021/11.md)
 - [2021-10 — 11 publication(s)](historical/2021/10.md)
 - [2021-09 — 8 publication(s)](historical/2021/09.md)
-- [2021-08 — 9 publication(s)](historical/2021/08.md)
+- [2021-08 — 3 publication(s)](historical/2021/08.md)
 - [2021-07 — 4 publication(s)](historical/2021/07.md)
 - [2021-06 — 5 publication(s)](historical/2021/06.md)
 - [2021-05 — 7 publication(s)](historical/2021/05.md)
