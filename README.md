@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-20 | [Comparative Analysis and Enhancement of CFG-based Hardware-Assisted CFI Schemes](historical/2021/09.md) | Bibliographie historique |
+| 2026-11-20 | [A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in IoT/IIoT Devices, and Their Detection Mechanisms](historical/2021/09.md) | Bibliographie historique |
+| 2026-11-20 | [Reconfigurable Hardware Root-of-Trust for Secure Edge Processing](historical/2021/09.md) | Bibliographie historique |
+| 2026-11-20 | [Hardware Performance Counters: Ready-Made vs Tailor-Made](historical/2021/09.md) | Bibliographie historique |
 | 2026-11-20 | [C-FLAT: Control-Flow Attestation for Embedded Systems Software](historical/2016/10.md) | Bibliographie historique |
-| 2026-11-20 | [Trusted Execution Development: Designing a Secure, High-Performance Remote Attestation Protocol](historical/2016/10.md) | Bibliographie historique |
-| 2026-11-20 | [Leaking Control Flow Information via the Hardware Prefetcher](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-20 | [Understanding TEE Containers, Easy to Use? Hard to Trust](historical/2021/09.md) | Bibliographie historique |
-| 2026-11-19 | [Hardware Speculation Vulnerabilities and Mitigations](historical/2021/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
