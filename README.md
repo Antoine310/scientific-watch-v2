@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-20 | [Detecting the Exploitation of Hardware Vulnerabilities using Electromagnetic Emanations](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-20 | [HEXON: Protecting Firmware Using Hardware-Assisted Execution-Level Obfuscation](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-20 | [Construction of RISC-V Lightweight Trusted Execution Environment Based on Hardware Extension](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-20 | [ERAMO: Effective Remote Attestation through Memory Offloading](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-20 | [The Predictable Execution Model in Practice](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-20 | [AKER: A Design and Verification Framework for Safe andSecure SoC Access Control](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-20 | [Defeating Cache Timing Channels with Hardware Prefetchers](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-20 | [An efficient and secure scheme of verifiable computation for Intel SGX](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-20 | [Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-20 | [Toward Hardware-Based IP Vulnerability Detection and Post-Deployment Patching in Systems-on-Chip *(date indicative)*](historical/2021/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
