@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-20 | [RV-TEE: secure cryptographic protocol execution based on runtime verification](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-20 | [DCUIP Poisoning Attack in Intel x86 Processors](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-20 | [Bloom Filter based Collective Remote Attestation for Dynamic Networks](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-20 | [An Instruction Set Extension to Support Software-Based Masking](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-20 | [The Evolution of Hardware-Assisted Security](historical/2021/08.md) | Bibliographie historique |
+| 2026-11-20 | [Online Template Attacks: Revisited](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-20 | [Architectural Protection of Trusted System Services for SGX Enclaves in Cloud Computing](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-20 | [Breaking Masked Implementations with Many Shares on 32-bit Software Platforms](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-20 | [Improved Leakage-Resistant Authenticated Encryption based on Hardware AES Coprocessors](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-20 | [AES-LBBB: AES Mode for Lightweight and BBB-Secure Authenticated Encryption](historical/2021/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
