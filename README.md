@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-20 | [DCUIP Poisoning Attack in Intel x86 Processors](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [Bloom Filter based Collective Remote Attestation for Dynamic Networks](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [An Instruction Set Extension to Support Software-Based Masking](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [The Evolution of Hardware-Assisted Security](historical/2021/08.md) | Bibliographie historique |
 | 2026-11-20 | [SecNVM: Power Side-Channel Elimination Using On-Chip Capacitors for Highly Secure Emerging NVM *(date indicative)*](historical/2021/08.md) | Bibliographie historique |
-| 2026-11-20 | [Util::Lookup: Exploiting key decoding in cryptographic libraries](historical/2021/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
