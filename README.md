@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-21 | [uTango: an open-source TEE for IoT devices](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-21 | [Automotive‐Grade Secure Hardware](historical/2021/03.md) | Bibliographie historique |
-| 2026-11-21 | [Secure Computing Enclaves Using FPGAs](historical/2021/03.md) | Bibliographie historique |
-| 2026-11-21 | [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical](historical/2021/03.md) | Bibliographie historique |
-| 2026-11-21 | [Selectively Delaying Instructions to Prevent Microarchitectural Replay Attacks](historical/2021/03.md) | Bibliographie historique |
+| 2026-11-21 | [On Value Recomputation to Accelerate Invisible Speculation](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-21 | [DOVE: A Data-Oblivious Virtual Environment](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-21 | [Fuzzing Hardware Like Software](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-21 | [ProDB: A memory-secure database using hardware enclave and practical oblivious RAM *(date indicative)*](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-21 | [A multi-flow information flow tracking approach for proving quantitative hardware security properties *(date indicative)*](historical/2021/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
