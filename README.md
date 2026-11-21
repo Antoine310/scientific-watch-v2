@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-21 | [3-D CMOS Chip Stacking for Security ICs Featuring Backside Buried Metal Power Delivery Networks With Distributed Capacitance *(date indicative)*](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-21 | [Abusing Cache Line Dirty States to Leak Information in Commercial Processors](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-21 | [ClepsydraCache -- Preventing Cache Attacks with Time-Based Evictions](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-21 | [Adversarial Learning Inspired Emerging Side-Channel Attacks and Defenses](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-21 | [Constantine: Automatic Side-Channel Resistance Using Efficient Control and Data Flow Linearization](historical/2021/04.md) | Bibliographie historique |
-| 2026-11-21 | [Solver-Aided Constant-Time Circuit Verification](historical/2021/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
