@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-21 | [Sandbox Detection Using Hardware Side Channels](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-21 | [Sanctum : minimal architectural extensions for isolated execution](historical/2016/01.md) | Bibliographie historique |
 | 2026-11-21 | [Improving Cloud Security using Secure Enclaves](historical/2016/01.md) | Bibliographie historique |
 | 2026-11-21 | [3-D CMOS Chip Stacking for Security ICs Featuring Backside Buried Metal Power Delivery Networks With Distributed Capacitance *(date indicative)*](historical/2021/04.md) | Bibliographie historique |
 | 2026-11-21 | [Abusing Cache Line Dirty States to Leak Information in Commercial Processors](historical/2021/04.md) | Bibliographie historique |
-| 2026-11-21 | [ClepsydraCache -- Preventing Cache Attacks with Time-Based Evictions](historical/2021/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
