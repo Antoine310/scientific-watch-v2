@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-21 | [Safety-Aware Integration of Hardware-Assisted Program Tracing in Mixed-Criticality Systems for Security Monitoring](historical/2021/05.md) | Bibliographie historique |
 | 2026-11-21 | [A Survey on Cache Timing Channel Attacks for Multicore Processors](historical/2021/05.md) | Bibliographie historique |
 | 2026-11-21 | [A comparative survey of open-source application-class RISC-V processor implementations](historical/2021/05.md) | Bibliographie historique |
 | 2026-11-21 | [CATalyst: Defeating last-level cache side channel attacks in cloud computing](historical/2016/03.md) | Bibliographie historique |
 | 2026-11-21 | [Coherence Attacks and Countermeasures in Interposer-Based Systems](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-21 | [Leaky Frontends: Security Vulnerabilities in Processor Frontends](historical/2021/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
