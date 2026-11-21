@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-21 | [MemEnc: A Lightweight, Low-Power, and Transparent Memory Encryption Engine for IoT](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-21 | [Safety-Aware Integration of Hardware-Assisted Program Tracing in Mixed-Criticality Systems for Security Monitoring](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-21 | [A Survey on Cache Timing Channel Attacks for Multicore Processors](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-21 | [A comparative survey of open-source application-class RISC-V processor implementations](historical/2021/05.md) | Bibliographie historique |
-| 2026-11-21 | [CATalyst: Defeating last-level cache side channel attacks in cloud computing](historical/2016/03.md) | Bibliographie historique |
+| 2026-11-21 | [Abusing Cache Line Dirty States to Leak Information in Commercial Processors](historical/2021/04.md) | Bibliographie historique |
+| 2026-11-21 | [ClepsydraCache -- Preventing Cache Attacks with Time-Based Evictions](historical/2021/04.md) | Bibliographie historique |
+| 2026-11-21 | [Adversarial Learning Inspired Emerging Side-Channel Attacks and Defenses](historical/2021/04.md) | Bibliographie historique |
+| 2026-11-21 | [Constantine: Automatic Side-Channel Resistance Using Efficient Control and Data Flow Linearization](historical/2021/04.md) | Bibliographie historique |
+| 2026-11-21 | [Solver-Aided Constant-Time Circuit Verification](historical/2021/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
