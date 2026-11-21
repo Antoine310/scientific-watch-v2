@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-21 | [Secure Computing Enclaves Using FPGAs](historical/2021/03.md) | Bibliographie historique |
 | 2026-11-21 | [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical](historical/2021/03.md) | Bibliographie historique |
 | 2026-11-21 | [Selectively Delaying Instructions to Prevent Microarchitectural Replay Attacks](historical/2021/03.md) | Bibliographie historique |
 | 2026-11-21 | [Update the Root of Integrity Tree in Secure Non-Volatile Memory Systems with Low Overhead](historical/2021/03.md) | Bibliographie historique |
 | 2026-11-21 | [The Cost of OSCORE and EDHOC for Constrained Devices](historical/2021/03.md) | Bibliographie historique |
-| 2026-11-21 | [Return-Oriented Programming on RISC-V](historical/2021/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
