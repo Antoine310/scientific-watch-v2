@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-21 | [Memory Encryption Support for an FPGA-based RISC-V Implementation](historical/2021/06.md) | Bibliographie historique |
-| 2026-11-21 | [Research on Cache Timing Attack Against RSA with Sliding Window Exponentiation Algorithm](historical/2016/04.md) | Bibliographie historique |
-| 2026-11-21 | [Cauldron: a framework to defend against cache-based side-channel attacks in clouds](historical/2016/04.md) | Bibliographie historique |
-| 2026-11-20 | [AKER: A Design and Verification Framework for Safe andSecure SoC Access Control](historical/2021/06.md) | Bibliographie historique |
-| 2026-11-20 | [Defeating Cache Timing Channels with Hardware Prefetchers](historical/2021/06.md) | Bibliographie historique |
+| 2026-11-21 | [Coherence Attacks and Countermeasures in Interposer-Based Systems](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-21 | [Leaky Frontends: Security Vulnerabilities in Processor Frontends](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-21 | [Revizor: Testing Black-box CPUs against Speculation Contracts](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-21 | [SEVerity: Code Injection Attacks against Encrypted Virtual Machines](historical/2021/05.md) | Bibliographie historique |
+| 2026-11-21 | [SoK: Opportunities for Software-Hardware-Security Codesign for Next Generation Secure Computing](historical/2021/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
