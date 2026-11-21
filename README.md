@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-21 | [Research on Linux Trusted Boot Method Based on Reverse Integrity Verification](historical/2016/01.md) | Bibliographie historique |
-| 2026-11-21 | [A Time-/Frequency-Domain Side-Channel Attack Resistant AES-128 and RSA-4K Crypto-Processor in 14-nm CMOS *(date indicative)*](historical/2021/04.md) | Bibliographie historique |
-| 2026-11-21 | [Sandbox Detection Using Hardware Side Channels](historical/2021/04.md) | Bibliographie historique |
-| 2026-11-21 | [Sanctum : minimal architectural extensions for isolated execution](historical/2016/01.md) | Bibliographie historique |
-| 2026-11-21 | [Improving Cloud Security using Secure Enclaves](historical/2016/01.md) | Bibliographie historique |
+| 2026-11-21 | [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical](historical/2021/03.md) | Bibliographie historique |
+| 2026-11-21 | [Selectively Delaying Instructions to Prevent Microarchitectural Replay Attacks](historical/2021/03.md) | Bibliographie historique |
+| 2026-11-21 | [Update the Root of Integrity Tree in Secure Non-Volatile Memory Systems with Low Overhead](historical/2021/03.md) | Bibliographie historique |
+| 2026-11-21 | [The Cost of OSCORE and EDHOC for Constrained Devices](historical/2021/03.md) | Bibliographie historique |
+| 2026-11-21 | [Return-Oriented Programming on RISC-V](historical/2021/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
