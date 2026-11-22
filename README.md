@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-22 | [Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-21 | [RASSLE: Return Address Stack based Side-channel LEakage](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-21 | [State-of-the-Art Software-Based Remote Attestation: Opportunities and Open Issues for Internet of Things](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-21 | [On Value Recomputation to Accelerate Invisible Speculation](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-21 | [DOVE: A Data-Oblivious Virtual Environment](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-22 | [Microarchitectural Timing Channels and their Prevention on an Open-Source 64-bit RISC-V Core](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-22 | [SealPK: Sealable Protection Keys for RISC-V](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-22 | [Towards a firmware TPM on RISC-V](historical/2021/02.md) | Bibliographie historique |
+| 2026-11-22 | [SEDAT:Security Enhanced Device Attestation with TPM2.0](historical/2021/01.md) | Bibliographie historique |
+| 2026-11-22 | [T-Lease: A Trusted Lease Primitive for Distributed Systems](historical/2021/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
