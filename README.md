@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-22 | [MeltdownDetector: A runtime approach for detecting meltdown attacks](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-22 | [An M-Cache-Based Security Monitoring and Fault Recovery Architecture for Embedded Processor *(date indicative)*](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-22 | [Trusted Computing Technology and Proposals for Resolving Cloud Computing Security Problems](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-22 | [Trusted Computing Technology](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-22 | [OPTIMUS: A Security-Centric Dynamic Hardware Partitioning Scheme for Processors that Prevent Microarchitecture State Attacks](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-22 | [Built-in Security Computer: Deploying Security-First Architecture Using Active Security Processor](historical/2020/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
