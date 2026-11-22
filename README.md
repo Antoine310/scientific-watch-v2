@@ -11,7 +11,9 @@
 
 ### Google Scholar et veille scientifique
 
-Aucune nouvelle publication identifiable cette semaine.
+| Ajout | Publication | Source |
+| --- | --- | --- |
+| 2026-11-22 | [TRACE-5G: Trust-Aware Runtime Attestation and Continuous Enforcement for 5G User Equipment](reports/2026/week-47.md) | Rapport hebdomadaire |
 
 ### Bibliographie historique
 
