@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-22 | [Efficient Sealable Protection Keys for RISC-V](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [PiPoMonitor: Mitigating Cross-core Cache Attacks Using the Auto-Cuckoo Filter](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [Contract-Aware Secure Compilation](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [Securing the EDK II Image Loader](historical/2020/12.md) | Bibliographie historique |
 | 2026-11-22 | [Detecting Spectre Attacks Using Hardware Performance Counters](historical/2021/01.md) | Bibliographie historique |
-| 2026-11-22 | [Hardware-Based FLUSH+RELOAD Attack on Armv8 System via ACP](historical/2021/01.md) | Bibliographie historique |
-| 2026-11-22 | [HyperDegrade: From GHz to MHz Effective CPU Frequencies](historical/2021/01.md) | Bibliographie historique |
-| 2026-11-22 | [Microarchitectural Timing Channels and their Prevention on an Open-Source 64-bit RISC-V Core](historical/2021/02.md) | Bibliographie historique |
-| 2026-11-22 | [SealPK: Sealable Protection Keys for RISC-V](historical/2021/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
