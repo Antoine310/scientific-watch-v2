@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-22 | [Design Flow for Active Interposer-Based 2.5-D ICs and Study of RISC-V Architecture With Secure NoC *(date indicative)*](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [Hardware Assisted Buffer Protection Mechanisms for Embedded RISC-V *(date indicative)*](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [Efficient Sealable Protection Keys for RISC-V](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [PiPoMonitor: Mitigating Cross-core Cache Attacks Using the Auto-Cuckoo Filter](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [Contract-Aware Secure Compilation](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [Side-Channel Analysis of the Xilinx Zynq UltraScale+ Encryption Engine](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [Secure Boot from Non-Volatile Memory for Programmable SoC Architectures](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [LAHEL: Lightweight Attestation Hardening Embedded Devices using Macrocells](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [Hardware/Software Obfuscation against Timing Side-channel Attack on a GPU](historical/2020/12.md) | Bibliographie historique |
+| 2026-11-22 | [Rapidly Verifiable XMSS Signatures](historical/2020/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
