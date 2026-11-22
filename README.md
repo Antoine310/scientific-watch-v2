@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-22 | [OPTIMUS: A Security-Centric Dynamic Hardware Partitioning Scheme for Processors that Prevent Microarchitecture State Attacks](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-22 | [Built-in Security Computer: Deploying Security-First Architecture Using Active Security Processor](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-22 | [Leaky Buddies: Cross-Component Covert Channels on Integrated CPU-GPU Systems](historical/2020/11.md) | Bibliographie historique |
+| 2026-11-22 | [On the Challenges of Detecting Side-Channel Attacks in SGX](historical/2020/11.md) | Bibliographie historique |
 | 2026-11-22 | [Hardware-Based Detection of Spectre Attacks: A Machine Learning Approach](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [Side-Channel Analysis of the Xilinx Zynq UltraScale+ Encryption Engine](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [Secure Boot from Non-Volatile Memory for Programmable SoC Architectures](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [LAHEL: Lightweight Attestation Hardening Embedded Devices using Macrocells](historical/2020/12.md) | Bibliographie historique |
-| 2026-11-22 | [Hardware/Software Obfuscation against Timing Side-channel Attack on a GPU](historical/2020/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
