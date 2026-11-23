@@ -9,6 +9,8 @@
 | Score | Publication | Lien |
 | ---: | --- | --- |
 | 92/100 | Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs | [Lire](https://arxiv.org/pdf/2611.12622) |
+| 90/100 | A RISC-V Memory Encryption Framework for Confidential Computing | [Lire](https://ieeexplore.ieee.org/abstract/document/11773954/) |
+| 90/100 | Security Analysis Framework of Transient Execution Attacks on Out-of-Order Processors | [Lire](https://ieeexplore.ieee.org/abstract/document/11773920/) |
 | 75/100 | Robust & Scalable Website Fingerprinting via Minimal DRAM Traffic | [Lire](https://arxiv.org/pdf/2611.09422) |
 
 ## 📖 Articles secondaires (60–74/100)
