@@ -21,11 +21,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-23 | [Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [CPU Elasticity to Mitigate Cross-VM Runtime Monitoring](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [New Models for Understanding and Reasoning about Speculative Execution Attacks](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [How Trusted Execution Environments Fuel Research on Microarchitectural Attacks](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [Confronting the Limitations of Hardware-Assisted Security](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [A review of hardware timing channel detection and mitigation](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [RIPTE: Runtime Integrity Protection Based on Trusted Execution for IoT Device](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [TZ-MRAS: A Remote Attestation Scheme for the Mobile Terminal Based on ARM TrustZone](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [From Hardware to Operating System: A Static Measurement Method of Android System Based on TrustZone](historical/2020/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
