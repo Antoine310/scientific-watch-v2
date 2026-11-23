@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-23 | [Countermeasures Against Information Leakage Induced by Data Serialization Effects in a RISC CPU](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-23 | [Hardware-Assisted Isolation Technologies: Security Architecture and Vulnerability Analysis](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-23 | [ND-HMDs: Non-Differentiable Hardware Malware Detectors against Evasive Transient Execution Attacks](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-23 | [Frontiers in Hardware Security and Trust: Theory, design and practice](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-23 | [SHeFU: Secure Hardware-Enabled Protocol for Firmware Updates *(date indicative)*](historical/2020/10.md) | Bibliographie historique |
-| 2026-11-22 | [On the Root of Trust Identification Problem](historical/2020/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
