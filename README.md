@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-23 | [SHeFU: Secure Hardware-Enabled Protocol for Firmware Updates *(date indicative)*](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-22 | [On the Root of Trust Identification Problem](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-22 | [Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for SGX](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-22 | [Secure Collaborative Training and Inference for XGBoost](historical/2020/10.md) | Bibliographie historique |
 | 2026-11-22 | [MeltdownDetector: A runtime approach for detecting meltdown attacks](historical/2020/11.md) | Bibliographie historique |
-| 2026-11-22 | [An M-Cache-Based Security Monitoring and Fault Recovery Architecture for Embedded Processor *(date indicative)*](historical/2020/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
