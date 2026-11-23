@@ -21,11 +21,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-23 | [Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [CPU Elasticity to Mitigate Cross-VM Runtime Monitoring](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-23 | [MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-23 | [New Models for Understanding and Reasoning about Speculative Execution Attacks](historical/2020/09.md) | Bibliographie historique |
 | 2026-11-23 | [How Trusted Execution Environments Fuel Research on Microarchitectural Attacks](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [Building Open Trusted Execution Environments](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [Dedicated Security Chips in the Age of Secure Enclaves *(date indicative)*](historical/2020/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
