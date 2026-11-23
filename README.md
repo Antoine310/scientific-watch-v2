@@ -13,17 +13,19 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-23 | [A RISC-V Memory Encryption Framework for Confidential Computing](scholar/README.md) | Google Scholar |
+| 2026-11-23 | [Security Analysis Framework of Transient Execution Attacks on Out-of-Order Processors](scholar/README.md) | Google Scholar |
 | 2026-11-22 | [TRACE-5G: Trust-Aware Runtime Attestation and Continuous Enforcement for 5G User Equipment](reports/2026/week-47.md) | Rapport hebdomadaire |
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-23 | [Countermeasures Against Information Leakage Induced by Data Serialization Effects in a RISC CPU](historical/2020/10.md) | Bibliographie historique |
-| 2026-11-23 | [Hardware-Assisted Isolation Technologies: Security Architecture and Vulnerability Analysis](historical/2020/10.md) | Bibliographie historique |
-| 2026-11-23 | [ND-HMDs: Non-Differentiable Hardware Malware Detectors against Evasive Transient Execution Attacks](historical/2020/10.md) | Bibliographie historique |
-| 2026-11-23 | [Frontiers in Hardware Security and Trust: Theory, design and practice](historical/2020/10.md) | Bibliographie historique |
-| 2026-11-23 | [SHeFU: Secure Hardware-Enabled Protocol for Firmware Updates *(date indicative)*](historical/2020/10.md) | Bibliographie historique |
+| 2026-11-23 | [MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [New Models for Understanding and Reasoning about Speculative Execution Attacks](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [How Trusted Execution Environments Fuel Research on Microarchitectural Attacks](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [Building Open Trusted Execution Environments](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-23 | [Dedicated Security Chips in the Age of Secure Enclaves *(date indicative)*](historical/2020/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
