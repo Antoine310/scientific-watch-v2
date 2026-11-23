@@ -115,7 +115,7 @@ Ces archives sont enrichies progressivement. Le rattrapage OpenAlex n’est pas 
 - [2020-12 — 10 publication(s)](historical/2020/12.md)
 - [2020-11 — 12 publication(s)](historical/2020/11.md)
 - [2020-10 — 8 publication(s)](historical/2020/10.md)
-- [2020-09 — 8 publication(s)](historical/2020/09.md)
+- [2020-09 — 12 publication(s)](historical/2020/09.md)
 - [2020-08 — 1 publication(s)](historical/2020/08.md)
 - [2020-07 — 1 publication(s)](historical/2020/07.md)
 - [2020-06 — 4 publication(s)](historical/2020/06.md)
