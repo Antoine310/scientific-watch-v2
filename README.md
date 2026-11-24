@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-24 | [JackHammer: Efficient Rowhammer on Heterogeneous FPGA-CPU Platforms](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [CPAmap: On the Complexity of Secure FPGA Virtualization, Multi-Tenancy, and Physical Design](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [Page Reusability-Based Cache Partitioning for Multi-Core Systems](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [From A to Z: Projective coordinates leakage in the wild](historical/2020/06.md) | Bibliographie historique |
 | 2026-11-24 | [CacheOut: Leaking Data on Intel CPUs via Cache Evictions](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [SeMPE: Secure Multi Path Execution Architecture for Removing Conditional Branch Side Channels](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [RCP: A Low-overhead Reversible Coherence Protocol](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [A Survey of Published Attacks on Intel SGX](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [Cache-Out: Leaking Cache Memory Using Hardware Trojan *(date indicative)*](historical/2020/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
