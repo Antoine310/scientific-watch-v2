@@ -15,17 +15,16 @@
 | --- | --- | --- |
 | 2026-11-23 | [A RISC-V Memory Encryption Framework for Confidential Computing](scholar/README.md) | Google Scholar |
 | 2026-11-23 | [Security Analysis Framework of Transient Execution Attacks on Out-of-Order Processors](scholar/README.md) | Google Scholar |
-| 2026-11-22 | [TRACE-5G: Trust-Aware Runtime Attestation and Continuous Enforcement for 5G User Equipment](reports/2026/week-47.md) | Rapport hebdomadaire |
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-24 | [A Survey and Analysis on SoC Platform Security in ARM, Intel and RISC-V Architecture *(date indicative)*](historical/2020/08.md) | Bibliographie historique |
 | 2026-11-24 | [DANA Universal Dataflow Analysis for Gate-Level Netlist Reverse Engineering](historical/2020/08.md) | Bibliographie historique |
 | 2026-11-24 | [Retrofitting Leakage Resilient Authenticated Encryption to Microcontrollers](historical/2020/08.md) | Bibliographie historique |
 | 2026-11-24 | [RISQ-V: Tightly Coupled RISC-V Accelerators for Post-Quantum Cryptography](historical/2020/08.md) | Bibliographie historique |
 | 2026-11-24 | [Unrolled Cryptography on Silicon](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-24 | [Second-Order Masked Lookup Table Compression Scheme](historical/2020/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
