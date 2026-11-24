@@ -21,11 +21,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-23 | [CACHE SNIPER : Accurate timing control of cache evictions](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-23 | [Speculative Dereferencing of Registers:Reviving Foreshadow](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-23 | [TrustFlow-X](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [REHAD: Using Low-Frequency Reconfigurable Hardware for Cache Side-Channel Attacks Detection](historical/2020/09.md) | Bibliographie historique |
-| 2026-11-23 | [A Hardware Root-of-Trust Design for Low-Power SoC Edge Devices](historical/2020/09.md) | Bibliographie historique |
+| 2026-11-24 | [DANA Universal Dataflow Analysis for Gate-Level Netlist Reverse Engineering](historical/2020/08.md) | Bibliographie historique |
+| 2026-11-24 | [Retrofitting Leakage Resilient Authenticated Encryption to Microcontrollers](historical/2020/08.md) | Bibliographie historique |
+| 2026-11-24 | [RISQ-V: Tightly Coupled RISC-V Accelerators for Post-Quantum Cryptography](historical/2020/08.md) | Bibliographie historique |
+| 2026-11-24 | [Unrolled Cryptography on Silicon](historical/2020/08.md) | Bibliographie historique |
+| 2026-11-24 | [Second-Order Masked Lookup Table Compression Scheme](historical/2020/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
