@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-24 | [SCARF: Detecting Side-Channel Attacks at Real-time using Low-level Hardware Features](historical/2020/07.md) | Bibliographie historique |
 | 2026-11-24 | [Speculative Interference Attacks: Breaking Invisible Speculation Schemes](historical/2020/07.md) | Bibliographie historique |
 | 2026-11-24 | [An Exploratory Analysis of Microcode as a Building Block for System Defenses](historical/2020/07.md) | Bibliographie historique |
 | 2026-11-24 | [Data Sampling on MDS-resistant 10th Generation Intel Core (Ice Lake)](historical/2020/07.md) | Bibliographie historique |
 | 2026-11-24 | [Speculative Leakage in ARM Cortex-A53](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-24 | [Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance](historical/2020/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
