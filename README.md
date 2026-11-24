@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-24 | [A Survey and Analysis on SoC Platform Security in ARM, Intel and RISC-V Architecture *(date indicative)*](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-24 | [DANA Universal Dataflow Analysis for Gate-Level Netlist Reverse Engineering](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-24 | [Retrofitting Leakage Resilient Authenticated Encryption to Microcontrollers](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-24 | [RISQ-V: Tightly Coupled RISC-V Accelerators for Post-Quantum Cryptography](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-24 | [Unrolled Cryptography on Silicon](historical/2020/08.md) | Bibliographie historique |
+| 2026-11-24 | [Speculative Interference Attacks: Breaking Invisible Speculation Schemes](historical/2020/07.md) | Bibliographie historique |
+| 2026-11-24 | [An Exploratory Analysis of Microcode as a Building Block for System Defenses](historical/2020/07.md) | Bibliographie historique |
+| 2026-11-24 | [Data Sampling on MDS-resistant 10th Generation Intel Core (Ice Lake)](historical/2020/07.md) | Bibliographie historique |
+| 2026-11-24 | [Speculative Leakage in ARM Cortex-A53](historical/2020/07.md) | Bibliographie historique |
+| 2026-11-24 | [Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance](historical/2020/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
