@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-24 | [Hardware, Trust, and Confidential Computing](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-24 | [SCARF: Detecting Side-Channel Attacks at Real-time using Low-level Hardware Features](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-24 | [Speculative Interference Attacks: Breaking Invisible Speculation Schemes](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-24 | [An Exploratory Analysis of Microcode as a Building Block for System Defenses](historical/2020/07.md) | Bibliographie historique |
-| 2026-11-24 | [Data Sampling on MDS-resistant 10th Generation Intel Core (Ice Lake)](historical/2020/07.md) | Bibliographie historique |
+| 2026-11-24 | [CacheOut: Leaking Data on Intel CPUs via Cache Evictions](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [SeMPE: Secure Multi Path Execution Architecture for Removing Conditional Branch Side Channels](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [RCP: A Low-overhead Reversible Coherence Protocol](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [A Survey of Published Attacks on Intel SGX](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-24 | [Cache-Out: Leaking Cache Memory Using Hardware Trojan *(date indicative)*](historical/2020/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
