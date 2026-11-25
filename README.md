@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-25 | [CONDENSE: A Moving Target Defense Approach for Mitigating Cache Side-Channel Attacks](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [Branch Prediction Attack on Blinded Scalar Multiplication](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [A secure hardware-software solution based on RISC-V, logic locking and microkernel](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [A Bus Authentication and Anti-Probing Architecture Extending Hardware Trusted Computing Base Off CPU Chips and Beyond *(date indicative)*](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [Anomaly Detection Trusted Hardware Sensors for Critical Infrastructure Legacy Devices](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-25 | [Building secure distributed applications the DECENT way](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-25 | [Establishing Cyber Resilience in Embedded Systems for Securing Next-Generation Critical Infrastructure](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-25 | [HarTBleed: Using Hardware Trojans for Data Leakage Exploits *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-25 | [Analysing Flow Security Properties in Virtualised Computing Systems](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-25 | [The Security Aspects of Automotive Over-the-Air Updates *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
