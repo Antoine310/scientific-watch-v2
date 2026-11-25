@@ -11,20 +11,17 @@
 
 ### Google Scholar et veille scientifique
 
-| Ajout | Publication | Source |
-| --- | --- | --- |
-| 2026-11-23 | [A RISC-V Memory Encryption Framework for Confidential Computing](scholar/README.md) | Google Scholar |
-| 2026-11-23 | [Security Analysis Framework of Transient Execution Attacks on Out-of-Order Processors](scholar/README.md) | Google Scholar |
+Aucune nouvelle publication identifiable cette semaine.
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-25 | [RT-trust: automated refactoring for trusted execution under real-time constraints](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-25 | [Building secure distributed applications the DECENT way](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-25 | [Establishing Cyber Resilience in Embedded Systems for Securing Next-Generation Critical Infrastructure](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-25 | [HarTBleed: Using Hardware Trojans for Data Leakage Exploits *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-25 | [Analysing Flow Security Properties in Virtualised Computing Systems](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-25 | [Secure Caches for Compartmentalized Software](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-25 | [IDA: Hybrid Attestation with Support for Interrupts and TOCTOU](historical/2024/02.md) | Bibliographie historique |
+| 2026-11-25 | [Reusable Enclaves for Confidential Serverless Computing](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-25 | [Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-25 | [DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems](historical/2019/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
