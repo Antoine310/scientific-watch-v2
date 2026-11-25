@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-25 | [RT-trust: automated refactoring for trusted execution under real-time constraints](historical/2020/04.md) | Bibliographie historique |
 | 2026-11-25 | [Building secure distributed applications the DECENT way](historical/2020/04.md) | Bibliographie historique |
 | 2026-11-25 | [Establishing Cyber Resilience in Embedded Systems for Securing Next-Generation Critical Infrastructure](historical/2020/04.md) | Bibliographie historique |
 | 2026-11-25 | [HarTBleed: Using Hardware Trojans for Data Leakage Exploits *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
 | 2026-11-25 | [Analysing Flow Security Properties in Virtualised Computing Systems](historical/2020/04.md) | Bibliographie historique |
-| 2026-11-25 | [The Security Aspects of Automotive Over-the-Air Updates *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
