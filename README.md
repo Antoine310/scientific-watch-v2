@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-25 | [GhostKnight: Breaching Data Integrity via Speculative Execution](historical/2020/02.md) | Bibliographie historique |
+| 2026-11-25 | [A Lightweight ISA Extension for AES and SM4](historical/2020/02.md) | Bibliographie historique |
+| 2026-11-25 | [How to 0wn NAS in Your Spare Time](historical/2020/02.md) | Bibliographie historique |
+| 2026-11-25 | [Public-Key Based Authentication Architecture for IoT Devices Using PUF](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-25 | [When one vulnerable primitive turns viral: Novel single-trace attacks on ECDSA and RSA](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [FENL: an ISE to mitigate analogue micro-architectural leakage](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [Using Universal Composition to Design and Analyze Secure Complex Hardware Systems *(date indicative)*](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [Extending the RISC-V Instruction Set for Hardware Acceleration of the Post-Quantum Scheme LAC *(date indicative)*](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [A Compiler Assisted Scheduler for Detecting and Mitigating Cache-Based Side Channel Attacks](historical/2020/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
