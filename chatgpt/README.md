@@ -10,7 +10,11 @@
 
 | Ajout | Score | Publication | Conférence / Revue | Fiche scientifique |
 | --- | ---: | --- | --- | --- |
-| — | — | *Aucune découverte ChatGPT publiée pour le moment.* | — | — |
+| 2026-11-25 | 96/100 | [Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks](https://www.usenix.org/conference/usenixsecurity22/presentation/townley) | USENIX Security 2022 | [Fiche](../historical/2022/08.md) |
+| 2026-11-25 | 95/100 | [Reusable Enclaves for Confidential Serverless Computing](https://www.usenix.org/conference/usenixsecurity23/presentation/zhao-shixuan) | USENIX Security 2023 | [Fiche](../historical/2023/08.md) |
+| 2026-11-25 | 92/100 | [Secure Caches for Compartmentalized Software](https://www.usenix.org/conference/usenixsecurity25/presentation/arikan) | USENIX Security 2025 | [Fiche](../historical/2025/08.md) |
+| 2026-11-25 | 91/100 | [IDA: Hybrid Attestation with Support for Interrupts and TOCTOU](https://www.ndss-symposium.org/ndss-paper/ida-hybrid-attestation-with-support-for-interrupts-and-toctou/) | NDSS 2024 | [Fiche](../historical/2024/02.md) |
+| 2026-11-25 | 82/100 | [DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems](https://www.ndss-symposium.org/ndss-paper/diat-data-integrity-attestation-for-resilient-collaboration-of-autonomous-systems/) | NDSS 2019 | [Fiche](../historical/2019/02.md) |
 
 ## Articles secondaires (60–74/100)
 
