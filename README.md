@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-25 | [CONDENSE: A Moving Target Defense Approach for Mitigating Cache Side-Channel Attacks](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-25 | [Branch Prediction Attack on Blinded Scalar Multiplication](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [A secure hardware-software solution based on RISC-V, logic locking and microkernel](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [A Bus Authentication and Anti-Probing Architecture Extending Hardware Trusted Computing Base Off CPU Chips and Beyond *(date indicative)*](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [Anomaly Detection Trusted Hardware Sensors for Critical Infrastructure Legacy Devices](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [Rigorous engineering for hardware security: Formal modelling and proof in the CHERI design and implementation process *(date indicative)*](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [Creating Foundations for Secure Microarchitectures With Data-Oblivious ISA Extensions](historical/2020/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
