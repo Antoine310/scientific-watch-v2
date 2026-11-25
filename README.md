@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-25 | [Secure Caches for Compartmentalized Software](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-25 | [IDA: Hybrid Attestation with Support for Interrupts and TOCTOU](historical/2024/02.md) | Bibliographie historique |
-| 2026-11-25 | [Reusable Enclaves for Confidential Serverless Computing](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-25 | [Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-25 | [DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems](historical/2019/02.md) | Bibliographie historique |
+| 2026-11-25 | [ARTO: Efficient Execution Integrity Attestation for Real-Time Operation of Cyber-Physical Systems](historical/2026/08.md) | Bibliographie historique |
+| 2026-11-25 | [On Bridging the Gap between Control Flow Integrity and Attestation Schemes](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-25 | [Scalable Memory Protection in the PENGLAI Enclave](historical/2021/07.md) | Bibliographie historique |
+| 2026-11-25 | [Donky: Domain Keys – Efficient In-Process Isolation for RISC-V and x86](historical/2020/08.md) | Bibliographie historique |
+| 2026-11-25 | [Sanctum: Minimal Hardware Extensions for Strong Software Isolation](historical/2016/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
