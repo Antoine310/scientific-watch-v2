@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-25 | [A Microprocessor Protection Architecture against Hardware Trojans in Memories *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
+| 2026-11-25 | [SIMPLE: A Remote Attestation Approach for Resource-constrained IoT devices *(date indicative)*](historical/2020/04.md) | Bibliographie historique |
 | 2026-11-25 | [ARTO: Efficient Execution Integrity Attestation for Real-Time Operation of Cyber-Physical Systems](historical/2026/08.md) | Bibliographie historique |
 | 2026-11-25 | [On Bridging the Gap between Control Flow Integrity and Attestation Schemes](historical/2024/08.md) | Bibliographie historique |
 | 2026-11-25 | [Scalable Memory Protection in the PENGLAI Enclave](historical/2021/07.md) | Bibliographie historique |
-| 2026-11-25 | [Donky: Domain Keys – Efficient In-Process Isolation for RISC-V and x86](historical/2020/08.md) | Bibliographie historique |
-| 2026-11-25 | [Sanctum: Minimal Hardware Extensions for Strong Software Isolation](historical/2016/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
