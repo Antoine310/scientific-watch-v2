@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-25 | [When one vulnerable primitive turns viral: Novel single-trace attacks on ECDSA and RSA](historical/2020/03.md) | Bibliographie historique |
+| 2026-11-25 | [FENL: an ISE to mitigate analogue micro-architectural leakage](historical/2020/03.md) | Bibliographie historique |
+| 2026-11-25 | [Using Universal Composition to Design and Analyze Secure Complex Hardware Systems *(date indicative)*](historical/2020/03.md) | Bibliographie historique |
+| 2026-11-25 | [Extending the RISC-V Instruction Set for Hardware Acceleration of the Post-Quantum Scheme LAC *(date indicative)*](historical/2020/03.md) | Bibliographie historique |
 | 2026-11-25 | [A Compiler Assisted Scheduler for Detecting and Mitigating Cache-Based Side Channel Attacks](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [SpectreRewind: Leaking Secrets to Past Instructions](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [An abstract semantics of speculative execution for reasoning about security vulnerabilities](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers](historical/2020/03.md) | Bibliographie historique |
-| 2026-11-25 | [Mutual authentication‐based RA scheme for embedded systems *(date indicative)*](historical/2020/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
