@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-25 | [Creating Foundations for Secure Microarchitectures With Data-Oblivious ISA Extensions](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [Frontal Attack: Leaking Control-Flow in SGX via the CPU Frontend](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [Prevention of Microarchitectural Covert Channels on an Open-Source 64-bit RISC-V Core](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [Survey of Transient Execution Attacks](historical/2020/05.md) | Bibliographie historique |
 | 2026-11-25 | [Validation of Abstract Side-Channel Models for Computer Architectures](historical/2020/05.md) | Bibliographie historique |
-| 2026-11-25 | [The Lazarus Effect: Healing Compromised Devices in the Internet of Small Things](historical/2020/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
