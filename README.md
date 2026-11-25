@@ -20,11 +20,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-24 | [JackHammer: Efficient Rowhammer on Heterogeneous FPGA-CPU Platforms](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [CPAmap: On the Complexity of Secure FPGA Virtualization, Multi-Tenancy, and Physical Design](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [Page Reusability-Based Cache Partitioning for Multi-Core Systems](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [From A to Z: Projective coordinates leakage in the wild](historical/2020/06.md) | Bibliographie historique |
-| 2026-11-24 | [CacheOut: Leaking Data on Intel CPUs via Cache Evictions](historical/2020/06.md) | Bibliographie historique |
+| 2026-11-25 | [Frontal Attack: Leaking Control-Flow in SGX via the CPU Frontend](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-25 | [Prevention of Microarchitectural Covert Channels on an Open-Source 64-bit RISC-V Core](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-25 | [Survey of Transient Execution Attacks](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-25 | [Validation of Abstract Side-Channel Models for Computer Architectures](historical/2020/05.md) | Bibliographie historique |
+| 2026-11-25 | [The Lazarus Effect: Healing Compromised Devices in the Internet of Small Things](historical/2020/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
