@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-26 | [Adaptive Caches as a Defense Mechanism Against Cache Side-Channel Attacks](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Breaking TrustZone Memory Isolation through Malicious Hardware on a Modern FPGA-SoC](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Breaking Mobile Firmware Encryption through Near-Field Side-Channel Analysis](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [OpenPiton](historical/2019/11.md) | Bibliographie historique |
 | 2026-11-26 | [SCA Secure and Updatable Crypto Engines for FPGA SoC Bitstream Decryption](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [InSpectre: Breaking and Fixing Microarchitectural Vulnerabilities by Formal Analysis](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [SpecuSym: Speculative Symbolic Execution for Cache Timing Leak Detection](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [TPM-FAIL: TPM meets Timing and Lattice Attacks](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [Using Name Confusion to Enhance Security](historical/2019/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
