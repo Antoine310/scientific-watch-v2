@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-26 | [Adaptive Caches as a Defense Mechanism Against Cache Side-Channel Attacks](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [Breaking TrustZone Memory Isolation through Malicious Hardware on a Modern FPGA-SoC](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [Breaking Mobile Firmware Encryption through Near-Field Side-Channel Analysis](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [OpenPiton](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [SCA Secure and Updatable Crypto Engines for FPGA SoC Bitstream Decryption](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [AdapTimer: Hardware/Software Collaborative Timer Resistant to Flush-Based Cache Attacks on ARM-FPGA Embedded SoC](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Hardware Based Detection, Recovery, and Tamper Evident Concept to Protect from Control Flow Violations in Embedded Processing](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Share-slicing: Friend or Foe?](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Cache vs. Key-Dependency: Side Channeling an Implementation of Pilsung](historical/2019/11.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
