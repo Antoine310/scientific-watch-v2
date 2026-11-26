@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-26 | [Establishing Trusted I/O Paths for SGX Client Systems With Aurora](historical/2020/01.md) | Bibliographie historique |
+| 2026-11-26 | [Provably Secure Isolation for Interruptible Enclaved Execution on Small Microprocessors: Extended Version](historical/2020/01.md) | Bibliographie historique |
+| 2026-11-26 | [Electromagnetic Side Channel Information Leakage Created by Execution of Series of Instructions in a Computer Processor *(date indicative)*](historical/2020/01.md) | Bibliographie historique |
 | 2026-11-26 | [Fine-Grained Isolation to Protect Data against In-Process Attacks on AArch64](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-26 | [Real-Time Detection for Cache Side Channel Attack using Performance Counter Monitor](historical/2020/02.md) | Bibliographie historique |
-| 2026-11-25 | [GhostKnight: Breaching Data Integrity via Speculative Execution](historical/2020/02.md) | Bibliographie historique |
-| 2026-11-25 | [A Lightweight ISA Extension for AES and SM4](historical/2020/02.md) | Bibliographie historique |
-| 2026-11-25 | [How to 0wn NAS in Your Spare Time](historical/2020/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
