@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-26 | [Real-Time Detection for Cache Side Channel Attack using Performance Counter Monitor](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-25 | [GhostKnight: Breaching Data Integrity via Speculative Execution](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-25 | [A Lightweight ISA Extension for AES and SM4](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-25 | [How to 0wn NAS in Your Spare Time](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-25 | [Public-Key Based Authentication Architecture for IoT Devices Using PUF](historical/2020/02.md) | Bibliographie historique |
-| 2026-11-25 | [When one vulnerable primitive turns viral: Novel single-trace attacks on ECDSA and RSA](historical/2020/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
