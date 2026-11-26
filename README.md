@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-26 | [InSpectre: Breaking and Fixing Microarchitectural Vulnerabilities by Formal Analysis](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [SpecuSym: Speculative Symbolic Execution for Cache Timing Leak Detection](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [TPM-FAIL: TPM meets Timing and Lattice Attacks](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-26 | [Using Name Confusion to Enhance Security](historical/2019/11.md) | Bibliographie historique |
 | 2026-11-26 | [Hardware and Software Co-Verification from Security Perspective](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-26 | [Remote Attestation based Software Integrity of IoT devices *(date indicative)*](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-26 | [Dam: A Practical Scheme to Mitigate Data-Oriented Attacks with Tagged Memory Based on Hardware](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-26 | [HILL: A Hardware Isolation Framework Against Information Leakage on Multi-Tenant FPGA Long-Wires *(date indicative)*](historical/2019/12.md) | Bibliographie historique |
-| 2026-11-26 | [SPEECHMINER: A Framework for Investigating and Measuring Speculative Execution Vulnerabilities](historical/2019/12.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
