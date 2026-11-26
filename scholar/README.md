@@ -8,6 +8,7 @@
 
 | Score | Publication | Lien |
 | ---: | --- | --- |
+| 95/100 | Mjolnir: Finding and Reproducing Vulnerabilities in Root-of-Trust Firmware and RTL with Project-Grounded Agents | [Lire](https://arxiv.org/pdf/2611.27567) |
 | 92/100 | Reconfiguring System-Level Protection Through Bounded Delegation in RISC-V MCUs | [Lire](https://arxiv.org/pdf/2611.12622) |
 | 90/100 | A RISC-V Memory Encryption Framework for Confidential Computing | [Lire](https://ieeexplore.ieee.org/abstract/document/11773954/) |
 | 90/100 | Security Analysis Framework of Transient Execution Attacks on Out-of-Order Processors | [Lire](https://ieeexplore.ieee.org/abstract/document/11773920/) |
