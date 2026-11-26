@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-26 | [Dam: A Practical Scheme to Mitigate Data-Oriented Attacks with Tagged Memory Based on Hardware](historical/2019/12.md) | Bibliographie historique |
+| 2026-11-26 | [HILL: A Hardware Isolation Framework Against Information Leakage on Multi-Tenant FPGA Long-Wires *(date indicative)*](historical/2019/12.md) | Bibliographie historique |
 | 2026-11-26 | [SPEECHMINER: A Framework for Investigating and Measuring Speculative Execution Vulnerabilities](historical/2019/12.md) | Bibliographie historique |
 | 2026-11-26 | [PAGURUS: Low-Overhead Dynamic Information Flow Tracking on Loosely Coupled Accelerators](historical/2019/12.md) | Bibliographie historique |
 | 2026-11-26 | [SecFlush: A Hardware/Software Collaborative Design for Real-Time Detection and Defense Against Flush-Based Cache Attacks](historical/2020/02.md) | Bibliographie historique |
-| 2026-11-26 | [A Review Paper On Trustworthy Boot Through Attestation *(date indicative)*](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-26 | [Establishing Trusted I/O Paths for SGX Client Systems With Aurora](historical/2020/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
