@@ -11,17 +11,19 @@
 
 ### Google Scholar et veille scientifique
 
-Aucune nouvelle publication identifiable cette semaine.
+| Ajout | Publication | Source |
+| --- | --- | --- |
+| 2026-11-26 | [Mjolnir: Finding and Reproducing Vulnerabilities in Root-of-Trust Firmware and RTL with Project-Grounded Agents](scholar/README.md) | Google Scholar |
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-26 | [SPEECHMINER: A Framework for Investigating and Measuring Speculative Execution Vulnerabilities](historical/2019/12.md) | Bibliographie historique |
+| 2026-11-26 | [PAGURUS: Low-Overhead Dynamic Information Flow Tracking on Loosely Coupled Accelerators](historical/2019/12.md) | Bibliographie historique |
 | 2026-11-26 | [SecFlush: A Hardware/Software Collaborative Design for Real-Time Detection and Defense Against Flush-Based Cache Attacks](historical/2020/02.md) | Bibliographie historique |
 | 2026-11-26 | [A Review Paper On Trustworthy Boot Through Attestation *(date indicative)*](historical/2020/01.md) | Bibliographie historique |
 | 2026-11-26 | [Establishing Trusted I/O Paths for SGX Client Systems With Aurora](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-26 | [Provably Secure Isolation for Interruptible Enclaved Execution on Small Microprocessors: Extended Version](historical/2020/01.md) | Bibliographie historique |
-| 2026-11-26 | [Electromagnetic Side Channel Information Leakage Created by Execution of Series of Instructions in a Computer Processor *(date indicative)*](historical/2020/01.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
