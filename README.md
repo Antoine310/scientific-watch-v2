@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-27 | [Propagating trusted execution through mutual attestation](historical/2019/10.md) | Bibliographie historique |
-| 2026-11-27 | [Toward scaling hardware security module for emerging cloud services](historical/2019/10.md) | Bibliographie historique |
-| 2026-11-27 | [SoK: Hardware Security Support for Trustworthy Execution](historical/2019/10.md) | Bibliographie historique |
-| 2026-11-27 | [DDM: A Demand-based Dynamic Mitigation for SMT Transient Channels](historical/2019/10.md) | Bibliographie historique |
-| 2026-11-27 | [Reverse Engineering x86 Processor Microcode](historical/2019/10.md) | Bibliographie historique |
+| 2026-11-27 | [New Attacks and Defenses for Randomized Caches](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [Freeze and Crypt: Linux kernel support for main memory encryption *(date indicative)*](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [Certified Side Channels](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [Isolating Real-Time Safety-Critical Embedded Systems via SGX-based Lightweight Virtualization](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [PDoT: Private DNS-over-TLS with TEE Support](historical/2019/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
