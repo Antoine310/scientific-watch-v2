@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-27 | [Detecting Malicious Attacks Exploiting Hardware Vulnerabilities Using Performance Counters](historical/2019/07.md) | Bibliographie historique |
+| 2026-11-27 | [FinalFilter: Asserting Security Properties of a Processor at Runtime](historical/2019/07.md) | Bibliographie historique |
+| 2026-11-27 | [Toward On-chip Network Security Using Runtime Isolation Mapping](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Establishing and Maintaining Root of Trust on Commodity Computer Systems](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [A Hybrid Approach to Secure Function Evaluation using SGX](historical/2019/07.md) | Bibliographie historique |
-| 2026-11-27 | [Scanclave: Verifying Application Runtime Integrity in Untrusted Environments](historical/2019/07.md) | Bibliographie historique |
-| 2026-11-27 | [FortuneTeller: Predicting Microarchitectural Attacks via Unsupervised Deep Learning](historical/2019/07.md) | Bibliographie historique |
-| 2026-11-27 | [Malware in the SGX supply chain: Be careful when signing enclaves!](historical/2019/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
