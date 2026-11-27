@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-27 | [A Survey on Hardware Security Techniques Targeting Low-Power SoC Designs](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [Toubkal: A Flexible and Efficient Hardware Isolation Module for Secure Lightweight Devices](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [An Inherently Secure FPGA using PUF Hardware-Entanglement and Side-Channel Resistant Logic in 65nm Bulk CMOS](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [Hardware-based approach to guarantee trusted system boot in embedded systems *(date indicative)*](historical/2019/09.md) | Bibliographie historique |
 | 2026-11-27 | [TLBlur: Compiler-Assisted Automated Hardening against Controlled Channels on Off-the-Shelf Intel SGX Platforms](historical/2025/08.md) | Bibliographie historique |
-| 2026-11-27 | [SpecLFB: Eliminating Cache Side Channels in Speculative Executions](historical/2024/08.md) | Bibliographie historique |
-| 2026-11-27 | [SCARF – A Low-Latency Block Cipher for Secure Cache-Randomization](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-27 | [A Hardware-Software Co-design for Efficient Intra-Enclave Isolation](historical/2022/08.md) | Bibliographie historique |
-| 2026-11-27 | [ScatterCache: Thwarting Cache Attacks via Cache Set Randomization](historical/2019/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
