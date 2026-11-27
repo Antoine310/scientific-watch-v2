@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-27 | [MicroTEE: Designing TEE OS Based on the Microkernel Architecture](historical/2019/08.md) | Bibliographie historique |
+| 2026-11-27 | [The Security of ARM TrustZone in a FPGA-Based SoC](historical/2019/08.md) | Bibliographie historique |
+| 2026-11-27 | [SGX-LKL: Securing the Host OS Interface for Trusted Execution](historical/2019/08.md) | Bibliographie historique |
 | 2026-11-27 | [ITUS: A Secure RISC-V System-on-Chip](historical/2019/09.md) | Bibliographie historique |
 | 2026-11-27 | [A Survey on Hardware Security Techniques Targeting Low-Power SoC Designs](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [Toubkal: A Flexible and Efficient Hardware Isolation Module for Secure Lightweight Devices](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [An Inherently Secure FPGA using PUF Hardware-Entanglement and Side-Channel Resistant Logic in 65nm Bulk CMOS](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [Hardware-based approach to guarantee trusted system boot in embedded systems *(date indicative)*](historical/2019/09.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
