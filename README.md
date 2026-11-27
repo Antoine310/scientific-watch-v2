@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-27 | [Propagating trusted execution through mutual attestation](historical/2019/10.md) | Bibliographie historique |
+| 2026-11-27 | [Toward scaling hardware security module for emerging cloud services](historical/2019/10.md) | Bibliographie historique |
 | 2026-11-27 | [SoK: Hardware Security Support for Trustworthy Execution](historical/2019/10.md) | Bibliographie historique |
 | 2026-11-27 | [DDM: A Demand-based Dynamic Mitigation for SMT Transient Channels](historical/2019/10.md) | Bibliographie historique |
 | 2026-11-27 | [Reverse Engineering x86 Processor Microcode](historical/2019/10.md) | Bibliographie historique |
-| 2026-11-27 | [Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols](historical/2019/10.md) | Bibliographie historique |
-| 2026-11-27 | [Cloud virtual machine lifecycle security framework based on trusted computing *(date indicative)*](historical/2019/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
