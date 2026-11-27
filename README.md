@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-27 | [Scanclave: Verifying Application Runtime Integrity in Untrusted Environments](historical/2019/07.md) | Bibliographie historique |
+| 2026-11-27 | [FortuneTeller: Predicting Microarchitectural Attacks via Unsupervised Deep Learning](historical/2019/07.md) | Bibliographie historique |
+| 2026-11-27 | [Malware in the SGX supply chain: Be careful when signing enclaves!](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Cache-Timing Attacks on RSA Key Generation](historical/2019/08.md) | Bibliographie historique |
 | 2026-11-27 | [On-Device Power Analysis Across Hardware Security Domains.](historical/2019/08.md) | Bibliographie historique |
-| 2026-11-27 | [MicroTEE: Designing TEE OS Based on the Microkernel Architecture](historical/2019/08.md) | Bibliographie historique |
-| 2026-11-27 | [The Security of ARM TrustZone in a FPGA-Based SoC](historical/2019/08.md) | Bibliographie historique |
-| 2026-11-27 | [SGX-LKL: Securing the Host OS Interface for Trusted Execution](historical/2019/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
