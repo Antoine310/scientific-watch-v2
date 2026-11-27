@@ -11,19 +11,17 @@
 
 ### Google Scholar et veille scientifique
 
-| Ajout | Publication | Source |
-| --- | --- | --- |
-| 2026-11-26 | [Mjolnir: Finding and Reproducing Vulnerabilities in Root-of-Trust Firmware and RTL with Project-Grounded Agents](scholar/README.md) | Google Scholar |
+Aucune nouvelle publication identifiable cette semaine.
 
 ### Bibliographie historique
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-27 | [Analysis and countermeasures to side-channel attacks: a hardware design perspective](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Detecting Malicious Attacks Exploiting Hardware Vulnerabilities Using Performance Counters](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [FinalFilter: Asserting Security Properties of a Processor at Runtime](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Toward On-chip Network Security Using Runtime Isolation Mapping](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Establishing and Maintaining Root of Trust on Commodity Computer Systems](historical/2019/07.md) | Bibliographie historique |
-| 2026-11-27 | [A Hybrid Approach to Secure Function Evaluation using SGX](historical/2019/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
