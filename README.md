@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-26 | [Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [AdapTimer: Hardware/Software Collaborative Timer Resistant to Flush-Based Cache Attacks on ARM-FPGA Embedded SoC](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [Hardware Based Detection, Recovery, and Tamper Evident Concept to Protect from Control Flow Violations in Embedded Processing](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [Share-slicing: Friend or Foe?](historical/2019/11.md) | Bibliographie historique |
-| 2026-11-26 | [Cache vs. Key-Dependency: Side Channeling an Implementation of Pilsung](historical/2019/11.md) | Bibliographie historique |
+| 2026-11-27 | [SoK: Hardware Security Support for Trustworthy Execution](historical/2019/10.md) | Bibliographie historique |
+| 2026-11-27 | [DDM: A Demand-based Dynamic Mitigation for SMT Transient Channels](historical/2019/10.md) | Bibliographie historique |
+| 2026-11-27 | [Reverse Engineering x86 Processor Microcode](historical/2019/10.md) | Bibliographie historique |
+| 2026-11-27 | [Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols](historical/2019/10.md) | Bibliographie historique |
+| 2026-11-27 | [Cloud virtual machine lifecycle security framework based on trusted computing *(date indicative)*](historical/2019/10.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
