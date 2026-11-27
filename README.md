@@ -19,11 +19,11 @@
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-27 | [New Attacks and Defenses for Randomized Caches](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [Freeze and Crypt: Linux kernel support for main memory encryption *(date indicative)*](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [Certified Side Channels](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [Isolating Real-Time Safety-Critical Embedded Systems via SGX-based Lightweight Virtualization](historical/2019/09.md) | Bibliographie historique |
-| 2026-11-27 | [PDoT: Private DNS-over-TLS with TEE Support](historical/2019/09.md) | Bibliographie historique |
+| 2026-11-27 | [TLBlur: Compiler-Assisted Automated Hardening against Controlled Channels on Off-the-Shelf Intel SGX Platforms](historical/2025/08.md) | Bibliographie historique |
+| 2026-11-27 | [SpecLFB: Eliminating Cache Side Channels in Speculative Executions](historical/2024/08.md) | Bibliographie historique |
+| 2026-11-27 | [SCARF – A Low-Latency Block Cipher for Secure Cache-Randomization](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-27 | [A Hardware-Software Co-design for Efficient Intra-Enclave Isolation](historical/2022/08.md) | Bibliographie historique |
+| 2026-11-27 | [ScatterCache: Thwarting Cache Attacks via Cache Set Randomization](historical/2019/08.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
