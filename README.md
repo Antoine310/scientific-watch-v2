@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-28 | [Undertow: An Intra-Kernel Isolation Mechanism for Hardware-Assisted Virtual Machines *(date indicative)*](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [Ensuring Secure Application Execution and Platform-Specific Execution in Embedded Devices](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [Secure Storage Model Based on TrustZone](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [Low-Cost and Secure Firmware Obfuscation Method for Protecting Electronic Systems From Cloning *(date indicative)*](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [IRONHIDE: A Secure Multicore that Efficiently Mitigates Microarchitecture State Attacks for Interactive Applications](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [SMoTherSpectre: exploiting speculative execution through port contention](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-28 | [SPOILER: Speculative Load Hazards Boost Rowhammer and Cache Attacks](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-28 | [On the Spectre and Meltdown Processor Security Vulnerabilities](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-28 | [Restricting Control Flow During Speculative Execution with Venkman](historical/2019/03.md) | Bibliographie historique |
+| 2026-11-28 | [CodeTrolley: Hardware-Assisted Control Flow Obfuscation](historical/2019/03.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
