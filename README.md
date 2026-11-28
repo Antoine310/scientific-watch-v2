@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-28 | [Security Verification via Automatic Hardware-Aware Exploit Synthesis: The CheckMate Approach](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Atlas: Application Confidentiality in Compromised Embedded Systems](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Fallout: Reading Kernel Writes From User Space](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Store-to-Leak Forwarding: Leaking Data on Meltdown-resistant CPUs (Updated and Extended Version)](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [ZombieLoad: Cross-Privilege-Boundary Data Sampling](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [LatticeBox: A Hardware-Software Co-Designed Framework for Scalable and Low-Latency Compartmentalization](historical/2026/02.md) | Bibliographie historique |
+| 2026-11-28 | [NVLeak: Off-Chip Side-Channel Attacks via Non-Volatile Memory Systems](historical/2023/08.md) | Bibliographie historique |
+| 2026-11-28 | [Varys: Protecting SGX Enclaves from Practical Side-Channel Attacks](historical/2018/07.md) | Bibliographie historique |
+| 2026-11-28 | [T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs](historical/2017/02.md) | Bibliographie historique |
+| 2026-11-28 | [SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs *(date indicative)*](historical/2017/02.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
