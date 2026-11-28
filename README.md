@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-28 | [Negative Correlation, Non-linear Filtering, and Discovering of Repetitiveness for Cache Timing Channel Detection](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Leaky Noise: New Side-Channel Attack Vectors in Mixed-Signal IoT Devices](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Static Power SCA of Sub-100 nm CMOS ASICs and the Insecurity of Masking Schemes in Low-Noise Environments](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Exploring the Effect of Device Aging on Static Power Analysis Attacks](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [COTSknight: Practical Defense against Cache Timing Channel Attacks using Cache Monitoring and Partitioning Technologies *(date indicative)*](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [IRONHIDE: A Secure Multicore that Efficiently Mitigates Microarchitecture State Attacks for Interactive Applications](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [RELOAD+REFRESH: Abusing Cache Replacement Policies to Perform Stealthy Cache Attacks](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [Abstract Interpretation under Speculative Execution](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [Detecting time-fragmented cache attacks against AES using Performance Monitoring Counters](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [Surviving Information Leakage Hardware Trojan Attacks Using Hardware Isolation](historical/2019/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
