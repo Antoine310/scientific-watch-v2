@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-28 | [Ensuring Secure Application Execution and Platform-Specific Execution in Embedded Devices](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [Secure Storage Model Based on TrustZone](historical/2019/04.md) | Bibliographie historique |
+| 2026-11-28 | [Low-Cost and Secure Firmware Obfuscation Method for Protecting Electronic Systems From Cloning *(date indicative)*](historical/2019/04.md) | Bibliographie historique |
 | 2026-11-28 | [IRONHIDE: A Secure Multicore that Efficiently Mitigates Microarchitecture State Attacks for Interactive Applications](historical/2019/04.md) | Bibliographie historique |
 | 2026-11-28 | [RELOAD+REFRESH: Abusing Cache Replacement Policies to Perform Stealthy Cache Attacks](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [Abstract Interpretation under Speculative Execution](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [Detecting time-fragmented cache attacks against AES using Performance Monitoring Counters](historical/2019/04.md) | Bibliographie historique |
-| 2026-11-28 | [Surviving Information Leakage Hardware Trojan Attacks Using Hardware Isolation](historical/2019/04.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
