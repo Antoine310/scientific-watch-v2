@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
-| 2026-11-28 | [A Novel Covert Channel Attack Using Memory Encryption Engine Cache](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [Security Analysis of Processor Instruction Set Architecture for Enforcing Control-Flow Integrity](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [SHAKTI-MS: a RISC-V processor for memory safety in C](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [Scaling Intel® Software Guard Extensions Applications with Intel® SGX Card](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [Cracking Randomized Coalescing Techniques with An Efficient Profiling-Based Side-Channel Attack to GPU](historical/2019/06.md) | Bibliographie historique |
+| 2026-11-28 | [Fallout: Reading Kernel Writes From User Space](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Store-to-Leak Forwarding: Leaking Data on Meltdown-resistant CPUs (Updated and Extended Version)](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [ZombieLoad: Cross-Privilege-Boundary Data Sampling](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Identifying Cache-Based Side Channels through Secret-Augmented Abstract Interpretation](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Methodically Defeating Nintendo Switch Security](historical/2019/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
