@@ -21,16 +21,20 @@
 | 2026-11-25 | 91/100 | [IDA: Hybrid Attestation with Support for Interrupts and TOCTOU](https://www.ndss-symposium.org/ndss-paper/ida-hybrid-attestation-with-support-for-interrupts-and-toctou/) | NDSS 2024 | [Fiche](../historical/2024/02.md) |
 | 2026-11-27 | 91/100 | [SCARF – A Low-Latency Block Cipher for Secure Cache-Randomization](https://www.usenix.org/conference/usenixsecurity23/presentation/canale) | USENIX Security 2023 | [Fiche](../historical/2023/08.md) |
 | 2026-11-25 | 90/100 | [On Bridging the Gap between Control Flow Integrity and Attestation Schemes](https://www.usenix.org/conference/usenixsecurity24/presentation/ammar) | USENIX Security 2024 | [Fiche](../historical/2024/08.md) |
+| 2026-11-28 | 90/100 | [Varys: Protecting SGX Enclaves from Practical Side-Channel Attacks](https://www.usenix.org/conference/atc18/presentation/oleksenko) | USENIX ATC 2018 | [Fiche](../historical/2018/07.md) |
+| 2026-11-28 | 88/100 | [LatticeBox: A Hardware-Software Co-Designed Framework for Scalable and Low-Latency Compartmentalization](https://www.ndss-symposium.org/ndss-paper/latticebox-a-hardware-software-co-designed-framework-for-scalable-and-low-latency-compartmentalization/) | NDSS 2026 | [Fiche](../historical/2026/02.md) |
 | 2026-11-25 | 86/100 | [Donky: Domain Keys – Efficient In-Process Isolation for RISC-V and x86](https://www.usenix.org/conference/usenixsecurity20/presentation/schrammel) | USENIX Security 2020 | [Fiche](../historical/2020/08.md) |
 | 2026-11-27 | 84/100 | [TLBlur: Compiler-Assisted Automated Hardening against Controlled Channels on Off-the-Shelf Intel SGX Platforms](https://www.usenix.org/conference/usenixsecurity25/presentation/vanoverloop) | USENIX Security 2025 | [Fiche](../historical/2025/08.md) |
 | 2026-11-25 | 82/100 | [DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems](https://www.ndss-symposium.org/ndss-paper/diat-data-integrity-attestation-for-resilient-collaboration-of-autonomous-systems/) | NDSS 2019 | [Fiche](../historical/2019/02.md) |
 | 2026-11-27 | 80/100 | [A Hardware-Software Co-design for Efficient Intra-Enclave Isolation](https://www.usenix.org/conference/usenixsecurity22/presentation/gu-jinyu) | USENIX Security 2022 | [Fiche](../historical/2022/08.md) |
+| 2026-11-28 | 78/100 | [T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/t-sgx-eradicating-controlled-channel-attacks-against-enclave-programs/) | NDSS 2017 | [Fiche](../historical/2017/02.md) |
+| 2026-11-28 | 76/100 | [NVLeak: Off-Chip Side-Channel Attacks via Non-Volatile Memory Systems](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-zixuan) | USENIX Security 2023 | [Fiche](../historical/2023/08.md) |
 
 ## Articles secondaires (60–74/100)
 
 | Ajout | Score | Publication | Conférence / Revue | Fiche scientifique |
 | --- | ---: | --- | --- | --- |
-| — | — | *Aucune découverte ChatGPT publiée pour le moment.* | — | — |
+| 2026-11-28 | 70/100 | [SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/sgx-shield-enabling-address-space-layout-randomization-sgx-programs/) | NDSS 2017 | [Fiche](../historical/2017/02.md) |
 
 ## Principes de mise à jour
 
