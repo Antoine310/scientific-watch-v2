@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-28 | [Security Analysis of Processor Instruction Set Architecture for Enforcing Control-Flow Integrity](historical/2019/06.md) | Bibliographie historique |
+| 2026-11-28 | [SHAKTI-MS: a RISC-V processor for memory safety in C](historical/2019/06.md) | Bibliographie historique |
+| 2026-11-28 | [Scaling Intel® Software Guard Extensions Applications with Intel® SGX Card](historical/2019/06.md) | Bibliographie historique |
+| 2026-11-28 | [Cracking Randomized Coalescing Techniques with An Efficient Profiling-Based Side-Channel Attack to GPU](historical/2019/06.md) | Bibliographie historique |
 | 2026-11-28 | [Consolidating High-Integrity, High-Performance, and Cyber-Security Functions on a Manycore Processor](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [Formal Verification of Security Critical Hardware-Firmware Interactions in Commercial SoCs](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [In-process Memory Isolation Using Hardware Watchpoint](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [Revisiting the ARM Debug Facility for OS Kernel Security](historical/2019/06.md) | Bibliographie historique |
-| 2026-11-28 | [An Interposer-Based Root of Trust: Seize the Opportunity for Secure System-Level Integration of Untrusted Chiplets](historical/2019/06.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
