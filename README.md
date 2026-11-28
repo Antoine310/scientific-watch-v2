@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-28 | [Negative Correlation, Non-linear Filtering, and Discovering of Repetitiveness for Cache Timing Channel Detection](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Leaky Noise: New Side-Channel Attack Vectors in Mixed-Signal IoT Devices](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Static Power SCA of Sub-100 nm CMOS ASICs and the Insecurity of Masking Schemes in Low-Noise Environments](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Exploring the Effect of Device Aging on Static Power Analysis Attacks](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-28 | [COTSknight: Practical Defense against Cache Timing Channel Attacks using Cache Monitoring and Partitioning Technologies *(date indicative)*](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Hardware security kernel for cyber-defense](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [LatticeBox: A Hardware-Software Co-Designed Framework for Scalable and Low-Latency Compartmentalization](historical/2026/02.md) | Bibliographie historique |
-| 2026-11-28 | [NVLeak: Off-Chip Side-Channel Attacks via Non-Volatile Memory Systems](historical/2023/08.md) | Bibliographie historique |
-| 2026-11-28 | [Varys: Protecting SGX Enclaves from Practical Side-Channel Attacks](historical/2018/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
