@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-28 | [Security Verification via Automatic Hardware-Aware Exploit Synthesis: The CheckMate Approach](historical/2019/05.md) | Bibliographie historique |
+| 2026-11-28 | [Atlas: Application Confidentiality in Compromised Embedded Systems](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-28 | [Fallout: Reading Kernel Writes From User Space](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-28 | [Store-to-Leak Forwarding: Leaking Data on Meltdown-resistant CPUs (Updated and Extended Version)](historical/2019/05.md) | Bibliographie historique |
 | 2026-11-28 | [ZombieLoad: Cross-Privilege-Boundary Data Sampling](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Identifying Cache-Based Side Channels through Secret-Augmented Abstract Interpretation](historical/2019/05.md) | Bibliographie historique |
-| 2026-11-28 | [Methodically Defeating Nintendo Switch Security](historical/2019/05.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
