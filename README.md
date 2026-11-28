@@ -17,11 +17,11 @@ Aucune nouvelle publication identifiable cette semaine.
 
 | Ajout | Publication | Source |
 | --- | --- | --- |
+| 2026-11-28 | [An Interposer-Based Root of Trust: Seize the Opportunity for Secure System-Level Integration of Untrusted Chiplets](historical/2019/06.md) | Bibliographie historique |
 | 2026-11-27 | [Isolating Speculative Data to Prevent Transient Execution Attacks](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Analysis and countermeasures to side-channel attacks: a hardware design perspective](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [Detecting Malicious Attacks Exploiting Hardware Vulnerabilities Using Performance Counters](historical/2019/07.md) | Bibliographie historique |
 | 2026-11-27 | [FinalFilter: Asserting Security Properties of a Processor at Runtime](historical/2019/07.md) | Bibliographie historique |
-| 2026-11-27 | [Toward On-chip Network Security Using Runtime Isolation Mapping](historical/2019/07.md) | Bibliographie historique |
 <!-- SCIENTIFIC-WATCH-DASHBOARD:END -->
 
 ## Rapports hebdomadaires
